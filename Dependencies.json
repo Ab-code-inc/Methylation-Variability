@@ -1,0 +1,122 @@
+{
+  "context": {
+    "R": [
+      "jsonlite",
+      "digest",
+      "xml2",
+      "cluster",
+      "edgeR",
+      "limma",
+      "missMethyl",
+      "BiasedUrn",
+      "data.table",
+      "AnnotationDbi",
+      "org.Hs.eg.db",
+      "GO.db",
+      "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
+      "IlluminaHumanMethylationEPICmanifest"
+    ],
+    "Python": [
+      "Python>=3.10 standard library only"
+    ]
+  },
+  "core": {
+    "R": [
+      "R==4.6.1",
+      "jsonlite=2.0.0",
+      "digest=0.6.39",
+      "data.table=1.18.6.1",
+      "limma=3.68.5",
+      "missMethyl=1.46.0",
+      "DMRcate=3.8.0",
+      "minfi=1.58.0",
+      "edgeR=4.10.5",
+      "statmod=1.5.2",
+      "IlluminaHumanMethylationEPICanno.ilm10b4.hg19=0.6.0",
+      "IlluminaHumanMethylationEPICmanifest=0.3.0",
+      "qvalue=2.44.0",
+      "matrixStats=1.5.0"
+    ],
+    "Python": []
+  },
+  "figures": {
+    "R": [
+      "digest",
+      "ggplot2",
+      "grid",
+      "jsonlite",
+      "patchwork",
+      "ragg",
+      "svglite",
+      "systemfonts"
+    ],
+    "Python": [
+      "matplotlib",
+      "numpy",
+      "pandas"
+    ]
+  },
+  "ml_cells": {
+    "Python": [
+      "anndata",
+      "h5py",
+      "joblib",
+      "numpy",
+      "openpyxl",
+      "pandas",
+      "requests",
+      "scikit-learn",
+      "scipy",
+      "statsmodels",
+      "threadpoolctl",
+      "xgboost"
+    ],
+    "R": [
+      "AnnotationDbi",
+      "Biobase",
+      "EpiSCORE",
+      "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
+      "MASS",
+      "Matrix",
+      "SCDC",
+      "data.table",
+      "digest",
+      "edgeR",
+      "ggplot2",
+      "jsonlite",
+      "limma",
+      "matrixStats",
+      "minfi",
+      "missMethyl",
+      "org.Hs.eg.db",
+      "patchwork",
+      "presto",
+      "qvalue",
+      "rhdf5"
+    ]
+  },
+  "core_extended": {
+    "R": [
+      "limma",
+      "missMethyl",
+      "DMRcate",
+      "minfi",
+      "edgeR",
+      "jsonlite",
+      "digest",
+      "data.table",
+      "matrixStats",
+      "sandwich",
+      "lmtest",
+      "GenomicRanges",
+      "org.Hs.eg.db",
+      "AnnotationDbi",
+      "BiasedUrn",
+      "statmod",
+      "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
+      "IlluminaHumanMethylationEPICmanifest",
+      "ExperimentHub"
+    ],
+    "Python": []
+  }
+}

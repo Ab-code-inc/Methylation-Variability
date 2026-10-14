@@ -1,0 +1,68 @@
+{
+  "schema": "public_reproduction_validation_v1",
+  "status": "PRIMARY_PROCESSED_INPUT_NUMERICAL_VERIFICATION_PASSED_WITH_DECLARED_SCOPE_LIMITS",
+  "distribution_runner_sha256": "f7fe9cd90c462539552b60018e2ec663f49a86b8d8793abe7815bad84c556c00",
+  "fresh_numerical_execution": {
+    "executed_runner_sha256": "a8f6780498152f93411c9c49d7f8bc71d86f380be0b4ff8170a243a9ca16aefa",
+    "stages": [
+      "core.rna_preprocess",
+      "core.S01"
+    ],
+    "execution_exit_code": 0,
+    "primary_numerical_comparisons": 14230256,
+    "primary_failed_comparisons": 0,
+    "RNA_focal_numerical_comparisons": 4212,
+    "RNA_failed_comparisons": 0,
+    "primary_summary_exact_match": true,
+    "RNA_summary_exact_match": true,
+    "distribution_core_assets_checked_against_executed_copy": 17,
+    "distribution_core_asset_identity_failures": 0,
+    "scope": "Fresh counts-to-TMM/voom RNA preprocessing and processed-input primary variability, mean, region and RNA association calculations. The distribution runner received non-core metadata updates after this numerical execution; all 17 embedded core source assets match the executed copy."
+  },
+  "primary_results": {
+    "variability_BH05": 65,
+    "mean_BH05": 70,
+    "regions": 8,
+    "constituents": 64,
+    "eligible_region_RNA": 7,
+    "qualified_primary_region_RNA": 4
+  },
+  "qualified_genes": [
+    "GHDC",
+    "LYPLAL1",
+    "SIM2",
+    "ZNF155"
+  ],
+  "data_archive_integrity": {
+    "archives": 10,
+    "unique_objects": 395,
+    "archive_bytes": 14582784695,
+    "verification": "All ten archive identities and all 395 distributed data-object identities verified. Integrity verification is separate from scientific reproduction."
+  },
+  "public_scope": {
+    "supplied_input_objects_excluded": 3,
+    "supplied_original_scripts_excluded": 4,
+    "optional_supplied_analysis_in_default": false,
+    "optional_supplied_analysis_complete_from_public_archives": false,
+    "fonts_distributed": false
+  },
+  "not_freshly_verified": [
+    "Complete execution of every public analysis stage in one run",
+    "Full machine-learning, external transfer and split-sensitivity model refits",
+    "Raw discovery methylation normalization",
+    "Every external data provider upstream preprocessing workflow",
+    "Optional analysis requiring separately supplied annotated inputs",
+    "Clean installation from the delivered Python and R dependency files",
+    "Windows or Linux execution"
+  ],
+  "scientific_qualifications": [
+    "DiffVar is the primary variability analysis; iEVORA is a sensitivity analysis.",
+    "Original pathway probability-domain failures remain reported.",
+    "Original model interval-check failures remain reported alongside their separate downstream adjudication.",
+    "Single-cell donor-metadata limitations and conservative grouping remain reported.",
+    "EpiSCORE bootstrap failures remain reported.",
+    "Reconstructed original-study q-values and frozen historical literature/genetic association records are declared evidence inputs.",
+    "External disease and single-cell expression results provide context rather than independent gingival replication or proof of a cellular mechanism."
+  ],
+  "interpretation": "A passed input identity check, successful process exit or reproduced numerical table does not certify every model assumption, causal interpretation or clinical application."
+}

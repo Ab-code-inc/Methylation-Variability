@@ -1,0 +1,2243 @@
+{
+  "R": {
+    "Version": "4.6.1",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cloud.r-project.org"
+      },
+      {
+        "Name": "BioCsoft",
+        "URL": "https://bioconductor.org/packages/3.23/bioc"
+      },
+      {
+        "Name": "BioCann",
+        "URL": "https://bioconductor.org/packages/3.23/data/annotation"
+      },
+      {
+        "Name": "BioCexp",
+        "URL": "https://bioconductor.org/packages/3.23/data/experiment"
+      }
+    ]
+  },
+  "Bioconductor": {
+    "Version": "3.23"
+  },
+  "Packages": {
+    "AnnotationDbi": {
+      "Package": "AnnotationDbi",
+      "Version": "1.74.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/AnnotationDbi",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "7a9db8e638eea79d76178320e550956d"
+    },
+    "AnnotationFilter": {
+      "Package": "AnnotationFilter",
+      "Version": "1.36.0",
+      "Source": "Bioconductor",
+      "URL": "https://github.com/Bioconductor/AnnotationFilter",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "73763fceb473917ede2cf8dc6b8efd5a"
+    },
+    "AnnotationHub": {
+      "Package": "AnnotationHub",
+      "Version": "4.2.2",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "b55cf89b2c4eb1c03a656f6e2004ffcf"
+    },
+    "BH": {
+      "Package": "BH",
+      "Version": "1.90.0-1",
+      "Source": "Repository",
+      "License": "BSL-1.0",
+      "URL": "https://github.com/eddelbuettel/bh, https://dirk.eddelbuettel.com/code/bh.html",
+      "Repository": "CRAN",
+      "Hash": "87905902999e70199a81869ef4ccaf82"
+    },
+    "BSgenome": {
+      "Package": "BSgenome",
+      "Version": "1.80.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/BSgenome",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "2c04467ff7acfd5cb48c00e695f1b819"
+    },
+    "BiasedUrn": {
+      "Package": "BiasedUrn",
+      "Version": "2.0.12",
+      "Source": "Repository",
+      "License": "GPL-3",
+      "URL": "https://www.agner.org/random/ https://www.r-project.org/",
+      "Repository": "CRAN",
+      "Hash": "496ed23cc1f5bea7ff369e7403aefd0b"
+    },
+    "Biobase": {
+      "Package": "Biobase",
+      "Version": "2.72.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/Biobase",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "8c327f716e5f8cdf829da4dcea29dce4"
+    },
+    "BiocBaseUtils": {
+      "Package": "BiocBaseUtils",
+      "Version": "1.14.2",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://www.github.com/Bioconductor/BiocBaseUtils",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "62c517f23463c8d1d8a2f892ab820f6f"
+    },
+    "BiocFileCache": {
+      "Package": "BiocFileCache",
+      "Version": "3.2.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "9c10329e23c7278e446658ecfedd464b"
+    },
+    "BiocGenerics": {
+      "Package": "BiocGenerics",
+      "Version": "0.58.1",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/BiocGenerics",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "c8cc87979213121abebdcc49ea58f953"
+    },
+    "BiocIO": {
+      "Package": "BiocIO",
+      "Version": "1.22.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "b28d26cc43a23b514c016678c55aacdc"
+    },
+    "BiocManager": {
+      "Package": "BiocManager",
+      "Version": "1.30.27",
+      "Source": "Repository",
+      "URL": "https://bioconductor.github.io/BiocManager/",
+      "License": "Artistic-2.0",
+      "Repository": "CRAN",
+      "Hash": "594af2c6021b55271b6759d004a25ca2"
+    },
+    "BiocParallel": {
+      "Package": "BiocParallel",
+      "Version": "1.46.0",
+      "Source": "Bioconductor",
+      "URL": "https://github.com/Bioconductor/BiocParallel",
+      "License": "GPL-2 | GPL-3 | BSL-1.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "2a472e4b839c3fb0c8beb603073e41c1"
+    },
+    "BiocVersion": {
+      "Package": "BiocVersion",
+      "Version": "3.23.1",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "0bfb15af1177021f9d73b31d802e43e0"
+    },
+    "Biostrings": {
+      "Package": "Biostrings",
+      "Version": "2.80.2",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/Biostrings",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "47d65601154a144363a15af1c64552a5"
+    },
+    "DBI": {
+      "Package": "DBI",
+      "Version": "1.3.0",
+      "Source": "Repository",
+      "License": "LGPL (>= 2.1)",
+      "URL": "https://dbi.r-dbi.org, https://github.com/r-dbi/DBI",
+      "Repository": "CRAN",
+      "Hash": "dbfa2adb83f8063640982459e153f650"
+    },
+    "DMRcate": {
+      "Package": "DMRcate",
+      "Version": "3.8.0",
+      "Source": "Bioconductor",
+      "License": "file LICENSE",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "ce2a770f9bb869df04db91e8cef57b5e"
+    },
+    "DelayedArray": {
+      "Package": "DelayedArray",
+      "Version": "0.38.2",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/DelayedArray",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "b04c068b7bc07566ca90c3365c6907ed"
+    },
+    "DelayedMatrixStats": {
+      "Package": "DelayedMatrixStats",
+      "Version": "1.34.0",
+      "Source": "Bioconductor",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/PeteHaitch/DelayedMatrixStats",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "eee9b625a88de87714102faf3b73bf78"
+    },
+    "EpiSCORE": {
+      "Package": "EpiSCORE",
+      "Version": "0.9.6",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "aet21",
+      "RemoteRepo": "EpiSCORE",
+      "RemoteRef": "3572ef86814ba2998e33036f756ef7227155d479",
+      "RemoteSha": "3572ef86814ba2998e33036f756ef7227155d479",
+      "License": "GPL-2",
+      "URL": "https://github.com/aet21/EpiSCORE",
+      "Requirements": [
+        "AnnotationDbi",
+        "MASS",
+        "org.Hs.eg.db",
+        "parallel",
+        "presto"
+      ]
+    },
+    "ExperimentHub": {
+      "Package": "ExperimentHub",
+      "Version": "3.2.2",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://github.com/Bioconductor/ExperimentHub",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "5e58ff653dd3a1ab52fbd30a4842da3b"
+    },
+    "FDb.InfiniumMethylation.hg19": {
+      "Package": "FDb.InfiniumMethylation.hg19",
+      "Version": "2.2.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Hash": "a11e10510f7fce066f863a98501d1332"
+    },
+    "Formula": {
+      "Package": "Formula",
+      "Version": "1.2-6",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "URL": "https://zeileis.codeberg.page/Formula/",
+      "Repository": "CRAN",
+      "Hash": "a2fceb52bfbc3be9df984e98755f9ae1"
+    },
+    "GEOquery": {
+      "Package": "GEOquery",
+      "Version": "2.80.0",
+      "Source": "Bioconductor",
+      "URL": "https://github.com/seandavi/GEOquery, http://seandavi.github.io/GEOquery, http://seandavi.github.io/GEOquery/",
+      "License": "MIT + file LICENSE",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "f7de68ddf8623530d24c0f84583869ea"
+    },
+    "GO.db": {
+      "Package": "GO.db",
+      "Version": "3.23.1",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Hash": "a82e358406beeaf358d24337c4f9cd80"
+    },
+    "GenomeInfoDb": {
+      "Package": "GenomeInfoDb",
+      "Version": "1.48.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/GenomeInfoDb",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "f463845e86bc11ab97f273a63017c364"
+    },
+    "GenomicAlignments": {
+      "Package": "GenomicAlignments",
+      "Version": "1.48.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/GenomicAlignments",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "2e01f1812b2023ba99c4cc3602450ca8"
+    },
+    "GenomicFeatures": {
+      "Package": "GenomicFeatures",
+      "Version": "1.64.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/GenomicFeatures",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "0c0e448f1d738dc4862dcb2a860f03c1"
+    },
+    "GenomicRanges": {
+      "Package": "GenomicRanges",
+      "Version": "1.64.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/GenomicRanges",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "52ed35c988b0195d482a662010aa2c4b"
+    },
+    "Gviz": {
+      "Package": "Gviz",
+      "Version": "1.56.0",
+      "Source": "Bioconductor",
+      "URL": "https://github.com/ivanek/Gviz",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "ebdfce490a8558e423643ae5b9cdf315"
+    },
+    "HDF5Array": {
+      "Package": "HDF5Array",
+      "Version": "1.40.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/HDF5Array",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "6c0d2245de07f67cd59f53eaf07b5f86"
+    },
+    "Hmisc": {
+      "Package": "Hmisc",
+      "Version": "5.3-0",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "URL": "https://hbiostat.org/R/Hmisc/",
+      "Repository": "CRAN",
+      "Hash": "f3fdfee5b4f9cd35a8da2f89942efe8b"
+    },
+    "IRanges": {
+      "Package": "IRanges",
+      "Version": "2.46.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/IRanges",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "1736aba9d71311cb19c606b54a41b191"
+    },
+    "IlluminaHumanMethylation450kanno.ilmn12.hg19": {
+      "Package": "IlluminaHumanMethylation450kanno.ilmn12.hg19",
+      "Version": "0.6.1",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Hash": "9686e5492cdd71e507dd716414522582"
+    },
+    "IlluminaHumanMethylation450kmanifest": {
+      "Package": "IlluminaHumanMethylation450kmanifest",
+      "Version": "0.4.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Hash": "d282a10d009cb7c04e02073576b1f665"
+    },
+    "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": {
+      "Package": "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
+      "Version": "0.6.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://bitbucket.com/kasperdanielhansen/Illumina_EPIC",
+      "Hash": "ec220e7a0e01f7167413bb91690e006a"
+    },
+    "IlluminaHumanMethylationEPICmanifest": {
+      "Package": "IlluminaHumanMethylationEPICmanifest",
+      "Version": "0.3.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://bitbucket.com/kasperdanielhansen/Illumina_EPIC",
+      "Hash": "ce8b29912b1b14c04f4381d38b22b161"
+    },
+    "IlluminaHumanMethylationEPICv2anno.20a1.hg38": {
+      "Package": "IlluminaHumanMethylationEPICv2anno.20a1.hg38",
+      "Version": "1.0.1",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://www.illumina.com/products/by-type/microarray-kits/infinium-methylation-epic.html",
+      "Hash": "c54ebadf2b5ef39b3dd58626200e5aac"
+    },
+    "IlluminaHumanMethylationEPICv2manifest": {
+      "Package": "IlluminaHumanMethylationEPICv2manifest",
+      "Version": "1.0.1",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://www.illumina.com/products/by-type/microarray-kits/infinium-methylation-epic.html",
+      "Hash": "c177918ecf69bec677f3eff8baa49dfd"
+    },
+    "KEGGREST": {
+      "Package": "KEGGREST",
+      "Version": "1.52.2",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/KEGGREST",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "446755c709985fbf699ec45c16c0011b"
+    },
+    "L1pack": {
+      "Package": "L1pack",
+      "Version": "0.62-4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "License": "GPL-3",
+      "URL": "https://github.com/faosorios/L1pack",
+      "Requirements": [
+        "fastmatrix",
+        "grDevices",
+        "graphics",
+        "stats"
+      ]
+    },
+    "MASS": {
+      "Package": "MASS",
+      "Version": "7.3-65",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "URL": "http://www.stats.ox.ac.uk/pub/MASS4/",
+      "Repository": "CRAN",
+      "Hash": "a41d0fc833ea756a1136b60a437efe26"
+    },
+    "Matrix": {
+      "Package": "Matrix",
+      "Version": "1.7-5",
+      "Source": "Repository",
+      "License": "GPL (>= 2) | file LICENCE",
+      "URL": "https://Matrix.R-forge.R-project.org",
+      "Repository": "CRAN",
+      "Hash": "618b5c2d90180b15b4dc02f9a96b2631"
+    },
+    "MatrixGenerics": {
+      "Package": "MatrixGenerics",
+      "Version": "1.24.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/MatrixGenerics",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "1031a79756e732bb2be9d569c38d219b"
+    },
+    "ProtGenerics": {
+      "Package": "ProtGenerics",
+      "Version": "1.44.0",
+      "Source": "Bioconductor",
+      "URL": "https://github.com/RforMassSpectrometry/ProtGenerics",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "39920d5df20db57729d708bad3805dec"
+    },
+    "R.methodsS3": {
+      "Package": "R.methodsS3",
+      "Version": "1.8.2",
+      "Source": "Repository",
+      "License": "LGPL (>= 2.1)",
+      "URL": "https://github.com/HenrikBengtsson/R.methodsS3",
+      "Repository": "CRAN",
+      "Hash": "278c286fd6e9e75d0c2e8f731ea445c8"
+    },
+    "R.oo": {
+      "Package": "R.oo",
+      "Version": "1.27.1",
+      "Source": "Repository",
+      "License": "LGPL (>= 2.1)",
+      "URL": "https://henrikbengtsson.github.io/R.oo/, https://github.com/HenrikBengtsson/R.oo",
+      "Repository": "CRAN",
+      "Hash": "a94afc14a90a68dd5043ceb9c089853b"
+    },
+    "R.utils": {
+      "Package": "R.utils",
+      "Version": "2.13.0",
+      "Source": "Repository",
+      "License": "LGPL (>= 2.1)",
+      "URL": "https://henrikbengtsson.github.io/R.utils/, https://github.com/HenrikBengtsson/R.utils",
+      "Repository": "CRAN",
+      "Hash": "d32373d88da809f8974d5307481862b0"
+    },
+    "R6": {
+      "Package": "R6",
+      "Version": "2.6.1",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://r6.r-lib.org, https://github.com/r-lib/R6",
+      "Repository": "CRAN",
+      "Hash": "d4335fe7207f1c01ab8c41762f5840d4"
+    },
+    "RColorBrewer": {
+      "Package": "RColorBrewer",
+      "Version": "1.1-3",
+      "Source": "Repository",
+      "License": "Apache License 2.0",
+      "Repository": "CRAN",
+      "Hash": "45f0398006e83a5b10b72a90663d8d8c"
+    },
+    "RCurl": {
+      "Package": "RCurl",
+      "Version": "1.98-1.20",
+      "Source": "Repository",
+      "License": "BSD_3_clause + file LICENSE",
+      "Repository": "CRAN",
+      "Hash": "d4dddff40aa1a9b467a583cffdffeb41"
+    },
+    "RSQLite": {
+      "Package": "RSQLite",
+      "Version": "3.53.3",
+      "Source": "Repository",
+      "License": "LGPL (>= 2.1)",
+      "URL": "https://rsqlite.r-dbi.org, https://github.com/r-dbi/RSQLite",
+      "Repository": "CRAN",
+      "Hash": "f252254bcfd13666b673cd465c8711ad"
+    },
+    "Rcpp": {
+      "Package": "Rcpp",
+      "Version": "1.1.2",
+      "Source": "Repository",
+      "URL": "https://www.rcpp.org, https://dirk.eddelbuettel.com/code/rcpp.html, https://github.com/RcppCore/Rcpp",
+      "License": "GPL (>= 2)",
+      "Repository": "CRAN",
+      "Hash": "f481f89daa906a34eab8ef8658c8a89c"
+    },
+    "RcppArmadillo": {
+      "Package": "RcppArmadillo",
+      "Version": "15.6.0-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "License": "GPL (>= 2)",
+      "URL": "https://github.com/RcppCore/RcppArmadillo, https://dirk.eddelbuettel.com/code/rcpp.armadillo.html",
+      "Requirements": [
+        "Rcpp",
+        "methods",
+        "stats",
+        "utils"
+      ]
+    },
+    "RcppEigen": {
+      "Package": "RcppEigen",
+      "Version": "0.3.4.0.2",
+      "Source": "Repository",
+      "License": "GPL (>= 2) | file LICENSE",
+      "URL": "https://github.com/RcppCore/RcppEigen, https://dirk.eddelbuettel.com/code/rcpp.eigen.html",
+      "Repository": "CRAN",
+      "Hash": "4ac8e423216b8b70cb9653d1b3f71eb9"
+    },
+    "Rhdf5lib": {
+      "Package": "Rhdf5lib",
+      "Version": "2.0.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://github.com/Huber-group-EMBL/Rhdf5lib",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "b0512d156ed273ca8ae8343f2ca04efc"
+    },
+    "Rhtslib": {
+      "Package": "Rhtslib",
+      "Version": "3.8.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/Rhtslib, http://www.htslib.org/",
+      "License": "LGPL (>= 2)",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "09a2cc6165ce41c59bebf53258642036"
+    },
+    "Rsamtools": {
+      "Package": "Rsamtools",
+      "Version": "2.28.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/Rsamtools",
+      "License": "Artistic-2.0 | file LICENSE",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "c03c9955112a7b9dd97df1f72788895c"
+    },
+    "S4Arrays": {
+      "Package": "S4Arrays",
+      "Version": "1.12.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/S4Arrays",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "58d1b3ef6d6b5556b6e8be9820aff407"
+    },
+    "S4Vectors": {
+      "Package": "S4Vectors",
+      "Version": "0.50.3",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/S4Vectors",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "edbd69f73cd64cda40167fa0425f347a"
+    },
+    "S7": {
+      "Package": "S7",
+      "Version": "0.2.2",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://rconsortium.github.io/S7/, https://github.com/RConsortium/S7",
+      "Repository": "CRAN",
+      "Hash": "6a72e94a8c9be4ef719af3aa3628f2dc"
+    },
+    "SCDC": {
+      "Package": "SCDC",
+      "Version": "0.0.0.9000",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "meichendong",
+      "RemoteRepo": "SCDC",
+      "RemoteRef": "7a49c765b77759ff204f7afaa4dbff1436355407",
+      "RemoteSha": "7a49c765b77759ff204f7afaa4dbff1436355407",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/meichendong/SCDC",
+      "Requirements": [
+        "Biobase",
+        "L1pack",
+        "Rcpp",
+        "cowplot",
+        "ggplot2",
+        "nnls",
+        "pheatmap",
+        "reshape",
+        "xbioc"
+      ]
+    },
+    "Seqinfo": {
+      "Package": "Seqinfo",
+      "Version": "1.2.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/Seqinfo",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "797718f3bca5cbda7367a926c10960af"
+    },
+    "SparseArray": {
+      "Package": "SparseArray",
+      "Version": "1.12.2",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/SparseArray",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "a2739592f8b1784dfc753963891f5b3b"
+    },
+    "SummarizedExperiment": {
+      "Package": "SummarizedExperiment",
+      "Version": "1.42.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/SummarizedExperiment",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "5db337c34729bd920128a1e2ae03ab13"
+    },
+    "TxDb.Hsapiens.UCSC.hg19.knownGene": {
+      "Package": "TxDb.Hsapiens.UCSC.hg19.knownGene",
+      "Version": "3.22.1",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Hash": "095d9c3a46fd5bf8a054ed218dcf85a8"
+    },
+    "UCSC.utils": {
+      "Package": "UCSC.utils",
+      "Version": "1.8.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/UCSC.utils",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "efff2d38bd7d75423abde871fe77cfee"
+    },
+    "VariantAnnotation": {
+      "Package": "VariantAnnotation",
+      "Version": "1.58.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "bcb88b7d073059770d24a93e9c9177b4"
+    },
+    "XML": {
+      "Package": "XML",
+      "Version": "3.99-0.24",
+      "Source": "Repository",
+      "License": "BSD_3_clause + file LICENSE",
+      "Repository": "CRAN",
+      "Hash": "9eb750b892936e384a987bd8a35eaed5"
+    },
+    "XVector": {
+      "Package": "XVector",
+      "Version": "0.52.0",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/XVector",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "ca8a1e080e9b2221d169969ae84d7d4c"
+    },
+    "abind": {
+      "Package": "abind",
+      "Version": "1.4-8",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "Repository": "CRAN",
+      "Hash": "2288423bb0f20a457800d7fc47f6aa54"
+    },
+    "annotate": {
+      "Package": "annotate",
+      "Version": "1.90.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "2b5a397f200df4d41b0c0c77c6a77761"
+    },
+    "askpass": {
+      "Package": "askpass",
+      "Version": "1.2.1",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://r-lib.r-universe.dev/askpass",
+      "Repository": "CRAN",
+      "Hash": "c39f4155b3ceb1a9a2799d700fbd4b6a"
+    },
+    "assertthat": {
+      "Package": "assertthat",
+      "Version": "0.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "License": "GPL-3",
+      "Requirements": [
+        "tools"
+      ]
+    },
+    "assorthead": {
+      "Package": "assorthead",
+      "Version": "1.6.3",
+      "Source": "Bioconductor",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/LTLA/assorthead",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "8393eddd5331adca9067a3a79c56cd7d"
+    },
+    "backports": {
+      "Package": "backports",
+      "Version": "1.5.1",
+      "Source": "Repository",
+      "URL": "https://github.com/r-lib/backports",
+      "License": "GPL-2 | GPL-3",
+      "Repository": "CRAN",
+      "Hash": "e3e65442a2749b59692220f368f46c46"
+    },
+    "base64": {
+      "Package": "base64",
+      "Version": "2.0.2",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "Repository": "CRAN",
+      "Hash": "b20ddb2be98d131cadbc9297e85123b0"
+    },
+    "base64enc": {
+      "Package": "base64enc",
+      "Version": "0.1-6",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "URL": "https://www.rforge.net/base64enc",
+      "Repository": "CRAN",
+      "Hash": "5edb675b7baa6e9a0d86dd2c28de1676"
+    },
+    "beachmat": {
+      "Package": "beachmat",
+      "Version": "2.28.0",
+      "Source": "Bioconductor",
+      "License": "GPL-3",
+      "URL": "https://github.com/tatami-inc/beachmat",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "b739ce15e182a314cf8dd85184926ba6"
+    },
+    "beanplot": {
+      "Package": "beanplot",
+      "Version": "1.3.1",
+      "Source": "Repository",
+      "License": "GPL-2",
+      "Repository": "CRAN",
+      "Hash": "241a4a9cbb625b6aae8f1bd871d11464"
+    },
+    "biocmake": {
+      "Package": "biocmake",
+      "Version": "1.4.0",
+      "Source": "Bioconductor",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/LTLA/biocmake",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "07df8917f5e1e6dc2e9ec06e76ad9efd"
+    },
+    "biomaRt": {
+      "Package": "biomaRt",
+      "Version": "2.68.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://github.com/Huber-group-EMBL/biomaRt, https://huber-group-embl.github.io/biomaRt/",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "5ab2e21a6a285d9449774a828a32fa1f"
+    },
+    "biovizBase": {
+      "Package": "biovizBase",
+      "Version": "1.60.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "74e8c6e7968db6373f3b19dcbb801d4a"
+    },
+    "bit": {
+      "Package": "bit",
+      "Version": "4.6.0",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "URL": "https://github.com/r-lib/bit",
+      "Repository": "CRAN",
+      "Hash": "ebe86ffd194564abdc895d87742d5a29"
+    },
+    "bit64": {
+      "Package": "bit64",
+      "Version": "4.8.6",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "URL": "https://github.com/r-lib/bit64, https://bit64.r-lib.org",
+      "Repository": "CRAN",
+      "Hash": "36ab281fe85b6294eb3d9f220880383c"
+    },
+    "bitops": {
+      "Package": "bitops",
+      "Version": "1.1-0",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "URL": "https://github.com/mmaechler/R-bitops",
+      "Repository": "CRAN",
+      "Hash": "baf391dcfdfee22a934bdc688a4c0adf"
+    },
+    "blob": {
+      "Package": "blob",
+      "Version": "1.3.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://blob.tidyverse.org, https://github.com/tidyverse/blob",
+      "Repository": "CRAN",
+      "Hash": "1e0ae40898be928695fd90a80e816253"
+    },
+    "bslib": {
+      "Package": "bslib",
+      "Version": "0.12.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://rstudio.github.io/bslib/, https://github.com/rstudio/bslib",
+      "Repository": "CRAN",
+      "Hash": "b2d0b0a17142ed4858f252d88eb56223"
+    },
+    "bsseq": {
+      "Package": "bsseq",
+      "Version": "1.48.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://github.com/kasperdanielhansen/bsseq",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "46a50c9b7619f1c291354452f4afc2fe"
+    },
+    "bumphunter": {
+      "Package": "bumphunter",
+      "Version": "1.54.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://github.com/rafalab/bumphunter",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "69fa0ba5a898da25afa6750f14086254"
+    },
+    "cachem": {
+      "Package": "cachem",
+      "Version": "1.1.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://cachem.r-lib.org/, https://github.com/r-lib/cachem",
+      "Repository": "CRAN",
+      "Hash": "cd9a672193789068eb5a2aad65a0dedf"
+    },
+    "checkmate": {
+      "Package": "checkmate",
+      "Version": "2.3.4",
+      "Source": "Repository",
+      "URL": "https://mllg.github.io/checkmate/, https://github.com/mllg/checkmate",
+      "License": "BSD_3_clause + file LICENSE",
+      "Repository": "CRAN",
+      "Hash": "86cbe221fc19b56242f6c3eb0d4c5ab5"
+    },
+    "cigarillo": {
+      "Package": "cigarillo",
+      "Version": "1.2.1",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/cigarillo",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "bfb09c818eb512c3a79470f54e1607ad"
+    },
+    "cli": {
+      "Package": "cli",
+      "Version": "3.6.6",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://cli.r-lib.org, https://github.com/r-lib/cli",
+      "Repository": "CRAN",
+      "Hash": "a73d822b669d443ff8de6928f9c49850"
+    },
+    "clipr": {
+      "Package": "clipr",
+      "Version": "0.8.1",
+      "Source": "Repository",
+      "License": "GPL-3",
+      "URL": "https://github.com/mdlincoln/clipr, http://matthewlincoln.net/clipr/",
+      "Repository": "CRAN",
+      "Hash": "cc6e507cf89f11ffc44b32519e0198da"
+    },
+    "cluster": {
+      "Package": "cluster",
+      "Version": "2.1.8.2",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "URL": "https://svn.r-project.org/R-packages/trunk/cluster/",
+      "Repository": "CRAN",
+      "Hash": "1482831bf9efe2ae01b37d9145d708b8"
+    },
+    "codetools": {
+      "Package": "codetools",
+      "Version": "0.2-20",
+      "Source": "Repository",
+      "URL": "https://gitlab.com/luke-tierney/codetools",
+      "License": "GPL",
+      "Repository": "CRAN",
+      "Hash": "61e097f35917d342622f21cdc79c256e"
+    },
+    "colorspace": {
+      "Package": "colorspace",
+      "Version": "2.1-3",
+      "Source": "Repository",
+      "License": "BSD_3_clause + file LICENSE",
+      "URL": "https://colorspace.R-Forge.R-project.org/, https://hclwizard.org/",
+      "Repository": "CRAN",
+      "Hash": "acb51c45a64447d9deb5e4d5c9e0de9e"
+    },
+    "cowplot": {
+      "Package": "cowplot",
+      "Version": "1.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "License": "GPL-2",
+      "URL": "https://wilkelab.org/cowplot/",
+      "Requirements": [
+        "ggplot2",
+        "grDevices",
+        "grid",
+        "gtable",
+        "methods",
+        "rlang",
+        "scales"
+      ]
+    },
+    "cpp11": {
+      "Package": "cpp11",
+      "Version": "0.5.5",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://cpp11.r-lib.org, https://github.com/r-lib/cpp11",
+      "Repository": "CRAN",
+      "Hash": "20ecb9105a3fb48a8390919abc3b7e90"
+    },
+    "crayon": {
+      "Package": "crayon",
+      "Version": "1.5.3",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://r-lib.github.io/crayon/, https://github.com/r-lib/crayon",
+      "Repository": "CRAN",
+      "Hash": "859d96e65ef198fd43e82b9628d593ef"
+    },
+    "curl": {
+      "Package": "curl",
+      "Version": "8.0.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://jeroen.r-universe.dev/curl",
+      "Repository": "CRAN",
+      "Hash": "6b0b58d319e1cfbc7565adef80027f9f"
+    },
+    "data.table": {
+      "Package": "data.table",
+      "Version": "1.18.6.1",
+      "Source": "Repository",
+      "License": "MPL-2.0 | file LICENSE",
+      "URL": "https://r-datatable.com, https://Rdatatable.gitlab.io/data.table, https://github.com/Rdatatable/data.table",
+      "Repository": "CRAN",
+      "Hash": "c0ce0fcc27807c5a19d135914fdc0359"
+    },
+    "dbplyr": {
+      "Package": "dbplyr",
+      "Version": "2.6.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://dbplyr.tidyverse.org/, https://github.com/tidyverse/dbplyr",
+      "Repository": "CRAN",
+      "Hash": "ddbed6865865c509ea0b516faf83042b"
+    },
+    "deldir": {
+      "Package": "deldir",
+      "Version": "2.0-4",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "Repository": "CRAN",
+      "Hash": "24754fce82729ff85317dd195b6646a8"
+    },
+    "dichromat": {
+      "Package": "dichromat",
+      "Version": "2.0-1",
+      "Source": "Repository",
+      "License": "GPL-2",
+      "URL": "https://zeileis.codeberg.page/dichromat/",
+      "Repository": "CRAN",
+      "Hash": "17a5b07749a1d7b46f9b7e6a1a21e381"
+    },
+    "digest": {
+      "Package": "digest",
+      "Version": "0.6.39",
+      "Source": "Repository",
+      "URL": "https://github.com/eddelbuettel/digest, https://eddelbuettel.github.io/digest/, https://dirk.eddelbuettel.com/code/digest.html",
+      "License": "GPL (>= 2)",
+      "Repository": "CRAN",
+      "Hash": "d18028e978a88b2b16ef8d400cb49adf"
+    },
+    "dir.expiry": {
+      "Package": "dir.expiry",
+      "Version": "1.20.0",
+      "Source": "Bioconductor",
+      "License": "GPL-3",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "932f8feee0d2dd48c94059f3a21ab993"
+    },
+    "doRNG": {
+      "Package": "doRNG",
+      "Version": "1.8.6.3",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "URL": "https://github.com/emilioluissaenzguillen/doRNG",
+      "Repository": "CRAN",
+      "Hash": "fb83ce533564d7e965ac2667b2204a30"
+    },
+    "dplyr": {
+      "Package": "dplyr",
+      "Version": "1.2.1",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://dplyr.tidyverse.org, https://github.com/tidyverse/dplyr",
+      "Repository": "CRAN",
+      "Hash": "d71f190466b9496cf8543c76641be5cf"
+    },
+    "edgeR": {
+      "Package": "edgeR",
+      "Version": "4.10.5",
+      "Source": "Bioconductor",
+      "License": "GPL (>=2)",
+      "URL": "https://bioinf.wehi.edu.au/edgeR/, https://bioconductor.org/packages/edgeR",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "ff5c771a766a436f12b5124677eb12b2"
+    },
+    "ensembldb": {
+      "Package": "ensembldb",
+      "Version": "2.36.1",
+      "Source": "Bioconductor",
+      "URL": "https://github.com/jorainer/ensembldb",
+      "License": "LGPL",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "0106f35f5d9e5af2d524db2ac4dad733"
+    },
+    "evaluate": {
+      "Package": "evaluate",
+      "Version": "1.0.5",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://evaluate.r-lib.org/, https://github.com/r-lib/evaluate",
+      "Repository": "CRAN",
+      "Hash": "94cf2c54237f6841cee68e3ba4ab5a14"
+    },
+    "farver": {
+      "Package": "farver",
+      "Version": "2.1.2",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://farver.data-imaginist.com, https://github.com/thomasp85/farver",
+      "Repository": "CRAN",
+      "Hash": "680887028577f3fa2a81e410ed0d6e42"
+    },
+    "fastmap": {
+      "Package": "fastmap",
+      "Version": "1.2.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://r-lib.github.io/fastmap/, https://github.com/r-lib/fastmap",
+      "Repository": "CRAN",
+      "Hash": "aa5e1cd11c2d15497494c5292d7ffcc8"
+    },
+    "fastmatrix": {
+      "Package": "fastmatrix",
+      "Version": "0.6-6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "License": "GPL-3",
+      "URL": "https://github.com/faosorios/fastmatrix",
+      "Requirements": []
+    },
+    "filelock": {
+      "Package": "filelock",
+      "Version": "1.0.3",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://r-lib.github.io/filelock/, https://github.com/r-lib/filelock",
+      "Repository": "CRAN",
+      "Hash": "192053c276525c8495ccfd523aa8f2d1"
+    },
+    "fontawesome": {
+      "Package": "fontawesome",
+      "Version": "0.5.3",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/rstudio/fontawesome, https://rstudio.github.io/fontawesome/",
+      "Repository": "CRAN",
+      "Hash": "bd1297f9b5b1fc1372d19e2c4cd82215"
+    },
+    "foreach": {
+      "Package": "foreach",
+      "Version": "1.5.2",
+      "Source": "Repository",
+      "License": "Apache License (== 2.0)",
+      "URL": "https://github.com/RevolutionAnalytics/foreach",
+      "Repository": "CRAN",
+      "Hash": "618609b42c9406731ead03adf5379850"
+    },
+    "foreign": {
+      "Package": "foreign",
+      "Version": "0.8-91",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "URL": "https://svn.r-project.org/R-packages/trunk/foreign/",
+      "Repository": "CRAN",
+      "Hash": "562817f5340990d955a0ab0fc7a1389d"
+    },
+    "formatR": {
+      "Package": "formatR",
+      "Version": "1.14",
+      "Source": "Repository",
+      "License": "GPL",
+      "URL": "https://github.com/yihui/formatR",
+      "Repository": "CRAN",
+      "Hash": "63cb26d12517c7863f5abb006c5e0f25"
+    },
+    "fs": {
+      "Package": "fs",
+      "Version": "2.1.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://fs.r-lib.org, https://github.com/r-lib/fs",
+      "Repository": "CRAN",
+      "Hash": "09278623bca442bc53b0940ffa2f6d87"
+    },
+    "futile.logger": {
+      "Package": "futile.logger",
+      "Version": "1.4.9",
+      "Source": "Repository",
+      "License": "LGPL-3",
+      "URL": "https://github.com/zatonovo/futile.logger",
+      "Repository": "CRAN",
+      "Hash": "8b2913e7dce4da969b1c1c93075d7046"
+    },
+    "futile.options": {
+      "Package": "futile.options",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "License": "LGPL-3",
+      "Repository": "CRAN",
+      "Hash": "0d9bf02413ddc2bbe8da9ce369dcdd2b"
+    },
+    "genefilter": {
+      "Package": "genefilter",
+      "Version": "1.94.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "7a6086695d42e28c5fd57da390a89e6d"
+    },
+    "generics": {
+      "Package": "generics",
+      "Version": "0.1.4",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://generics.r-lib.org, https://github.com/r-lib/generics",
+      "Repository": "CRAN",
+      "Hash": "4b29bf698d0c7bdb9f1e4976e7ade41d"
+    },
+    "ggplot2": {
+      "Package": "ggplot2",
+      "Version": "4.0.3",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://ggplot2.tidyverse.org, https://github.com/tidyverse/ggplot2",
+      "Repository": "CRAN",
+      "Hash": "98520fe6b2745c466dca8e46aaa86242"
+    },
+    "glue": {
+      "Package": "glue",
+      "Version": "1.8.1",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://glue.tidyverse.org/, https://github.com/tidyverse/glue",
+      "Repository": "CRAN",
+      "Hash": "f8122473e9a49e00d0642f78235ca5e3"
+    },
+    "gridExtra": {
+      "Package": "gridExtra",
+      "Version": "2.3.1",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "Repository": "CRAN",
+      "Hash": "4e172eb9a8e2e01e0494ea230b73f068"
+    },
+    "gtable": {
+      "Package": "gtable",
+      "Version": "0.3.6",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://gtable.r-lib.org, https://github.com/r-lib/gtable",
+      "Repository": "CRAN",
+      "Hash": "de949855009e2d4d0e52a844e30617ae"
+    },
+    "gtools": {
+      "Package": "gtools",
+      "Version": "3.9.5",
+      "Source": "Repository",
+      "License": "GPL-2",
+      "URL": "https://github.com/r-gregmisc/gtools",
+      "Repository": "CRAN",
+      "Hash": "588d091c35389f1f4a9d533c8d709b35"
+    },
+    "h5mread": {
+      "Package": "h5mread",
+      "Version": "1.4.1",
+      "Source": "Bioconductor",
+      "URL": "https://bioconductor.org/packages/h5mread",
+      "License": "Artistic-2.0",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "94d41855b9f4b38a67f98ae1aaa9d79b"
+    },
+    "highr": {
+      "Package": "highr",
+      "Version": "0.12",
+      "Source": "Repository",
+      "License": "GPL",
+      "URL": "https://github.com/yihui/highr",
+      "Repository": "CRAN",
+      "Hash": "2a2f862ade01a56dcbcd60944de11255"
+    },
+    "hms": {
+      "Package": "hms",
+      "Version": "1.1.4",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://hms.tidyverse.org/, https://github.com/tidyverse/hms",
+      "Repository": "CRAN",
+      "Hash": "2799ac720626cec589478b191e48b88b"
+    },
+    "htmlTable": {
+      "Package": "htmlTable",
+      "Version": "2.5.0",
+      "Source": "Repository",
+      "License": "GPL (>= 3)",
+      "URL": "https://gforge.se/packages/",
+      "Repository": "CRAN",
+      "Hash": "5cfe71c7cec41d4843ba54ac7c8b9355"
+    },
+    "htmltools": {
+      "Package": "htmltools",
+      "Version": "0.5.9",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "URL": "https://github.com/rstudio/htmltools, https://rstudio.github.io/htmltools/",
+      "Repository": "CRAN",
+      "Hash": "102298e238c14eb830cc4b5edd23c3e8"
+    },
+    "htmlwidgets": {
+      "Package": "htmlwidgets",
+      "Version": "1.6.4",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/ramnathv/htmlwidgets",
+      "Repository": "CRAN",
+      "Hash": "04291cc45198225444a397606810ac37"
+    },
+    "httr": {
+      "Package": "httr",
+      "Version": "1.4.9",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://httr.r-lib.org/, https://github.com/r-lib/httr",
+      "Repository": "CRAN",
+      "Hash": "bc0b2d531d78701c4cd1221adbf052ce"
+    },
+    "httr2": {
+      "Package": "httr2",
+      "Version": "1.3.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://httr2.r-lib.org, https://github.com/r-lib/httr2",
+      "Repository": "CRAN",
+      "Hash": "f4d796ba71b073f7bc95da858caded00"
+    },
+    "illuminaio": {
+      "Package": "illuminaio",
+      "Version": "0.54.0",
+      "Source": "Bioconductor",
+      "License": "GPL-2",
+      "URL": "https://github.com/HenrikBengtsson/illuminaio",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "a6d7031a299e7409bd35bc9efd83df2e"
+    },
+    "interp": {
+      "Package": "interp",
+      "Version": "1.1-6",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "Repository": "CRAN",
+      "Hash": "824328a500468b76e61402b2cb3033df"
+    },
+    "isoband": {
+      "Package": "isoband",
+      "Version": "0.3.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://isoband.r-lib.org, https://github.com/r-lib/isoband",
+      "Repository": "CRAN",
+      "Hash": "0f9a864bbd7ce0232ad05cb76249cc1a"
+    },
+    "iterators": {
+      "Package": "iterators",
+      "Version": "1.0.14",
+      "Source": "Repository",
+      "URL": "https://github.com/RevolutionAnalytics/iterators",
+      "License": "Apache License (== 2.0)",
+      "Repository": "CRAN",
+      "Hash": "8954069286b4b2b0d023d1b288dce978"
+    },
+    "jpeg": {
+      "Package": "jpeg",
+      "Version": "0.1-11",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "URL": "https://www.rforge.net/jpeg/",
+      "Repository": "CRAN",
+      "Hash": "c23ab23c370d1ce3a7a80d8c0bdfa105"
+    },
+    "jquerylib": {
+      "Package": "jquerylib",
+      "Version": "0.1.4",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "Repository": "CRAN",
+      "Hash": "5aab57a3bd297eee1c1d862735972182"
+    },
+    "jsonlite": {
+      "Package": "jsonlite",
+      "Version": "2.0.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://jeroen.r-universe.dev/jsonlite https://arxiv.org/abs/1403.2805",
+      "Repository": "CRAN",
+      "Hash": "b0776f526d36d8bd4a3344a88fe165c4"
+    },
+    "knitr": {
+      "Package": "knitr",
+      "Version": "1.52",
+      "Source": "Repository",
+      "License": "GPL",
+      "URL": "https://yihui.org/knitr/",
+      "Repository": "CRAN",
+      "Hash": "4d63263f549e7fc46135cf1f9916c97f"
+    },
+    "labeling": {
+      "Package": "labeling",
+      "Version": "0.4.3",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE | Unlimited",
+      "Repository": "CRAN",
+      "Hash": "b64ec208ac5bc1852b285f665d6368b3"
+    },
+    "lambda.r": {
+      "Package": "lambda.r",
+      "Version": "1.2.4",
+      "Source": "Repository",
+      "License": "LGPL-3",
+      "Repository": "CRAN",
+      "Hash": "b1e925c4b9ffeb901bacf812cbe9a6ad"
+    },
+    "lattice": {
+      "Package": "lattice",
+      "Version": "0.22-9",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "URL": "https://lattice.r-forge.r-project.org/",
+      "Repository": "CRAN",
+      "Hash": "91febc38a877968922d0d37d5db0f674"
+    },
+    "latticeExtra": {
+      "Package": "latticeExtra",
+      "Version": "0.6-31",
+      "Source": "Repository",
+      "URL": "http://latticeextra.r-forge.r-project.org/",
+      "License": "GPL (>= 2)",
+      "Repository": "CRAN",
+      "Hash": "c82841559340ed8049b5c2d1151d6df4"
+    },
+    "lazyeval": {
+      "Package": "lazyeval",
+      "Version": "0.2.3",
+      "Source": "Repository",
+      "License": "GPL-3",
+      "Repository": "CRAN",
+      "Hash": "2757e46c2633dd5854f62615df70d0d7"
+    },
+    "lifecycle": {
+      "Package": "lifecycle",
+      "Version": "1.0.5",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://lifecycle.r-lib.org/, https://github.com/r-lib/lifecycle",
+      "Repository": "CRAN",
+      "Hash": "36dbfe4fba6c064db50a671a90297c85"
+    },
+    "limma": {
+      "Package": "limma",
+      "Version": "3.68.5",
+      "Source": "Bioconductor",
+      "License": "GPL (>=2)",
+      "URL": "https://bioinf.wehi.edu.au/limma/",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "e76b0dba6a3437316dd3c5dad6110213"
+    },
+    "lmtest": {
+      "Package": "lmtest",
+      "Version": "0.9-40",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "Repository": "CRAN",
+      "Hash": "c6fafa6cccb1e1dfe7f7d122efd6e6a7"
+    },
+    "locfit": {
+      "Package": "locfit",
+      "Version": "1.5-9.12",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "Repository": "CRAN",
+      "Hash": "23be15415024fa0c7c48ec613a26b4c1"
+    },
+    "magrittr": {
+      "Package": "magrittr",
+      "Version": "2.0.5",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://magrittr.tidyverse.org, https://github.com/tidyverse/magrittr",
+      "Repository": "CRAN",
+      "Hash": "665e77ab6e5f37a7913226d40b324e37"
+    },
+    "matrixStats": {
+      "Package": "matrixStats",
+      "Version": "1.5.0",
+      "Source": "Repository",
+      "License": "Artistic-2.0",
+      "URL": "https://github.com/HenrikBengtsson/matrixStats",
+      "Repository": "CRAN",
+      "Hash": "9fd316b52ac8c24fef4c67fdd646e965"
+    },
+    "mclust": {
+      "Package": "mclust",
+      "Version": "6.1.3",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "URL": "https://mclust-org.github.io/mclust/",
+      "Repository": "CRAN",
+      "Hash": "7649fab3f15e44dc73e7296440d95ee5"
+    },
+    "memoise": {
+      "Package": "memoise",
+      "Version": "2.0.1",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://memoise.r-lib.org, https://github.com/r-lib/memoise",
+      "Repository": "CRAN",
+      "Hash": "e2817ccf4a065c5d9d7f2cfbe7c1d78c"
+    },
+    "methylumi": {
+      "Package": "methylumi",
+      "Version": "2.58.1",
+      "Source": "Bioconductor",
+      "License": "GPL-2",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "2aeff14db86862d4b35f7ece620add38"
+    },
+    "mime": {
+      "Package": "mime",
+      "Version": "0.13",
+      "Source": "Repository",
+      "License": "GPL",
+      "URL": "https://github.com/yihui/mime",
+      "Repository": "CRAN",
+      "Hash": "0ec19f34c72fab674d8f2b4b1c6410e1"
+    },
+    "minfi": {
+      "Package": "minfi",
+      "Version": "1.58.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://github.com/hansenlab/minfi",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "6768f0b10b595e330c6757f8129c06c9"
+    },
+    "missMethyl": {
+      "Package": "missMethyl",
+      "Version": "1.46.0",
+      "Source": "Bioconductor",
+      "License": "GPL-2",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "6e84b3cd10586638a80d4cfc7efb6c7e"
+    },
+    "multtest": {
+      "Package": "multtest",
+      "Version": "2.68.0",
+      "Source": "Bioconductor",
+      "License": "LGPL",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "edb011b13c3b06995c7644d33317f0e4"
+    },
+    "nlme": {
+      "Package": "nlme",
+      "Version": "3.1-169",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "URL": "https://svn.r-project.org/R-packages/trunk/nlme/",
+      "Repository": "CRAN",
+      "Hash": "b3a03bbd6359dbe2cfcc8b3c2f78722c"
+    },
+    "nnet": {
+      "Package": "nnet",
+      "Version": "7.3-20",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "URL": "http://www.stats.ox.ac.uk/pub/MASS4/",
+      "Repository": "CRAN",
+      "Hash": "c955edf99ff24a32e96bd0a22645af60"
+    },
+    "nnls": {
+      "Package": "nnls",
+      "Version": "1.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "License": "GPL (>= 2)",
+      "Requirements": []
+    },
+    "nor1mix": {
+      "Package": "nor1mix",
+      "Version": "1.3-3",
+      "Source": "Repository",
+      "URL": "https://curves-etc.r-forge.r-project.org/, https://r-forge.r-project.org/R/?group_id=846, https://r-forge.r-project.org/scm/viewvc.php/pkg/nor1mix/?root=curves-etc, svn://svn.r-forge.r-project.org/svnroot/curves-etc/pkg/nor1mix",
+      "License": "GPL (>= 2)",
+      "Repository": "CRAN",
+      "Hash": "b12aa50d6b6f26f1b82d72186b5e810d"
+    },
+    "openssl": {
+      "Package": "openssl",
+      "Version": "2.4.2",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://jeroen.r-universe.dev/openssl",
+      "Repository": "CRAN",
+      "Hash": "6994d1c3ea954f29de6aeca5da95c99d"
+    },
+    "org.Hs.eg.db": {
+      "Package": "org.Hs.eg.db",
+      "Version": "3.23.1",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "Hash": "2c351818c11c6d39489c853b87a2493f"
+    },
+    "patchwork": {
+      "Package": "patchwork",
+      "Version": "1.3.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "License": "MIT + file LICENSE",
+      "URL": "https://patchwork.data-imaginist.com, https://github.com/thomasp85/patchwork",
+      "Requirements": [
+        "cli",
+        "farver",
+        "ggplot2",
+        "grDevices",
+        "graphics",
+        "grid",
+        "gtable",
+        "rlang",
+        "stats",
+        "utils"
+      ]
+    },
+    "permute": {
+      "Package": "permute",
+      "Version": "0.9-10",
+      "Source": "Repository",
+      "License": "GPL-2",
+      "URL": "https://github.com/gavinsimpson/permute",
+      "Repository": "CRAN",
+      "Hash": "c27c9078c87f1db5e3158f0d6dce5363"
+    },
+    "pheatmap": {
+      "Package": "pheatmap",
+      "Version": "1.0.13",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "License": "GPL-2",
+      "Requirements": [
+        "RColorBrewer",
+        "grDevices",
+        "graphics",
+        "grid",
+        "gtable",
+        "scales",
+        "stats"
+      ]
+    },
+    "pillar": {
+      "Package": "pillar",
+      "Version": "1.11.1",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://pillar.r-lib.org/, https://github.com/r-lib/pillar",
+      "Repository": "CRAN",
+      "Hash": "1395e64f2689ffd503657778e810cee2"
+    },
+    "pkgconfig": {
+      "Package": "pkgconfig",
+      "Version": "2.0.3",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/r-lib/pkgconfig#readme",
+      "Repository": "CRAN",
+      "Hash": "01f28d4278f15c76cddbea05899c5d6f"
+    },
+    "pkgmaker": {
+      "Package": "pkgmaker",
+      "Version": "0.32.10",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "renozao",
+      "RemoteRepo": "pkgmaker",
+      "RemoteRef": "2934a52d383adba1d1c00553b9319b865f49d15b",
+      "RemoteSha": "2934a52d383adba1d1c00553b9319b865f49d15b",
+      "License": "GPL (>=2)",
+      "URL": "https://renozao.github.io/pkgmaker/",
+      "Requirements": [
+        "assertthat",
+        "codetools",
+        "digest",
+        "grDevices",
+        "graphics",
+        "methods",
+        "registry",
+        "stats",
+        "stringr",
+        "tools",
+        "utils",
+        "withr",
+        "xtable"
+      ]
+    },
+    "plyr": {
+      "Package": "plyr",
+      "Version": "1.8.9",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "http://had.co.nz/plyr, https://github.com/hadley/plyr",
+      "Repository": "CRAN",
+      "Hash": "6b8177fd19982f0020743fadbfdbd933"
+    },
+    "png": {
+      "Package": "png",
+      "Version": "0.1-9",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "URL": "https://www.rforge.net/png/",
+      "Repository": "CRAN",
+      "Hash": "961c433971606243a724eb19b1075e60"
+    },
+    "preprocessCore": {
+      "Package": "preprocessCore",
+      "Version": "1.74.0",
+      "Source": "Bioconductor",
+      "License": "LGPL (>= 2)",
+      "URL": "https://github.com/bmbolstad/preprocessCore",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "96add5bce578b4b5312184aad7a28d4e"
+    },
+    "presto": {
+      "Package": "presto",
+      "Version": "1.1.0",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "immunogenomics",
+      "RemoteRepo": "presto",
+      "RemoteRef": "b5df6ee6097eb62522f2e557aa93ac21bab2d05f",
+      "RemoteSha": "b5df6ee6097eb62522f2e557aa93ac21bab2d05f",
+      "License": "GPL-3",
+      "Requirements": [
+        "Matrix",
+        "Rcpp",
+        "RcppArmadillo",
+        "data.table",
+        "dplyr",
+        "methods",
+        "purrr",
+        "rlang",
+        "stats",
+        "tibble",
+        "tidyr",
+        "utils"
+      ]
+    },
+    "prettyunits": {
+      "Package": "prettyunits",
+      "Version": "1.2.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/r-lib/prettyunits",
+      "Repository": "CRAN",
+      "Hash": "6b01fc98b1e86c4f705ce9dcfd2f57c7"
+    },
+    "progress": {
+      "Package": "progress",
+      "Version": "1.2.3",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/r-lib/progress#readme, http://r-lib.github.io/progress/",
+      "Repository": "CRAN",
+      "Hash": "f4625e061cb2865f111b47ff163a5ca6"
+    },
+    "purrr": {
+      "Package": "purrr",
+      "Version": "1.2.2",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://purrr.tidyverse.org/, https://github.com/tidyverse/purrr",
+      "Repository": "CRAN",
+      "Hash": "0a35605539b085a4828ec55ad973fe60"
+    },
+    "quadprog": {
+      "Package": "quadprog",
+      "Version": "1.5-8",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "Repository": "CRAN",
+      "Hash": "5f919ae5e7f83a6f91dcf2288943370d"
+    },
+    "qvalue": {
+      "Package": "qvalue",
+      "Version": "2.44.0",
+      "Source": "Bioconductor",
+      "Repository": "Bioconductor 3.23",
+      "License": "LGPL",
+      "URL": "http://github.com/jdstorey/qvalue",
+      "Requirements": [
+        "ggplot2",
+        "grid",
+        "reshape2",
+        "splines"
+      ]
+    },
+    "ragg": {
+      "Package": "ragg",
+      "Version": "1.5.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "License": "MIT + file LICENSE",
+      "URL": "https://ragg.r-lib.org, https://github.com/r-lib/ragg",
+      "Requirements": [
+        "systemfonts",
+        "textshaping"
+      ]
+    },
+    "rappdirs": {
+      "Package": "rappdirs",
+      "Version": "0.3.4",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://rappdirs.r-lib.org, https://github.com/r-lib/rappdirs",
+      "Repository": "CRAN",
+      "Hash": "f146a5bfc94db048309712535d4d0aee"
+    },
+    "readr": {
+      "Package": "readr",
+      "Version": "2.2.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://readr.tidyverse.org, https://github.com/tidyverse/readr",
+      "Repository": "CRAN",
+      "Hash": "4425ad9e28b8e3351184ca2739995b87"
+    },
+    "registry": {
+      "Package": "registry",
+      "Version": "0.5-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "License": "GPL-2",
+      "Requirements": [
+        "utils"
+      ]
+    },
+    "rentrez": {
+      "Package": "rentrez",
+      "Version": "1.2.4",
+      "Source": "Repository",
+      "URL": "https://github.com/ropensci/rentrez/",
+      "License": "MIT + file LICENSE",
+      "Repository": "CRAN",
+      "Hash": "1f0313f1c847911ac78c15f4c00324c0"
+    },
+    "renv": {
+      "Package": "renv",
+      "Version": "1.3.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://rstudio.github.io/renv/, https://github.com/rstudio/renv",
+      "Repository": "CRAN",
+      "Hash": "47c9e9df3aa6bd1c2f0be992b05279e2"
+    },
+    "reshape": {
+      "Package": "reshape",
+      "Version": "0.8.10",
+      "Source": "Repository",
+      "URL": "http://had.co.nz/reshape",
+      "License": "MIT + file LICENSE",
+      "Repository": "CRAN",
+      "Hash": "09a62fc9e02dcf5dd1d938a2118f910d"
+    },
+    "reshape2": {
+      "Package": "reshape2",
+      "Version": "1.4.5",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/hadley/reshape",
+      "Repository": "CRAN",
+      "Hash": "2677962d949a7a879537a2364d56be84"
+    },
+    "restfulr": {
+      "Package": "restfulr",
+      "Version": "0.0.17",
+      "Source": "Repository",
+      "License": "Artistic-2.0",
+      "Repository": "CRAN",
+      "Hash": "c2c188885398ee5eb8e94470dd04dd7f"
+    },
+    "rhdf5": {
+      "Package": "rhdf5",
+      "Version": "2.56.1",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0",
+      "URL": "https://huber-group-embl.github.io/rhdf5/, https://github.com/Huber-group-EMBL/rhdf5",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "906ba17b33043bcd07f8beb776daf058"
+    },
+    "rhdf5filters": {
+      "Package": "rhdf5filters",
+      "Version": "1.24.1",
+      "Source": "Bioconductor",
+      "License": "BSD_2_clause + file LICENSE",
+      "URL": "https://github.com/Huber-group-EMBL/rhdf5filters",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "04eb49d36b2b839a8c69233f9590168b"
+    },
+    "rjson": {
+      "Package": "rjson",
+      "Version": "0.2.23",
+      "Source": "Repository",
+      "URL": "https://github.com/alexcb/rjson",
+      "License": "GPL-2",
+      "Repository": "CRAN",
+      "Hash": "7a04e9eff95857dbf557b4e5f0b3d1a8"
+    },
+    "rlang": {
+      "Package": "rlang",
+      "Version": "1.3.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://rlang.r-lib.org, https://github.com/r-lib/rlang",
+      "Repository": "CRAN",
+      "Hash": "8d05afdb0b0dd5ef01b306db289fe21f"
+    },
+    "rmarkdown": {
+      "Package": "rmarkdown",
+      "Version": "2.32",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/rstudio/rmarkdown, https://pkgs.rstudio.com/rmarkdown/",
+      "Repository": "CRAN",
+      "Hash": "b1ca7a0b03d962df0a17e8079cbaa376"
+    },
+    "rngtools": {
+      "Package": "rngtools",
+      "Version": "1.5.2",
+      "Source": "Repository",
+      "License": "GPL-3",
+      "URL": "https://renozao.github.io/rngtools/",
+      "Repository": "CRAN",
+      "Hash": "367a915f939520767660671efa0e32bd"
+    },
+    "rpart": {
+      "Package": "rpart",
+      "Version": "4.1.27",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "Repository": "CRAN",
+      "URL": "https://github.com/bethatkinson/rpart, https://cran.r-project.org/package=rpart",
+      "Hash": "6095ec53de916fe55028e08b1afc3810"
+    },
+    "rstudioapi": {
+      "Package": "rstudioapi",
+      "Version": "0.19.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://rstudio.github.io/rstudioapi/, https://github.com/rstudio/rstudioapi",
+      "Repository": "CRAN",
+      "Hash": "db86914207e4e0f112b60ebbc3e1793c"
+    },
+    "rtracklayer": {
+      "Package": "rtracklayer",
+      "Version": "1.72.0",
+      "Source": "Bioconductor",
+      "License": "Artistic-2.0 + file LICENSE",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "bd07eabb7da9589ca3b0fd8896d846a2"
+    },
+    "ruv": {
+      "Package": "ruv",
+      "Version": "0.9.7.2",
+      "Source": "Repository",
+      "License": "GPL",
+      "URL": "http://www-personal.umich.edu/~johanngb/ruv/",
+      "Repository": "CRAN",
+      "Hash": "bb78b4fa5de1bdb23240c6c5becf6e20"
+    },
+    "rvest": {
+      "Package": "rvest",
+      "Version": "1.0.5",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://rvest.tidyverse.org/, https://github.com/tidyverse/rvest",
+      "Repository": "CRAN",
+      "Hash": "2804ddcd7737082306c559d919886546"
+    },
+    "sandwich": {
+      "Package": "sandwich",
+      "Version": "3.1-3",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "URL": "https://zeileis.codeberg.page/sandwich/",
+      "Repository": "CRAN",
+      "Hash": "b371412dbbf43cf39d0302556a0b7c39"
+    },
+    "sass": {
+      "Package": "sass",
+      "Version": "0.4.10",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://rstudio.github.io/sass/, https://github.com/rstudio/sass",
+      "Repository": "CRAN",
+      "Hash": "3fb78d066fb92299b1d13f6a7c9a90a8"
+    },
+    "scales": {
+      "Package": "scales",
+      "Version": "1.4.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://scales.r-lib.org, https://github.com/r-lib/scales",
+      "Repository": "CRAN",
+      "Hash": "c5bba8f0d1df8c4b9538a40570798d9b"
+    },
+    "scrime": {
+      "Package": "scrime",
+      "Version": "1.3.7",
+      "Source": "Repository",
+      "License": "GPL-2",
+      "Repository": "CRAN",
+      "Hash": "b00783eecbdfb83be0a65e36c51b61e7"
+    },
+    "selectr": {
+      "Package": "selectr",
+      "Version": "0.7-0",
+      "Source": "Repository",
+      "License": "BSD_3_clause + file LICENCE",
+      "URL": "https://sjp.co.nz/projects/selectr/",
+      "Repository": "CRAN",
+      "Hash": "ccabc767e3f7ad469e28a2c6eba1f09a"
+    },
+    "siggenes": {
+      "Package": "siggenes",
+      "Version": "1.86.0",
+      "Source": "Bioconductor",
+      "License": "LGPL (>= 2)",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "1202e18c1ad6ce0a77e737c8619e216d"
+    },
+    "snow": {
+      "Package": "snow",
+      "Version": "0.4-4",
+      "Source": "Repository",
+      "License": "GPL",
+      "Repository": "CRAN",
+      "Hash": "40b74690debd20c57d93d8c246b305d4"
+    },
+    "sparseMatrixStats": {
+      "Package": "sparseMatrixStats",
+      "Version": "1.24.0",
+      "Source": "Bioconductor",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/const-ae/sparseMatrixStats",
+      "Repository": "Bioconductor 3.23",
+      "Hash": "c6acfa110832ba0b71ae2ccee32cba7e"
+    },
+    "statmod": {
+      "Package": "statmod",
+      "Version": "1.5.2",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "Repository": "CRAN",
+      "Hash": "1ba6490708bc62897cbc78ecb6a13ffe"
+    },
+    "stringi": {
+      "Package": "stringi",
+      "Version": "1.8.9",
+      "Source": "Repository",
+      "URL": "https://stringi.gagolewski.com/, https://github.com/gagolews/stringi, https://icu.unicode.org/",
+      "License": "file LICENSE",
+      "Repository": "CRAN",
+      "Hash": "67f6c2a9e67d08e1e419ff89ad135444"
+    },
+    "stringr": {
+      "Package": "stringr",
+      "Version": "1.6.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://stringr.tidyverse.org, https://github.com/tidyverse/stringr",
+      "Repository": "CRAN",
+      "Hash": "d47392652eedc68bf916657347ff2526"
+    },
+    "survival": {
+      "Package": "survival",
+      "Version": "3.8-6",
+      "Source": "Repository",
+      "License": "LGPL (>= 2)",
+      "URL": "https://github.com/therneau/survival",
+      "Repository": "CRAN",
+      "Hash": "663dbb3b41554b751ae90fe58f72decf"
+    },
+    "svglite": {
+      "Package": "svglite",
+      "Version": "2.2.2",
+      "Source": "Repository",
+      "License": "GPL (>= 2)",
+      "URL": "https://svglite.r-lib.org, https://github.com/r-lib/svglite",
+      "Repository": "CRAN",
+      "Hash": "40b8a31d6734e45bbb44f241afeb4903"
+    },
+    "sys": {
+      "Package": "sys",
+      "Version": "3.4.3",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://jeroen.r-universe.dev/sys",
+      "Repository": "CRAN",
+      "Hash": "de342ebfebdbf40477d0758d05426646"
+    },
+    "systemfonts": {
+      "Package": "systemfonts",
+      "Version": "1.3.2",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/r-lib/systemfonts, https://systemfonts.r-lib.org",
+      "Repository": "CRAN",
+      "Hash": "1f930828d6590af5da47b3ab4fe161e6"
+    },
+    "textshaping": {
+      "Package": "textshaping",
+      "Version": "1.0.5",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/r-lib/textshaping",
+      "Repository": "CRAN",
+      "Hash": "addb750a886a2ac415dea6f8068867de"
+    },
+    "tibble": {
+      "Package": "tibble",
+      "Version": "3.3.1",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://tibble.tidyverse.org/, https://github.com/tidyverse/tibble",
+      "Repository": "CRAN",
+      "Hash": "c55df870972551cac674b50cadb2d51f"
+    },
+    "tidyr": {
+      "Package": "tidyr",
+      "Version": "1.3.2",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://tidyr.tidyverse.org, https://github.com/tidyverse/tidyr",
+      "Repository": "CRAN",
+      "Hash": "a4fa2f5876396f04814cb9d8d9ab89e9"
+    },
+    "tidyselect": {
+      "Package": "tidyselect",
+      "Version": "1.2.1",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://tidyselect.r-lib.org, https://github.com/r-lib/tidyselect",
+      "Repository": "CRAN",
+      "Hash": "829f27b9c4919c16b593794a6344d6c0"
+    },
+    "tinytex": {
+      "Package": "tinytex",
+      "Version": "0.61",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/rstudio/tinytex",
+      "Repository": "CRAN",
+      "Hash": "e98513b92c1ef46d465f869ab27cf6d7"
+    },
+    "tzdb": {
+      "Package": "tzdb",
+      "Version": "0.5.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://tzdb.r-lib.org, https://github.com/r-lib/tzdb",
+      "Repository": "CRAN",
+      "Hash": "09e3961e87b7bafa4a9340bbb34aeda8"
+    },
+    "utf8": {
+      "Package": "utf8",
+      "Version": "1.2.6",
+      "Source": "Repository",
+      "License": "Apache License (== 2.0) | file LICENSE",
+      "URL": "https://krlmlr.github.io/utf8/, https://github.com/krlmlr/utf8",
+      "Repository": "CRAN",
+      "Hash": "d526d558be176e9ceb68c3d1e83479b7"
+    },
+    "vctrs": {
+      "Package": "vctrs",
+      "Version": "0.7.3",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://vctrs.r-lib.org/, https://github.com/r-lib/vctrs",
+      "Repository": "CRAN",
+      "Hash": "2dcde2d30d3ad67bf1d3a37177457b87"
+    },
+    "viridisLite": {
+      "Package": "viridisLite",
+      "Version": "0.4.3",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://sjmgarnier.github.io/viridisLite/, https://github.com/sjmgarnier/viridisLite/",
+      "Repository": "CRAN",
+      "Hash": "9380d36888b72faf5ae6c22b44703867"
+    },
+    "vroom": {
+      "Package": "vroom",
+      "Version": "1.7.1",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://vroom.tidyverse.org, https://github.com/tidyverse/vroom",
+      "Repository": "CRAN",
+      "Hash": "1e9494eda38f3418f71474363293da2a"
+    },
+    "withr": {
+      "Package": "withr",
+      "Version": "3.0.3",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://withr.r-lib.org, https://github.com/r-lib/withr#readme",
+      "Repository": "CRAN",
+      "Hash": "d979712ec72df779bc2d30bcc5d0d541"
+    },
+    "xbioc": {
+      "Package": "xbioc",
+      "Version": "0.1.19",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "renozao",
+      "RemoteRepo": "xbioc",
+      "RemoteRef": "1354168bd7e64be4ee1f9f74e971a61556d75003",
+      "RemoteSha": "1354168bd7e64be4ee1f9f74e971a61556d75003",
+      "License": "GPL (>= 3)",
+      "Requirements": [
+        "AnnotationDbi",
+        "Biobase",
+        "BiocManager",
+        "assertthat",
+        "checkmate",
+        "digest",
+        "methods",
+        "pkgmaker",
+        "plyr",
+        "reshape2",
+        "stats",
+        "stringr",
+        "utils"
+      ]
+    },
+    "xfun": {
+      "Package": "xfun",
+      "Version": "0.61",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://github.com/yihui/xfun",
+      "Repository": "CRAN",
+      "Hash": "963d31271610fe02db20d76dc4b2c773"
+    },
+    "xml2": {
+      "Package": "xml2",
+      "Version": "1.6.0",
+      "Source": "Repository",
+      "License": "MIT + file LICENSE",
+      "URL": "https://xml2.r-lib.org, https://r-lib.r-universe.dev/xml2",
+      "Repository": "CRAN",
+      "Hash": "568fe669c645b2007e4e8fcf5cde40e7"
+    },
+    "xtable": {
+      "Package": "xtable",
+      "Version": "1.8-8",
+      "Source": "Repository",
+      "URL": "http://xtable.r-forge.r-project.org/",
+      "License": "GPL (>= 2)",
+      "Repository": "CRAN",
+      "Hash": "93b19c064862d315a828c7170d806453"
+    },
+    "yaml": {
+      "Package": "yaml",
+      "Version": "2.3.12",
+      "Source": "Repository",
+      "License": "BSD_3_clause + file LICENSE",
+      "URL": "https://yaml.r-lib.org, https://github.com/r-lib/yaml/",
+      "Repository": "CRAN",
+      "Hash": "7cd77cb32abd9220d744307e9fc94ffb"
+    },
+    "zoo": {
+      "Package": "zoo",
+      "Version": "1.9-0",
+      "Source": "Repository",
+      "License": "GPL-2 | GPL-3",
+      "URL": "https://zeileis.codeberg.page/zoo/",
+      "Repository": "CRAN",
+      "Hash": "246123b6990acc8dfc4969d3e7225e2d"
+    }
+  }
+}

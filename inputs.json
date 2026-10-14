@@ -1,0 +1,2712 @@
+{
+  "schema": "gingival-portable-inputs-v1",
+  "package_spec_sha256": "c77aa93895564bbafbcc1ecd4650fe471737d3cc1ad673faec14c3bcabe28c9d",
+  "inputs": [
+    {
+      "role": "context_data/US_context/Sources/frozen_targets.tsv",
+      "file": "data/c4d17678022a85eb_frozen_targets.tsv",
+      "sha256": "c4d17678022a85eb4d9cbb12687325f2b69770f5d1aef7d7c7bf8f27f4cf507d",
+      "bytes": 1425
+    },
+    {
+      "role": "context_data/US_context/Data/GSE219293/annotations.tsv",
+      "file": "data/dfab9a6d7f58c336_annotations.tsv",
+      "sha256": "dfab9a6d7f58c3361bc6ccb09cb94ed2c78437fe85943a18ca836631efcf5588",
+      "bytes": 10121
+    },
+    {
+      "role": "context_data/US_context/Data/GSE219293/target_values.tsv",
+      "file": "data/baf5123431b2b384_target_values.tsv",
+      "sha256": "baf5123431b2b38448518e3650d20ed43dff84f8b782d339662e83025417499b",
+      "bytes": 17112
+    },
+    {
+      "role": "context_data/US_context/Data/GSE197670/annotations.tsv",
+      "file": "data/0d5212cc7cb5ac65_annotations.tsv",
+      "sha256": "0d5212cc7cb5ac65f82e903c9ca6eb06e5498d900f47a0541076b1a8999ac54e",
+      "bytes": 12264
+    },
+    {
+      "role": "context_data/US_context/Data/GSE197670/GSE197670-GPL13534_series_matrix_targets.tsv",
+      "file": "data/33320984b473e693_GSE197670-GPL13534_series_matrix_targets.tsv",
+      "sha256": "33320984b473e6932682232b7ec8fc6a35ffc1712ac7a78ffa770c333ca1f6b3",
+      "bytes": 5450
+    },
+    {
+      "role": "context_data/US_context/Data/GSE197670/GSE197670-GPL21145_series_matrix_targets.tsv",
+      "file": "data/8fc7c75baed867b8_GSE197670-GPL21145_series_matrix_targets.tsv",
+      "sha256": "8fc7c75baed867b81faa537760ff5de8212c9f817626ae964677bb2ec9303bcc",
+      "bytes": 9006
+    },
+    {
+      "role": "context_data/US_context/Data/GSE252501/annotations.tsv",
+      "file": "data/3c77e6d183ba6d9a_annotations.tsv",
+      "sha256": "3c77e6d183ba6d9a832277f39f26ecdaedd1fea78d6ea5997860cdfb21ee4002",
+      "bytes": 46067
+    },
+    {
+      "role": "context_data/US_context/Data/GSE252501/GSE252501_proccessed_matrix_DLPFC_targets.tsv",
+      "file": "data/af6e11319aafcf60_GSE252501_proccessed_matrix_DLPFC_targets.tsv",
+      "sha256": "af6e11319aafcf605fd6c8cdf6824bf253fb9df766206c0a72cba136376cff79",
+      "bytes": 66420
+    },
+    {
+      "role": "context_data/US_context/Data/GSE252501/GSE252501_proccessed_matrix_NAc_targets.tsv",
+      "file": "data/1dec9844e5b94068_GSE252501_proccessed_matrix_NAc_targets.tsv",
+      "sha256": "1dec9844e5b940687e865385e431fadeab34efe817fdbe0155d694284e397a98",
+      "bytes": 65352
+    },
+    {
+      "role": "context_data/US_context/Data/GSE59250/annotations.tsv",
+      "file": "data/f255d5acabddad85_annotations.tsv",
+      "sha256": "f255d5acabddad85d097c916acfcb4bb749d12604170c50e7dd11398d40a3431",
+      "bytes": 108272
+    },
+    {
+      "role": "context_data/US_context/Data/GSE59250/GSE59250_average_betas_targets.tsv",
+      "file": "data/1f4303958057a0f6_GSE59250_average_betas_targets.tsv",
+      "sha256": "1f4303958057a0f6e1c7a9bd210ddbbae27eb079dc7cf7eb54defa4fd34b7e7d",
+      "bytes": 153080
+    },
+    {
+      "role": "context_data/US_context/Data/GSE213478/annotations.tsv",
+      "file": "data/3634f9c5c3e403bb_annotations.tsv",
+      "sha256": "3634f9c5c3e403bba137e2ccffffe1c1df3842bdc9ca599820cc6883f9a470f3",
+      "bytes": 221333
+    },
+    {
+      "role": "context_data/US_context/Data/GSE213478/GSE213478_methylation_DNAm_noob_final_BMIQ_all_tissues_987_targets.tsv",
+      "file": "data/cd8d7b03b712e7b8_GSE213478_methylation_DNAm_noob_final_BMIQ_all_tissues_987_targets.tsv",
+      "sha256": "cd8d7b03b712e7b8c30eb5b9a319db20ecefdc49d0da2a23754938c21e50c13d",
+      "bytes": 504949
+    },
+    {
+      "role": "context_data/Genetic/per_gene.tsv",
+      "file": "data/b096298c4523c744_per_gene.tsv",
+      "sha256": "b096298c4523c7444b442ba36b72dd4cb2c609f28a9361925b5e620edf29367b",
+      "bytes": 3229
+    },
+    {
+      "role": "context_data/Genetic/per_dataset_version.tsv",
+      "file": "data/4e4e208b8250b91a_per_dataset_version.tsv",
+      "sha256": "4e4e208b8250b91ac9c8c71429fc8020f87c0cdc88fb25ee0a1b49c3606ebd01",
+      "bytes": 10054
+    },
+    {
+      "role": "context_data/Genetic/measured_CpG_mQTL_records.tsv",
+      "file": "data/7e33c27047f402bc_measured_CpG_mQTL_records.tsv",
+      "sha256": "7e33c27047f402bc2f0c121691a0c51c33c05fda18f92a28ddb26d5713e42ba9",
+      "bytes": 1886821
+    },
+    {
+      "role": "context_data/Literature/Curated_Gene_Evidence.json",
+      "file": "data/fe99a8511518a5a1_Curated_Gene_Evidence.json",
+      "sha256": "fe99a8511518a5a1e944c5748cb4cb7edd9b94a061821f7b18cd6fdd85c0884b",
+      "bytes": 26939
+    },
+    {
+      "role": "context_data/Literature/Arsenic_Exact_CpG_Addendum.json",
+      "file": "data/e1933d7ed19ff8c0_Arsenic_Exact_CpG_Addendum.json",
+      "sha256": "e1933d7ed19ff8c04988382db0f28aa3e7eddca7d71b2e9490f5091d59c48111",
+      "bytes": 4302
+    },
+    {
+      "role": "context_data/Prior/40729_2022_420_MOESM1_ESM.xlsx",
+      "file": "data/5445872b4c8e4e60_40729_2022_420_MOESM1_ESM.xlsx",
+      "sha256": "5445872b4c8e4e602812f9185cbbfcc2888524ef3d21254cf309d28be072b77d",
+      "bytes": 42756
+    },
+    {
+      "role": "context_data/Prior/Jin2025_Table_1.xlsx",
+      "file": "data/66fe3e5028212cc1_Jin2025_Table_1.xlsx",
+      "sha256": "66fe3e5028212cc13da83591f51bb05ec1d5717773076721a007ad94d8a5a425",
+      "bytes": 10818
+    },
+    {
+      "role": "context_data/Prior/Jin2025_Table_2.xlsx",
+      "file": "data/39a5e54939b463b7_Jin2025_Table_2.xlsx",
+      "sha256": "39a5e54939b463b7c0d2b8d3e76cd0e7c160a9aedf67279ded8646353a918c10",
+      "bytes": 10157
+    },
+    {
+      "role": "context_data/Prior/Jin2025_Table_3.xlsx",
+      "file": "data/3e62a04a8f852ac6_Jin2025_Table_3.xlsx",
+      "sha256": "3e62a04a8f852ac6f3563f020a166c6c3f0935350cbc249a47262be515e3ea57",
+      "bytes": 47315
+    },
+    {
+      "role": "context_data/Prior/prior_Zhao_gene_membership.tsv",
+      "file": "data/b7801ed874bb2042_prior_Zhao_gene_membership.tsv",
+      "sha256": "b7801ed874bb2042146ba28f5e40d4312c3469114a9a4872b17ebba617f6574e",
+      "bytes": 1039
+    },
+    {
+      "role": "context_data/Prior/prior_CpG_overlap.tsv",
+      "file": "data/288621c23acdb6f2_prior_CpG_overlap.tsv",
+      "sha256": "288621c23acdb6f29b40a3a3099325b81fee66b4228ea78cd06d6966e43bd807",
+      "bytes": 1200
+    },
+    {
+      "role": "context_data/Prior/prior_mean_CpG_directions.tsv",
+      "file": "data/a01e7f9cd04787e7_prior_mean_CpG_directions.tsv",
+      "sha256": "a01e7f9cd04787e75bcbeda52949cfa05e4a0a2a92db062e22dc1a76619c61c6",
+      "bytes": 13500
+    },
+    {
+      "role": "context_data/participant_structure/participant_design.tsv",
+      "file": "data/95bf357ab85f5f80_participant_design.tsv",
+      "sha256": "95bf357ab85f5f80c0071e18833e77ef062ce159b15e47c07c82d18a1a15f715",
+      "bytes": 3477
+    },
+    {
+      "role": "context_data/participant_structure/participants.tsv",
+      "file": "data/8e0a7647a8eb9fb9_participants.tsv",
+      "sha256": "8e0a7647a8eb9fb97fdf8fbf90738eeaa6f253544269cd435b3844d1f592d5c4",
+      "bytes": 7314
+    },
+    {
+      "role": "context_data/participant_structure/clinical_participants.tsv",
+      "file": "data/5fb682c2e6e1683a_clinical_participants.tsv",
+      "sha256": "5fb682c2e6e1683a4ac1a314988b573a4adf37630c43c1bec334219b2d41559d",
+      "bytes": 9521
+    },
+    {
+      "role": "context_data/participant_structure/feature_registry.tsv",
+      "file": "data/4c55df822a0ba08a_feature_registry.tsv",
+      "sha256": "4c55df822a0ba08a5be5a346713428babe6c943ddb557b90c6fad69da2caeed3",
+      "bytes": 3281
+    },
+    {
+      "role": "context_data/participant_structure/M_selected_and_constituent_cpgs.tsv",
+      "file": "data/ff600c3809b2a847_M_selected_and_constituent_cpgs.tsv",
+      "sha256": "ff600c3809b2a847b42ba19902a606125855791bd38aeb4834171bb50a982193",
+      "bytes": 80181
+    },
+    {
+      "role": "context_data/participant_structure/focal_methylation_M.tsv",
+      "file": "data/7e9b56b577efe1d1_focal_methylation_M.tsv",
+      "sha256": "7e9b56b577efe1d1239ae78b18fdb992c5b12ee9635d55d845c13c343aaef1a2",
+      "bytes": 51432
+    },
+    {
+      "role": "context_data/participant_structure/region_constituents.tsv",
+      "file": "data/419a0aac02cd742a_region_constituents.tsv",
+      "sha256": "419a0aac02cd742aa942a76ce249530a1b754ce6f8c02c313cc58d383332b77c",
+      "bytes": 2850
+    },
+    {
+      "role": "context_data/inputs/processed/participant_design.tsv",
+      "file": "data/95bf357ab85f5f80_participant_design.tsv",
+      "sha256": "95bf357ab85f5f80c0071e18833e77ef062ce159b15e47c07c82d18a1a15f715",
+      "bytes": 3477
+    },
+    {
+      "role": "context_data/inputs/processed/rna_counts.tsv.gz",
+      "file": "data/e37880861f46409b_rna_counts.tsv.gz",
+      "sha256": "e37880861f46409b1eb61231a8e9eedc15da087ed21ac962779bdb42eba8c896",
+      "bytes": 1184281
+    },
+    {
+      "role": "context_data/inputs/processed/focal_methylation_M.tsv",
+      "file": "data/7e9b56b577efe1d1_focal_methylation_M.tsv",
+      "sha256": "7e9b56b577efe1d1239ae78b18fdb992c5b12ee9635d55d845c13c343aaef1a2",
+      "bytes": 51432
+    },
+    {
+      "role": "context_data/inputs/processed/focal_rna_logcpm.tsv",
+      "file": "data/fe71dd3b4ba0522a_focal_rna_logcpm.tsv",
+      "sha256": "fe71dd3b4ba0522afa19a224df5c47f606c4cb8641ac73c5411976e35a6f40c0",
+      "bytes": 8251
+    },
+    {
+      "role": "context_data/inputs/processed/focal_rna_weights.tsv",
+      "file": "data/b9a0b5ff3561e0af_focal_rna_weights.tsv",
+      "sha256": "b9a0b5ff3561e0af3594df191e117431d43b92d21c37415be874bcd42588a715",
+      "bytes": 8221
+    },
+    {
+      "role": "context_data/inputs/processed/focal_rna_weights_composition.tsv",
+      "file": "data/d9b0bdf3c7bc6e2e_focal_rna_weights_composition.tsv",
+      "sha256": "d9b0bdf3c7bc6e2e0bb5a11fcfd136bb31059174c061939adb302ab7641b8e89",
+      "bytes": 8220
+    },
+    {
+      "role": "context_data/inputs/processed/focal_units.tsv",
+      "file": "data/ba1ba43ff99801b0_focal_units.tsv",
+      "sha256": "ba1ba43ff99801b009f52ea9501169cd1ee46030f4f6a30e4dfc50a89c34c237",
+      "bytes": 1011
+    },
+    {
+      "role": "context_data/inputs/processed/region_constituents.tsv",
+      "file": "data/419a0aac02cd742a_region_constituents.tsv",
+      "sha256": "419a0aac02cd742aa942a76ce249530a1b754ce6f8c02c313cc58d383332b77c",
+      "bytes": 2850
+    },
+    {
+      "role": "context_data/inputs/accepted_original_screen/variability_full.tsv.gz",
+      "file": "data/099017496457b0c2_variability_full.tsv.gz",
+      "sha256": "099017496457b0c2f2fdc54cdfe699a3ef086472c19fda38b1697029602b6ee7",
+      "bytes": 70441329
+    },
+    {
+      "role": "context_data/inputs/gene_sets/kegg_link_hsa_2026-09-20.tsv",
+      "file": "data/5f03e3ffc03547d0_kegg_link_hsa_2026-09-20.tsv",
+      "sha256": "5f03e3ffc03547d065cffb8c4a538007a143648e48b8de37ae528e87459f11b1",
+      "bytes": 924036
+    },
+    {
+      "role": "context_data/inputs/gene_sets/kegg_pathway_list_hsa_2026-09-20.tsv",
+      "file": "data/345290b203a665fa_kegg_pathway_list_hsa_2026-09-20.tsv",
+      "sha256": "345290b203a665fa7604f36ba51d78095a712c6c02820fb09fde82a5a90c0a3a",
+      "bytes": 22117
+    },
+    {
+      "role": "context_data/inputs/gene_sets/ReactomePathways.gmt",
+      "file": "data/89983d5c1f0af11c_ReactomePathways.gmt",
+      "sha256": "89983d5c1f0af11c52edfeee7323eb425580ac6281d387a528562ab1787ce56b",
+      "bytes": 1032186
+    },
+    {
+      "role": "context_data/inputs/pathway_analysis_plan.json",
+      "file": "data/203af5f77d0e589a_pathway_analysis_plan.json",
+      "sha256": "203af5f77d0e589a13e6891f479934c703f38bb8891b3444323598c393ad08d2",
+      "bytes": 8821
+    },
+    {
+      "role": "context_data/inputs/accepted_RNA/Table_S12_RNA_differential_expression_all_configurations.tsv",
+      "file": "data/752a1fa073591154_Table_S12_RNA_differential_expression_all_configurations.tsv",
+      "sha256": "752a1fa0735911547a1130b3e1de9f02132baa9d07f64f7e80366a58bf327321",
+      "bytes": 8024575
+    },
+    {
+      "role": "context_data/inputs/accepted_RNA/Table_S13_Gene_set_enrichment_all_tested_sets.tsv",
+      "file": "data/fc71fabb21a90e7a_Table_S13_Gene_set_enrichment_all_tested_sets.tsv",
+      "sha256": "fc71fabb21a90e7ab2b268b721af2ddedc21ee091af4cd74f3efd35dd403ff1c",
+      "bytes": 470122
+    },
+    {
+      "role": "context_data/inputs/cellular/clinical_annotations.tsv",
+      "file": "data/8e0a7647a8eb9fb9_participants.tsv",
+      "sha256": "8e0a7647a8eb9fb97fdf8fbf90738eeaa6f253544269cd435b3844d1f592d5c4",
+      "bytes": 7314
+    },
+    {
+      "role": "context_data/inputs/cellular/frozen_targets.tsv",
+      "file": "data/c4d17678022a85eb_frozen_targets.tsv",
+      "sha256": "c4d17678022a85eb4d9cbb12687325f2b69770f5d1aef7d7c7bf8f27f4cf507d",
+      "bytes": 1425
+    },
+    {
+      "role": "context_data/inputs/cellular/Prespecified_RNA_Marker_Panels.tsv",
+      "file": "data/ee7a1e39d71b5714_Prespecified_RNA_Marker_Panels.tsv",
+      "sha256": "ee7a1e39d71b5714e6b8915d66ef6ad977ebe1774caecdee23fa10708561bd8e",
+      "bytes": 4423
+    },
+    {
+      "role": "context_data/inputs/native/EXTERNAL_VALIDATION_TARGET_FREEZE_v2.tsv",
+      "file": "data/ff2195d648aaac49_EXTERNAL_VALIDATION_TARGET_FREEZE_v2.tsv",
+      "sha256": "ff2195d648aaac49c1d0d5fab5d4ab1114dad469445965389b3820bd2988bc8b",
+      "bytes": 10654
+    },
+    {
+      "role": "context_data/inputs/native/M_selected_and_constituent_cpgs.tsv",
+      "file": "data/ff600c3809b2a847_M_selected_and_constituent_cpgs.tsv",
+      "sha256": "ff600c3809b2a847b42ba19902a606125855791bd38aeb4834171bb50a982193",
+      "bytes": 80181
+    },
+    {
+      "role": "context_data/inputs/native/GSE267170/targets_participant_M.tsv.gz",
+      "file": "data/25652f4d15830f8d_targets_participant_M.tsv.gz",
+      "sha256": "25652f4d15830f8d6c0bd7e5b1d3cfa9c41e7e16c3027b2bcd115f09599077d1",
+      "bytes": 38320
+    },
+    {
+      "role": "context_data/inputs/native/GSE267170/arrays_kept.tsv",
+      "file": "data/d354d25b6570a03f_arrays_kept.tsv",
+      "sha256": "d354d25b6570a03ff77b19e6375edf6222983b8ceb956c92acdacc2b306a58a1",
+      "bytes": 1189
+    },
+    {
+      "role": "context_data/inputs/native/GSE59932/targets_participant_M.tsv.gz",
+      "file": "data/6504d5a102245463_targets_participant_M.tsv.gz",
+      "sha256": "6504d5a1022454638324d847bb434d6ca1c17e2a4a48846e234a995cfee87d64",
+      "bytes": 11095
+    },
+    {
+      "role": "context_data/inputs/native/GSE59932/arrays_kept.tsv",
+      "file": "data/0509d218ba0dfe2d_arrays_kept.tsv",
+      "sha256": "0509d218ba0dfe2dbd71a3f0ff422ac3d8bb9ec7464ce48f0e3e094f02a8ce87",
+      "bytes": 435
+    },
+    {
+      "role": "context_data/inputs/native/GSE59939/targets_participant_M.tsv.gz",
+      "file": "data/9d648160c134f568_targets_participant_M.tsv.gz",
+      "sha256": "9d648160c134f568eabd04e58e9a497e0558bb176549037d3f67d51d87966c88",
+      "bytes": 15799
+    },
+    {
+      "role": "context_data/inputs/native/GSE59939/arrays_kept.tsv",
+      "file": "data/cf827dda5d7a46a3_arrays_kept.tsv",
+      "sha256": "cf827dda5d7a46a33aac4096b59d3ae9ffd12f8b2ba87c517391b4360bf5d5af",
+      "bytes": 615
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE63315/target_beta.tsv",
+      "file": "data/e1441d1f4268e6d0_target_beta.tsv",
+      "sha256": "e1441d1f4268e6d03955f07450c140396d7e58114dc7a2f3151735b6eeff79b7",
+      "bytes": 14222
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE63315/sample_annotations.tsv",
+      "file": "data/ff2973febc6f2af1_sample_annotations.tsv",
+      "sha256": "ff2973febc6f2af18932a96c107744126f29b6da4ae085bd710732a1b5cc0b2a",
+      "bytes": 7787
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE115797/target_beta.tsv",
+      "file": "data/4a094bcb7ad5631a_target_beta.tsv",
+      "sha256": "4a094bcb7ad5631a1d3876807fe425096f137bcb418cc8ac78270c4c7f9750be",
+      "bytes": 14505
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE115797/sample_annotations.tsv",
+      "file": "data/7a751f4427a88a7a_sample_annotations.tsv",
+      "sha256": "7a751f4427a88a7a6d2a3685cb77d0a8ec318682b0dd729aa351c3dcb2cb9fb2",
+      "bytes": 7146
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE82218/target_beta.tsv",
+      "file": "data/bb042ebce46c3bf9_target_beta.tsv",
+      "sha256": "bb042ebce46c3bf9d13abe419bfad465c42c4b9a21d852d08e77e0d63cc1e661",
+      "bytes": 14874
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE82218/sample_annotations.tsv",
+      "file": "data/0d491a16df605a95_sample_annotations.tsv",
+      "sha256": "0d491a16df605a9529cd5d8cd75b8e87cac818b554aa9844a682526f192bb463",
+      "bytes": 7250
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE110007/target_beta.tsv",
+      "file": "data/8ce51fd24cb26653_target_beta.tsv",
+      "sha256": "8ce51fd24cb26653be7d75073c4aac9a9003cc935c654407c522afefd0e8d3f2",
+      "bytes": 7528
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE110007/sample_annotations.tsv",
+      "file": "data/02ba42f53863f49a_sample_annotations.tsv",
+      "sha256": "02ba42f53863f49aeaa2934f2de01bc7352486b9b4c617389cff0ee2aa5dcc9a",
+      "bytes": 5571
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE80071/target_beta.tsv",
+      "file": "data/4ab71669908e667b_target_beta.tsv",
+      "sha256": "4ab71669908e667b20c213ea0d1fb73dbeab29628cb7a056cb67924b8e02dcb2",
+      "bytes": 11125
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE80071/sample_annotations.tsv",
+      "file": "data/f6cd12ba26f5ccee_sample_annotations.tsv",
+      "sha256": "f6cd12ba26f5cceee3f4b3c7a9a5f4c0e8f7f2bcbb6e342e493a3819905cfafb",
+      "bytes": 4297
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE81961/target_values.tsv",
+      "file": "data/94056c2da5ac81d8_target_values.tsv",
+      "sha256": "94056c2da5ac81d8719591ea2114684f39ff35e0d5c53f7181bd8e993154b756",
+      "bytes": 13111
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE81961/sample_annotations.tsv",
+      "file": "data/538032d1c679ef4c_sample_annotations.tsv",
+      "sha256": "538032d1c679ef4c062e87726e49c1e0a42af6d40b819c0813a4c4514628222c",
+      "bytes": 8566
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE196007/target_values.tsv",
+      "file": "data/76a3a2f3499704e2_target_values.tsv",
+      "sha256": "76a3a2f3499704e28695927d38f8ec00b8863f8ed88bbfdd7ce5dc152d0227a8",
+      "bytes": 4742
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE196007/sample_annotations.tsv",
+      "file": "data/178dedf5f38e7705_sample_annotations.tsv",
+      "sha256": "178dedf5f38e7705f18f4ff8a0a8f6e99cb587c56a8ed2d907e3d4ef86415d96",
+      "bytes": 4787
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE158422/target_beta.tsv",
+      "file": "data/983686df583ca7c6_target_beta.tsv",
+      "sha256": "983686df583ca7c61199e9e703571be060847606a67744c267a2dcfd795c1189",
+      "bytes": 20449
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE158422/sample_annotations.tsv",
+      "file": "data/93cf89b9592a5fb9_sample_annotations.tsv",
+      "sha256": "93cf89b9592a5fb9f90a59c58d4594734de1f4ef7d63a29efce06da0487575bb",
+      "bytes": 6514
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE157252/target_values.tsv",
+      "file": "data/77b625338daf1b7e_target_values.tsv",
+      "sha256": "77b625338daf1b7ee451a40419e114cbcb45885f05eb87f5d4d1d9981bb381d6",
+      "bytes": 68281
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE157252/sample_annotations.tsv",
+      "file": "data/fdac9ed50b619bce_sample_annotations.tsv",
+      "sha256": "fdac9ed50b619bce90651e464660906b03f0850d7b3af677f9e93c8bdcfd43dc",
+      "bytes": 17130
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE235569/target_values.tsv",
+      "file": "data/82fa9668ef3f2c81_target_values.tsv",
+      "sha256": "82fa9668ef3f2c811d2448e7449fedcc153f8d4f5f669b55d12b7745670ec551",
+      "bytes": 8293
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE235569/sample_annotations.tsv",
+      "file": "data/eddb75c186b56380_sample_annotations.tsv",
+      "sha256": "eddb75c186b563809b91fa5be365e729e5ec00f8fe34853150f2bae723e379b7",
+      "bytes": 3507
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE56420/target_values.tsv",
+      "file": "data/2c09de15e0e596c5_target_values.tsv",
+      "sha256": "2c09de15e0e596c5db909f5ae750fe93f2817e50304a714c773204e2a5eaf9cf",
+      "bytes": 3477
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE56420/sample_annotations.tsv",
+      "file": "data/bae94d232caa9e59_sample_annotations.tsv",
+      "sha256": "bae94d232caa9e595fdab11326da68f0a4d915459a1a7e8031871ec1f34b4663",
+      "bytes": 2005
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Sources/frozen_targets.tsv",
+      "file": "data/c4d17678022a85eb_frozen_targets.tsv",
+      "sha256": "c4d17678022a85eb4d9cbb12687325f2b69770f5d1aef7d7c7bf8f27f4cf507d",
+      "bytes": 1425
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE158420/four_gene_raw_counts.tsv",
+      "file": "data/14c75f979c273e7e_four_gene_raw_counts.tsv",
+      "sha256": "14c75f979c273e7e610149316045cbf59adeccfac7d921484883477edd25f156",
+      "bytes": 1329
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Data/GSE158420/sample_pair_map_and_library_sizes.tsv",
+      "file": "data/83c52680c2d22335_sample_pair_map_and_library_sizes.tsv",
+      "sha256": "83c52680c2d22335b96de80a62654681706242dd6ce919d2b98216d133bc96db",
+      "bytes": 7264
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Sources/Korea_Search/Lung_Provenance/Lung_Sample_Tissue_Chip_Metadata.tsv",
+      "file": "data/66ad9e4b1e2b6052_Lung_Sample_Tissue_Chip_Metadata.tsv",
+      "sha256": "66ad9e4b1e2b6052323375f136d638efa31b4cee7d4c9f38fff58de0b55a4468",
+      "bytes": 35715
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Sources/Korea_Search/Lung_Provenance/Lung_Pair_Chip_Metadata.tsv",
+      "file": "data/110b856a24d987de_Lung_Pair_Chip_Metadata.tsv",
+      "sha256": "110b856a24d987dea9c919e9d2b0f8a35038f97f4400816d63116cb635318780",
+      "bytes": 2670
+    },
+    {
+      "role": "context_data/inputs/cross_disease/Sources/Korea_Search/GSE158420_counts.txt.gz",
+      "file": "data/1700f3342de21135_GSE158420_counts.txt.gz",
+      "sha256": "1700f3342de211356fbad58e8791593f5308ac87773138be1f9a60a41b7a5337",
+      "bytes": 2260477
+    },
+    {
+      "role": "context_data/inputs/dataset_selection/Cross_Disease_Candidate_Ledger.tsv",
+      "file": "data/ec341719c0bc086e_Cross_Disease_Candidate_Ledger.tsv",
+      "sha256": "ec341719c0bc086ec10e16697cec1708ab95b7c4d22faca75896ec5ae1d88c5e",
+      "bytes": 13602
+    },
+    {
+      "role": "context_data/inputs/dataset_selection/Final_US_Dataset_Selection.tsv",
+      "file": "data/85c0c67a022fce93_Final_US_Dataset_Selection.tsv",
+      "sha256": "85c0c67a022fce93e6002000fb9c6b278815935deb57122c2983c5bdcf367f52",
+      "bytes": 39964
+    },
+    {
+      "role": "core.inputs_accepted_original_screen_PIPELINE_RECORD_json",
+      "file": "data/f55e92db09421700_PIPELINE_RECORD.json",
+      "sha256": "f55e92db09421700f68afbab26008bca63b12733cf7610146237209fb05f8fd9",
+      "bytes": 1695
+    },
+    {
+      "role": "core.inputs_accepted_original_screen_regions_called_constituents_tsv",
+      "file": "data/5c1009e48c3dc40c_regions_called_constituents.tsv",
+      "sha256": "5c1009e48c3dc40cc85e1c0c2bf9a8df2053bbe4490407a25df5b17776476d3b",
+      "bytes": 6636
+    },
+    {
+      "role": "core.inputs_accepted_original_screen_selected_sites_BH05_tsv",
+      "file": "data/aca411bbd120d623_selected_sites_BH05.tsv",
+      "sha256": "aca411bbd120d6233a4c3a6f043b720baaf262016cc65915b25e45a950cf467e",
+      "bytes": 12765
+    },
+    {
+      "role": "core.inputs_accepted_original_screen_variability_full_tsv_gz",
+      "file": "data/099017496457b0c2_variability_full.tsv.gz",
+      "sha256": "099017496457b0c2f2fdc54cdfe699a3ef086472c19fda38b1697029602b6ee7",
+      "bytes": 70441329
+    },
+    {
+      "role": "core.inputs_fixed_region_constituents_tsv",
+      "file": "data/8b3fa6418bfefd16_fixed_region_constituents.tsv",
+      "sha256": "8b3fa6418bfefd1626e84534174d6d31dc8b44ad955222a0d17937dbbbb33c90",
+      "bytes": 4234
+    },
+    {
+      "role": "core.inputs_processed_focal_methylation_M_tsv",
+      "file": "data/7e9b56b577efe1d1_focal_methylation_M.tsv",
+      "sha256": "7e9b56b577efe1d1239ae78b18fdb992c5b12ee9635d55d845c13c343aaef1a2",
+      "bytes": 51432
+    },
+    {
+      "role": "core.inputs_processed_focal_rna_logcpm_tsv",
+      "file": "data/fe71dd3b4ba0522a_focal_rna_logcpm.tsv",
+      "sha256": "fe71dd3b4ba0522afa19a224df5c47f606c4cb8641ac73c5411976e35a6f40c0",
+      "bytes": 8251
+    },
+    {
+      "role": "core.inputs_processed_focal_rna_weights_tsv",
+      "file": "data/b9a0b5ff3561e0af_focal_rna_weights.tsv",
+      "sha256": "b9a0b5ff3561e0af3594df191e117431d43b92d21c37415be874bcd42588a715",
+      "bytes": 8221
+    },
+    {
+      "role": "core.inputs_processed_focal_rna_weights_composition_tsv",
+      "file": "data/d9b0bdf3c7bc6e2e_focal_rna_weights_composition.tsv",
+      "sha256": "d9b0bdf3c7bc6e2e0bb5a11fcfd136bb31059174c061939adb302ab7641b8e89",
+      "bytes": 8220
+    },
+    {
+      "role": "core.inputs_processed_focal_units_tsv",
+      "file": "data/ba1ba43ff99801b0_focal_units.tsv",
+      "sha256": "ba1ba43ff99801b009f52ea9501169cd1ee46030f4f6a30e4dfc50a89c34c237",
+      "bytes": 1011
+    },
+    {
+      "role": "core.inputs_processed_methylation_M_full_tsv_gz",
+      "file": "data/01da2d59027febef_methylation_M_full.tsv.gz",
+      "sha256": "01da2d59027febef0786f563be23e85219402fde0eaf0151080aacfa9197566d",
+      "bytes": 236635903
+    },
+    {
+      "role": "core.inputs_processed_participant_design_tsv",
+      "file": "data/95bf357ab85f5f80_participant_design.tsv",
+      "sha256": "95bf357ab85f5f80c0071e18833e77ef062ce159b15e47c07c82d18a1a15f715",
+      "bytes": 3477
+    },
+    {
+      "role": "core.inputs_processed_region_constituents_tsv",
+      "file": "data/419a0aac02cd742a_region_constituents.tsv",
+      "sha256": "419a0aac02cd742aa942a76ce249530a1b754ce6f8c02c313cc58d383332b77c",
+      "bytes": 2850
+    },
+    {
+      "role": "core.inputs_processed_rna_counts_tsv_gz",
+      "file": "data/e37880861f46409b_rna_counts.tsv.gz",
+      "sha256": "e37880861f46409b1eb61231a8e9eedc15da087ed21ac962779bdb42eba8c896",
+      "bytes": 1184281
+    },
+    {
+      "role": "core.reference_Constituent_M_coherence_tsv",
+      "file": "data/c3aa709c4a7aab83_Constituent_M_coherence.tsv",
+      "sha256": "c3aa709c4a7aab83dcc87532e6652a1b0d68b02fa66b3acaae8b5636ea84ed8e",
+      "bytes": 10134
+    },
+    {
+      "role": "core.reference_Constituent_M_values_tsv",
+      "file": "data/497ce54b3236df15_Constituent_M_values.tsv",
+      "sha256": "497ce54b3236df155a0e343ef8d6fb2d799cbceaf11b492d320d63db7b1b1eb8",
+      "bytes": 51079
+    },
+    {
+      "role": "core.reference_RNA_distribution_summary_tsv",
+      "file": "data/3f361c17b0b513a5_RNA_distribution_summary.tsv",
+      "sha256": "3f361c17b0b513a51e8c613083b9ef3d68fb5c25c578802d42f537b2524039ac",
+      "bytes": 2129
+    },
+    {
+      "role": "core.reference_Table_S30k_sim2_probe_flags_and_processing_presence_tsv",
+      "file": "data/da062f5a5409e331_Table_S30k_sim2_probe_flags_and_processing_presence.tsv",
+      "sha256": "da062f5a5409e3312b73f740adce276accfd1545ff59a916c6a5c23de06989f0",
+      "bytes": 7384
+    },
+    {
+      "role": "core.reference_Table_S30l_sim2_processing_discovery_vs_RNA_tsv",
+      "file": "data/6a700fe810139845_Table_S30l_sim2_processing_discovery_vs_RNA.tsv",
+      "sha256": "6a700fe81013984590a0eb07d5ba785d11be1d3e929498f98c2d0ffbd709dfe0",
+      "bytes": 880
+    },
+    {
+      "role": "core.reference_cell_conditional_full_tsv",
+      "file": "data/33e71137491246fc_cell_conditional_full.tsv",
+      "sha256": "33e71137491246fcb1dd49f2ae7a6d33e2861943af3138209f2c6c4cc588a4ea",
+      "bytes": 10096
+    },
+    {
+      "role": "core.reference_cell_sensitivity_full_tsv",
+      "file": "data/6c649a51d3e2fbda_cell_sensitivity_full.tsv",
+      "sha256": "6c649a51d3e2fbdacaeda757974e20d91684e9e34662bda9ab5ca8d41acd6cac",
+      "bytes": 32771
+    },
+    {
+      "role": "core.reference_cell_within_full_tsv",
+      "file": "data/55c8a7fe9f2626d2_cell_within_full.tsv",
+      "sha256": "55c8a7fe9f2626d2b7237f33de70538188747d9c0d3718298671843787c67d7a",
+      "bytes": 21154
+    },
+    {
+      "role": "core.reference_contributor_designs_tsv",
+      "file": "data/ff8d52ca4d2a7360_contributor_designs.tsv",
+      "sha256": "ff8d52ca4d2a7360826ae77da59073ac541b497653cb509c8f165c7b41956c75",
+      "bytes": 10201
+    },
+    {
+      "role": "core.reference_contributor_full_tsv",
+      "file": "data/394226709fb6f681_contributor_full.tsv",
+      "sha256": "394226709fb6f681defb7bdbe24fb5976c58ae902e7d595722be61bf0acc271e",
+      "bytes": 43964
+    },
+    {
+      "role": "core.reference_fixed27_per_locus_genome_loo_retention_tsv",
+      "file": "data/78798d3e2827b3db_fixed27_per_locus_genome_loo_retention.tsv",
+      "sha256": "78798d3e2827b3db11cc32cbf08814165a060fa9ef628a30477b236468c75b07",
+      "bytes": 13576
+    },
+    {
+      "role": "core.reference_four_gene_genome_CpG_omission_summary_tsv",
+      "file": "data/28b04153a3244ebc_four_gene_genome_CpG_omission_summary.tsv",
+      "sha256": "28b04153a3244ebcf99f08c183d7362442bc5c191f81e400e39265911dfa39f2",
+      "bytes": 26906
+    },
+    {
+      "role": "core.reference_locus_endpoints_full_tsv",
+      "file": "data/00e6959eb4655204_locus_endpoints_full.tsv",
+      "sha256": "00e6959eb46552040b71cc42b45318b447b852086fe4d6c74f85f0e519555df6",
+      "bytes": 116377
+    },
+    {
+      "role": "core.reference_original65_all_omissions_tsv",
+      "file": "data/27a9a0b41f3fc969_original65_all_omissions.tsv",
+      "sha256": "27a9a0b41f3fc96956016b77b64766a24ed4498e31b911113df728d0206bb38a",
+      "bytes": 447067
+    },
+    {
+      "role": "core.reference_region_nomination_full_tsv",
+      "file": "data/b9e47f08813e187c_region_nomination_full.tsv",
+      "sha256": "b9e47f08813e187cbf2d942397259ea85c3a41cce525f7c199931d89e3caf1de",
+      "bytes": 13102
+    },
+    {
+      "role": "core.reference_regions_called_constituents_tsv",
+      "file": "data/5c1009e48c3dc40c_regions_called_constituents.tsv",
+      "sha256": "5c1009e48c3dc40cc85e1c0c2bf9a8df2053bbe4490407a25df5b17776476d3b",
+      "bytes": 6636
+    },
+    {
+      "role": "core.reference_rna_core_models_tsv",
+      "file": "data/d41bc238f9e18b19_rna_core_models.tsv",
+      "sha256": "d41bc238f9e18b1926c510140381b95d2188aa118f42e0862d779f3b2713c7e2",
+      "bytes": 17672
+    },
+    {
+      "role": "core.inputs_accepted_original_screen_mean_full_tsv_gz",
+      "file": "data/02847850fd522df4_mean_full.tsv.gz",
+      "sha256": "02847850fd522df45dac85332adda0fb914e5eed071b898b5a51b66d12a006ec",
+      "bytes": 30348486
+    },
+    {
+      "role": "core.inputs_processed_idat_sample_sheet_tsv",
+      "file": "data/df0f30f9e873d96e_idat_sample_sheet.tsv",
+      "sha256": "df0f30f9e873d96ed1f87da90c183c93c39a9e3b5d7da1b5f40212b2114477ef",
+      "bytes": 2085
+    },
+    {
+      "role": "core.inputs_probe_annotations_pidsley2016_crossreactive_epic_csv",
+      "file": "data/7999ff8e922bad18_pidsley2016_crossreactive_epic.csv",
+      "sha256": "7999ff8e922bad18a7ef62adb0c3b9466eadc9db9f79bc14e42bbc0e3eebded4",
+      "bytes": 1024337
+    },
+    {
+      "role": "core.inputs_accepted_original_screen_paired_CpG_metadata_tsv",
+      "file": "data/c151083d2ecf17b5_paired_CpG_metadata.tsv",
+      "sha256": "c151083d2ecf17b51bceb0c8000ddd1862220f38e25a93ba715c6f5914a8780d",
+      "bytes": 28110
+    },
+    {
+      "role": "core.inputs_accepted_kim_kim_current_union135_tsv",
+      "file": "data/10efc5040da789b1_kim_current_union135.tsv",
+      "sha256": "10efc5040da789b11d0ef08b5562392d83a851b5f56f8650541e53eacd12d3ce",
+      "bytes": 13865
+    },
+    {
+      "role": "figure_saved/Main1/Data/Gene_Context_Tags.json",
+      "file": "data/6e20aa2a3ba1e566_Gene_Context_Tags.json",
+      "sha256": "6e20aa2a3ba1e56666cd0596ab2e684d2f73de63cd486cbe5f43802fff49ce08",
+      "bytes": 1918
+    },
+    {
+      "role": "figure_saved/Main1/Data/ML_assessment_summary.json",
+      "file": "data/33b8b8fc957862b1_ML_assessment_summary.json",
+      "sha256": "33b8b8fc957862b167762c230321347baee4af5f274aea3ed0b93d6341b1be88",
+      "bytes": 1630
+    },
+    {
+      "role": "figure_saved/Main1/Data/ML_primary_branch_results.tsv",
+      "file": "data/fc0905a98274e9fb_ML_primary_branch_results.tsv",
+      "sha256": "fc0905a98274e9fbb918dfeb9bffab54baa4fd6dd196571242b15ad123857e92",
+      "bytes": 654
+    },
+    {
+      "role": "figure_saved/Main1/Data/Polished_Figure_Source_Verification.json",
+      "file": "data/c30378df952225cd_Polished_Figure_Source_Verification.json",
+      "sha256": "c30378df952225cd62bf4050d83bf5ca059643e58a4b5fd9f934b2692c1a16a9",
+      "bytes": 4609
+    },
+    {
+      "role": "figure_saved/Main1/Data/cg00773978.tsv",
+      "file": "data/b325407f99eb0210_cg00773978.tsv",
+      "sha256": "b325407f99eb021052319bce4c116d88abde47f936c96faf21b2eecf78f9577a",
+      "bytes": 4542
+    },
+    {
+      "role": "figure_saved/Main1/Data/mean_variability_background_bins.tsv",
+      "file": "data/43b0d1ec17a92d6a_mean_variability_background_bins.tsv",
+      "sha256": "43b0d1ec17a92d6a8f61e1d45977d411453451327393166e2d89ffe7a80cbf0a",
+      "bytes": 53254
+    },
+    {
+      "role": "figure_saved/Main1/Data/mean_variability_selected.tsv",
+      "file": "data/a253948559fe5c7a_mean_variability_selected.tsv",
+      "sha256": "a253948559fe5c7ab2ec1844b090fa573959a05ee62a0d8d26e9acc243b74dc0",
+      "bytes": 20959
+    },
+    {
+      "role": "figure_saved/Main1/Data/mean_variability_summary.json",
+      "file": "data/58cd6a89e68183bb_mean_variability_summary.json",
+      "sha256": "58cd6a89e68183bb59493c75a8f12ea30267dd0d8967e95d5a3d619b735c5d92",
+      "bytes": 477
+    },
+    {
+      "role": "figure_saved/Main1/Data/source_manifest.tsv",
+      "file": "data/1074a82ee214e90f_source_manifest.tsv",
+      "sha256": "1074a82ee214e90f4f7f5a32fd793c6199105b7232b03cf07fdcd320acafbcc7",
+      "bytes": 1197
+    },
+    {
+      "role": "figure_saved/Main2/Data/region_nomination_full.tsv",
+      "file": "data/b9e47f08813e187c_region_nomination_full.tsv",
+      "sha256": "b9e47f08813e187cbf2d942397259ea85c3a41cce525f7c199931d89e3caf1de",
+      "bytes": 13102
+    },
+    {
+      "role": "figure_saved/Main2/Data/rna_points.tsv",
+      "file": "data/0ce22324ce73a30e_rna_points.tsv",
+      "sha256": "0ce22324ce73a30e25847dbc952c234cf905c93b8d05d71830779a55775f893f",
+      "bytes": 25012
+    },
+    {
+      "role": "figure_saved/Main2/Data/source_manifest.tsv",
+      "file": "data/fd2f1b5463c95043_source_manifest.tsv",
+      "sha256": "fd2f1b5463c95043ecb68ac2493606071ad5dedf075e1085ce69cea5d461e818",
+      "bytes": 363
+    },
+    {
+      "role": "figure_saved/Main2/Inputs/Source_Integrity.tsv",
+      "file": "data/f26b24b51f53d167_Source_Integrity.tsv",
+      "sha256": "f26b24b51f53d1676d55d3f9addf1b58b70551807d12cc0a911aa705f9bf1637",
+      "bytes": 394
+    },
+    {
+      "role": "figure_saved/Main2/Source_Data.xlsx",
+      "file": "data/20dfe99c0b38a3c8_Source_Data.xlsx",
+      "sha256": "20dfe99c0b38a3c8bc9e4bda58bc7e6ecfb4854929e9e48dbb4f728415f49835",
+      "bytes": 27209
+    },
+    {
+      "role": "figure_saved/Main3/Data/rna_core_models.tsv",
+      "file": "data/d41bc238f9e18b19_rna_core_models.tsv",
+      "sha256": "d41bc238f9e18b1926c510140381b95d2188aa118f42e0862d779f3b2713c7e2",
+      "bytes": 17672
+    },
+    {
+      "role": "figure_saved/Main3/Data/rna_iqr.tsv",
+      "file": "data/05c11dfec2982454_rna_iqr.tsv",
+      "sha256": "05c11dfec2982454a6b5b51f53cbc648f830e7badb40b15ea01f40289151bd78",
+      "bytes": 2557
+    },
+    {
+      "role": "figure_saved/Main3/Data/rna_lines.tsv",
+      "file": "data/4674bc5ba87fe859_rna_lines.tsv",
+      "sha256": "4674bc5ba87fe859bc6e57696dfa3b1f6ace490b9dd60fe4d5d14551f699032b",
+      "bytes": 2425
+    },
+    {
+      "role": "figure_saved/Main3/Data/rna_points.tsv",
+      "file": "data/0ce22324ce73a30e_rna_points.tsv",
+      "sha256": "0ce22324ce73a30e25847dbc952c234cf905c93b8d05d71830779a55775f893f",
+      "bytes": 25012
+    },
+    {
+      "role": "figure_saved/Main3/Data/source_manifest.tsv",
+      "file": "data/2f7eeffce9497c4e_source_manifest.tsv",
+      "sha256": "2f7eeffce9497c4e6d594bdc7799a54707cfb3e6e68bc1e69fffcf3069d363d6",
+      "bytes": 657
+    },
+    {
+      "role": "figure_saved/Main4/Inputs/four_candidate_transcriptome_edgeR_results.csv",
+      "file": "data/93b78562ed982a53_four_candidate_transcriptome_edgeR_results.csv",
+      "sha256": "93b78562ed982a53bf013e905c7ea6b6746622dfd0c69c69f327c4a99c4df103",
+      "bytes": 36285
+    },
+    {
+      "role": "figure_saved/Main4/Inputs/four_gene_endpoint_comparison_final.tsv",
+      "file": "data/eb68e5fa6d8d28a0_four_gene_endpoint_comparison_final.tsv",
+      "sha256": "eb68e5fa6d8d28a052ff9b35b37f8c616214021ae9beef9bb801043bf1503445",
+      "bytes": 1309
+    },
+    {
+      "role": "figure_saved/Main4/Inputs/four_region_method_summary.tsv",
+      "file": "data/6469c6276cf60c47_four_region_method_summary.tsv",
+      "sha256": "6469c6276cf60c47ba4c000f83d70b15d9c06033eab135822e0af5617c5bca99",
+      "bytes": 876
+    },
+    {
+      "role": "figure_saved/Main4/Inputs/genomewide_primary_omission_progress.tsv",
+      "file": "data/4f87a308c7f5ec60_genomewide_primary_omission_progress.tsv",
+      "sha256": "4f87a308c7f5ec6023512c4eaf1565179adbcc09b619348120aec1d47f91c91b",
+      "bytes": 2187
+    },
+    {
+      "role": "figure_saved/Main4/Inputs/harmonized_primary_branch_correction.tsv",
+      "file": "data/fc0905a98274e9fb_ML_primary_branch_results.tsv",
+      "sha256": "fc0905a98274e9fbb918dfeb9bffab54baa4fd6dd196571242b15ad123857e92",
+      "bytes": 654
+    },
+    {
+      "role": "figure_saved/Main4/Inputs/original65_omission_effect_P_q_shift_summary.tsv",
+      "file": "data/b8ba3d0f9e97d792_original65_omission_effect_P_q_shift_summary.tsv",
+      "sha256": "b8ba3d0f9e97d79254deda3f7d15f52d2a352f330e34aa9c45bfd9381a32f12a",
+      "bytes": 80053
+    },
+    {
+      "role": "figure_saved/Main4/Inputs/source_manifest.tsv",
+      "file": "data/8052fafd01ece8aa_source_manifest.tsv",
+      "sha256": "8052fafd01ece8aaaafa6a2da5ad5300321dd096d30a34fe9ca5f3482ac4ab82",
+      "bytes": 1314
+    },
+    {
+      "role": "figure_saved/Supplementary1/Data/PCA_eigenvalues_all_axes.tsv",
+      "file": "data/f4a18d4fa2802b04_PCA_eigenvalues_all_axes.tsv",
+      "sha256": "f4a18d4fa2802b04e76c41b3e673deedcf4299ce42d4a468e55070439d4b7f38",
+      "bytes": 18561
+    },
+    {
+      "role": "figure_saved/Supplementary1/Data/PCA_nuisance_axis_associations.tsv",
+      "file": "data/5460a28c25cd9918_PCA_nuisance_axis_associations.tsv",
+      "sha256": "5460a28c25cd9918624df27fd0fccb50c2bb4905941e42114965ef4f43753e68",
+      "bytes": 75018
+    },
+    {
+      "role": "figure_saved/Supplementary1/Data/PCA_participant_LOO_stability.tsv",
+      "file": "data/a6e19e764de7debf_PCA_participant_LOO_stability.tsv",
+      "sha256": "a6e19e764de7debf51cb9aa7d5916ee18d7cd1c795a7c30d65d08b427e7305a6",
+      "bytes": 43687
+    },
+    {
+      "role": "figure_saved/Supplementary1/Data/PCA_scores_all_axes.tsv",
+      "file": "data/041985d459aabdbd_PCA_scores_all_axes.tsv",
+      "sha256": "041985d459aabdbd8113d028222e379184ec13b565c37ba6bc52bc08a5398337",
+      "bytes": 532052
+    },
+    {
+      "role": "figure_saved/Supplementary1/Data/Ward_participant_LOO_stability.tsv",
+      "file": "data/4f0ec14b08162212_Ward_participant_LOO_stability.tsv",
+      "sha256": "4f0ec14b0816221272edd1930bfa96f9f70c06c20d89d0460cc00318010dfe3e",
+      "bytes": 55663
+    },
+    {
+      "role": "figure_saved/Supplementary1/Data/Ward_partition_summary.tsv",
+      "file": "data/90ba56fcafbb1af5_Ward_partition_summary.tsv",
+      "sha256": "90ba56fcafbb1af583a651d76288f6fc7183df053e7c76f919528582737f3732",
+      "bytes": 2373
+    },
+    {
+      "role": "figure_saved/Supplementary1/Data/candidate_donor_expression_tests.tsv",
+      "file": "data/011a0e8bc837b1f6_candidate_donor_expression_tests.tsv",
+      "sha256": "011a0e8bc837b1f61af203988166c61fc3b8f3598309a6ff3742384a7b365b6c",
+      "bytes": 32954
+    },
+    {
+      "role": "figure_saved/Supplementary1/Data/donor_metadata.tsv",
+      "file": "data/a1566c1c52426f64_donor_metadata.tsv",
+      "sha256": "a1566c1c52426f64622d2179ecf720d23d33f3a1c2a234dd0c2dcfc7f217760b",
+      "bytes": 1737
+    },
+    {
+      "role": "figure_saved/Supplementary1/Data/participant_metadata.tsv",
+      "file": "data/0173d16cd547a04f_participant_metadata.tsv",
+      "sha256": "0173d16cd547a04fa34d1721c21bf608056d8bce604b5224a50f8996cd3eebb3",
+      "bytes": 5049
+    },
+    {
+      "role": "figure_saved/Supplementary1/Data/regional_pairwise_correlations_full_family_q.tsv",
+      "file": "data/b0d369023d36c2f0_regional_pairwise_correlations_full_family_q.tsv",
+      "sha256": "b0d369023d36c2f01b8281c3a6a0a2dd40b4664a75aff57b14d40ebda08c789c",
+      "bytes": 9427
+    },
+    {
+      "role": "figure_saved/Supplementary1/Data/source_manifest.tsv",
+      "file": "data/0ae7081552bf851e_source_manifest.tsv",
+      "sha256": "0ae7081552bf851e7116f24e049dab1c1ba6c1685a21ad272d885a065408cc61",
+      "bytes": 2020
+    },
+    {
+      "role": "figure_saved/Supplementary2/Data/RNA_programs.tsv",
+      "file": "data/076a50fdc4097fe4_RNA_programs.tsv",
+      "sha256": "076a50fdc4097fe4e5d55c16ef37d12f7128945a9b729965f4cb1203b9d9d2ee",
+      "bytes": 59078
+    },
+    {
+      "role": "figure_saved/Supplementary2/Data/disease_programs.tsv",
+      "file": "data/cbc14439cf4af630_disease_programs.tsv",
+      "sha256": "cbc14439cf4af6303fc2fcb27c58a81f81d54a089eadc3bf24f339d0f2358360",
+      "bytes": 25143
+    },
+    {
+      "role": "figure_saved/Supplementary2/Data/gometh_GO.tsv",
+      "file": "data/102585c39627489e_gometh_GO.tsv",
+      "sha256": "102585c39627489e202076b5e946f5e66734e2702dbe7280d09bf6fd512b0df3",
+      "bytes": 1472250
+    },
+    {
+      "role": "figure_saved/Supplementary2/Data/gometh_KEGG.tsv",
+      "file": "data/2a36a0ec6c85318a_gometh_KEGG.tsv",
+      "sha256": "2a36a0ec6c85318ada683d92d11929d8fcf88414739ed9932cf701d80b29f6e8",
+      "bytes": 19877
+    },
+    {
+      "role": "figure_saved/Supplementary2/Data/regionalM_programs.tsv",
+      "file": "data/cc9926fc8cd88f1d_regionalM_programs.tsv",
+      "sha256": "cc9926fc8cd88f1d8339af5c6b82e6707e8199d5313c4ab0e23257bb137713f9",
+      "bytes": 60493
+    },
+    {
+      "role": "figure_saved/Supplementary2/Data/source_manifest.tsv",
+      "file": "data/41fbd863e463dc47_source_manifest.tsv",
+      "sha256": "41fbd863e463dc47916d46a2ffb73ac3b5a1c7ba11fb6d21ad662a67bcb718a2",
+      "bytes": 904
+    },
+    {
+      "role": "figure_saved/Supplementary3/Data/GTEx_correlations.tsv",
+      "file": "data/e9fdc123db0aeeb7_GTEx_correlations.tsv",
+      "sha256": "e9fdc123db0aeeb73f9100b9d89c1046a8ebe08c7cc357998a422c821970096f",
+      "bytes": 12614
+    },
+    {
+      "role": "figure_saved/Supplementary3/Data/GTEx_coverage.tsv",
+      "file": "data/cef96526ccd13e8b_GTEx_coverage.tsv",
+      "sha256": "cef96526ccd13e8b2ba577ca91e38fb43a79ea2856d942155a43f6d30ef8a916",
+      "bytes": 175
+    },
+    {
+      "role": "figure_saved/Supplementary3/Data/GTEx_demographic_tests.tsv",
+      "file": "data/263bf950abe007f2_GTEx_demographic_tests.tsv",
+      "sha256": "263bf950abe007f252de051084c827f51472286bf7c03de7aaf8ea9dd201114a",
+      "bytes": 12739
+    },
+    {
+      "role": "figure_saved/Supplementary3/Data/GTEx_descriptives.tsv",
+      "file": "data/74fb94abbe1ea235_GTEx_descriptives.tsv",
+      "sha256": "74fb94abbe1ea23507ada2de04ae81442e9faae6b872e9aa5f6fb6784f13ca39",
+      "bytes": 8973
+    },
+    {
+      "role": "figure_saved/Supplementary3/Data/GTEx_metadata.tsv",
+      "file": "data/c1371b14f9d2c1e7_GTEx_metadata.tsv",
+      "sha256": "c1371b14f9d2c1e79e36fe387d3a0905c734d2669318de4801ec4c6ffff8a7c0",
+      "bytes": 277050
+    },
+    {
+      "role": "figure_saved/Supplementary3/Data/GTEx_omnibus.tsv",
+      "file": "data/bb25db0cb95b36bf_GTEx_omnibus.tsv",
+      "sha256": "bb25db0cb95b36bfa104cefb229ec5d5f73e7326e036458ae3c7e199c4adb79a",
+      "bytes": 574
+    },
+    {
+      "role": "figure_saved/Supplementary3/Data/US_region_tests.tsv",
+      "file": "data/7113c4a425b8fd22_US_region_tests.tsv",
+      "sha256": "7113c4a425b8fd2221eb75f17f75646517adbcd95cc56b24e2c6e0c35537c8c8",
+      "bytes": 92205
+    },
+    {
+      "role": "figure_saved/Supplementary3/Data/source_manifest.tsv",
+      "file": "data/90ee7ff5448bfb5e_source_manifest.tsv",
+      "sha256": "90ee7ff5448bfb5eacd8f1f5c3d1174e09b4a227a4e2d8139bdc58d0e981663c",
+      "bytes": 1275
+    },
+    {
+      "role": "figure_saved/Supplementary4/Data/candidate_donor_TMM_logCPM.tsv",
+      "file": "data/ff7d246d189d9090_candidate_donor_TMM_logCPM.tsv",
+      "sha256": "ff7d246d189d9090c625120e631b92b99e2f44643433c90b87d2e65c7617b02f",
+      "bytes": 10016
+    },
+    {
+      "role": "figure_saved/Supplementary4/Data/plot_inferred_context_summary.tsv",
+      "file": "data/581135540c2bf2b7_plot_inferred_context_summary.tsv",
+      "sha256": "581135540c2bf2b7ceb211892df468ed5009df1fda8806ec295db699e43bcf8c",
+      "bytes": 2645
+    },
+    {
+      "role": "figure_saved/Supplementary4/Data/source_manifest.tsv",
+      "file": "data/462a3645d79cba24_source_manifest.tsv",
+      "sha256": "462a3645d79cba249a7b038de3ff5b5f9ca95314514b5b948ae8500d523eff03",
+      "bytes": 451
+    },
+    {
+      "role": "figure_saved/Supplementary5/Data/cohort_design_summary.tsv",
+      "file": "data/ed2353d2398468bd_cohort_design_summary.tsv",
+      "sha256": "ed2353d2398468bdd8976b10b2d74ed8795c2b0c0ec478c0c152c22fc9990c86",
+      "bytes": 501
+    },
+    {
+      "role": "figure_saved/Supplementary5/Data/external_region_panels.tsv",
+      "file": "data/ce80fa34d947523c_external_region_panels.tsv",
+      "sha256": "ce80fa34d947523cd8fd0be033d7a94286a046e68f1404b9ba8321ba67941fce",
+      "bytes": 28604
+    },
+    {
+      "role": "figure_saved/Supplementary5/Data/figure_number.txt",
+      "file": "data/7a99933b94394843_figure_number.txt",
+      "sha256": "7a99933b94394843950513a8bbaa21d33492b2b44fa34a88f2d4d0c3a97e2860",
+      "bytes": 3
+    },
+    {
+      "role": "figure_saved/Supplementary5/Data/source_manifest.tsv",
+      "file": "data/3bae848e0c6e3914_source_manifest.tsv",
+      "sha256": "3bae848e0c6e3914de808ca03184c2a01c4de825c81d046d91600fb5782a1bc2",
+      "bytes": 446
+    },
+    {
+      "role": "figure_saved/Supplementary6/Data/cohort_design_summary.tsv",
+      "file": "data/ed2353d2398468bd_cohort_design_summary.tsv",
+      "sha256": "ed2353d2398468bdd8976b10b2d74ed8795c2b0c0ec478c0c152c22fc9990c86",
+      "bytes": 501
+    },
+    {
+      "role": "figure_saved/Supplementary6/Data/external_region_panels.tsv",
+      "file": "data/ce80fa34d947523c_external_region_panels.tsv",
+      "sha256": "ce80fa34d947523cd8fd0be033d7a94286a046e68f1404b9ba8321ba67941fce",
+      "bytes": 28604
+    },
+    {
+      "role": "figure_saved/Supplementary6/Data/figure_number.txt",
+      "file": "data/65d3795e76922a24_figure_number.txt",
+      "sha256": "65d3795e76922a24de4778ef0964c4b08e32ba6dcbc102efe15a1b8a3f495356",
+      "bytes": 3
+    },
+    {
+      "role": "figure_saved/Supplementary6/Data/source_manifest.tsv",
+      "file": "data/3bae848e0c6e3914_source_manifest.tsv",
+      "sha256": "3bae848e0c6e3914de808ca03184c2a01c4de825c81d046d91600fb5782a1bc2",
+      "bytes": 446
+    },
+    {
+      "role": "figure_saved/Supplementary7/Inputs/DNA_only_predictions.tsv.gz",
+      "file": "data/31db734b3d24440c_DNA_only_predictions.tsv.gz",
+      "sha256": "31db734b3d24440c7bffc882c9bfc4fd5a1c3590c8bfe9d531cdb60d73194d89",
+      "bytes": 2138
+    },
+    {
+      "role": "figure_saved/Supplementary7/Inputs/broad_four_candidate_RNA_transfer_metrics.tsv",
+      "file": "data/2d7d66d9c8fcb075_broad_four_candidate_RNA_transfer_metrics.tsv",
+      "sha256": "2d7d66d9c8fcb075065b008a2c0f96d442b86c1d914933bcb8fa95ad58002a20",
+      "bytes": 433
+    },
+    {
+      "role": "figure_saved/Supplementary7/Inputs/broad_vs_inflammatory_paired_comparison.tsv",
+      "file": "data/5078f9e4373d2420_broad_vs_inflammatory_paired_comparison.tsv",
+      "sha256": "5078f9e4373d242076b7b89cb609a27258fd61d021ca0ad49959976c2cfb5e64",
+      "bytes": 681
+    },
+    {
+      "role": "figure_saved/Supplementary7/Inputs/four_candidate_RNA_transfer_metrics.tsv",
+      "file": "data/9b1bbcd5d286bfd9_four_candidate_RNA_transfer_metrics.tsv",
+      "sha256": "9b1bbcd5d286bfd90840250360d446e1ac5b62ce471fa00c74c58ef5829611c1",
+      "bytes": 875
+    },
+    {
+      "role": "figure_saved/Supplementary7/Inputs/harmonized_primary_branch_correction.tsv",
+      "file": "data/fc0905a98274e9fb_ML_primary_branch_results.tsv",
+      "sha256": "fc0905a98274e9fbb918dfeb9bffab54baa4fd6dd196571242b15ad123857e92",
+      "bytes": 654
+    },
+    {
+      "role": "figure_saved/Supplementary8/Inputs/source_test_donor_metrics.tsv",
+      "file": "data/78d565772399a442_source_test_donor_metrics.tsv",
+      "sha256": "78d565772399a442769c06ffa0d7061a5ada5eb61f42bff9b18217df057653c3",
+      "bytes": 4362
+    },
+    {
+      "role": "figure_saved/Supplementary8/Inputs/split_sensitivity_summary.tsv",
+      "file": "data/7a8507db8f10c1d4_split_sensitivity_summary.tsv",
+      "sha256": "7a8507db8f10c1d4c68c56daa3483f6c6fbc09c1b655d752163fec9b0d777735",
+      "bytes": 1840
+    },
+    {
+      "role": "figure_saved/Supplementary8/Inputs/target_RNA_metrics.tsv",
+      "file": "data/cc03c5b47743cbed_target_RNA_metrics.tsv",
+      "sha256": "cc03c5b47743cbedba3ee1657df71bab97e38cb5fee61c946be65c65a14c179e",
+      "bytes": 13277
+    },
+    {
+      "role": "figure_saved/Supplementary8/Protocol/split_sensitivity_plan.json",
+      "file": "data/a6c0819a2d374bc1_split_sensitivity_plan.json",
+      "sha256": "a6c0819a2d374bc15cd590006beda8e044d7632415aa335ed933cb5a5cc89023",
+      "bytes": 16056
+    },
+    {
+      "role": "figure_saved/Supplementary9/Inputs/candidate_source_metrics.tsv",
+      "file": "data/9473a721c97d8260_candidate_source_metrics.tsv",
+      "sha256": "9473a721c97d82602e9fa0d340402bf1fb7ccf364571afe77b67f6d12aa8d9a3",
+      "bytes": 2102
+    },
+    {
+      "role": "figure_saved/Supplementary10/Inputs/four_candidate_participant_detection.csv",
+      "file": "data/2edc7b4170b6d3e7_four_candidate_participant_detection.csv",
+      "sha256": "2edc7b4170b6d3e7b44ba41ae112f41007af0335ffad47c90969fa70ca4cb3d5",
+      "bytes": 143238
+    },
+    {
+      "role": "figure_saved/Supplementary10/Inputs/four_candidate_transcriptome_edgeR_results.csv",
+      "file": "data/93b78562ed982a53_four_candidate_transcriptome_edgeR_results.csv",
+      "sha256": "93b78562ed982a53bf013e905c7ea6b6746622dfd0c69c69f327c4a99c4df103",
+      "bytes": 36285
+    },
+    {
+      "role": "figure_saved/Supplementary10/Inputs/participant_celltype_design.csv",
+      "file": "data/841604236bff2134_participant_celltype_design.csv",
+      "sha256": "841604236bff21345338b66dd1f6941f5dc22a3832557d4f4587d94842d311ad",
+      "bytes": 31041
+    },
+    {
+      "role": "figure_saved/Supplementary10/Inputs/participant_mapping.csv",
+      "file": "data/86ad28c7a5297cf1_participant_mapping.csv",
+      "sha256": "86ad28c7a5297cf10f2d19c8d0d64393725fc2f098f33b0a9b53134cb660c212",
+      "bytes": 3196
+    },
+    {
+      "role": "figure_saved/Supplementary11/Inputs/binary_metrics.tsv",
+      "file": "data/9a0271749d610117_binary_metrics.tsv",
+      "sha256": "9a0271749d610117d3cdfbea83e218bd251b992b18f3354d970339d55db0d870",
+      "bytes": 52973
+    },
+    {
+      "role": "figure_saved/Supplementary11/Inputs/diffvar_metrics.tsv",
+      "file": "data/405a831f6579e2ae_diffvar_metrics.tsv",
+      "sha256": "405a831f6579e2ae3f1bac6a668dfca8523d1af6b4fdbc88961f49e67e280e48",
+      "bytes": 4060
+    },
+    {
+      "role": "figure_saved/Supplementary11/Inputs/refinement_metrics.tsv",
+      "file": "data/76f7ed9ec2ba4ffa_refinement_metrics.tsv",
+      "sha256": "76f7ed9ec2ba4ffa93a2cab55209f276cde5fdc939b51409e2f1b8c94ee2e940",
+      "bytes": 1568
+    },
+    {
+      "role": "figure_saved/Supplementary12/Inputs/bulk_rna_design.tsv",
+      "file": "data/9d9eb93925d707ea_bulk_rna_design.tsv",
+      "sha256": "9d9eb93925d707ea3ccdfb7368f804d50d72c8b20eba7546998bdbc8b577b796",
+      "bytes": 5634
+    },
+    {
+      "role": "figure_saved/Supplementary12/Inputs/heldout_reference_mixture_estimates.tsv",
+      "file": "data/af4dc644edf894d7_heldout_reference_mixture_estimates.tsv",
+      "sha256": "af4dc644edf894d7d5ca6e78a57c02a90f5c4bc8fef72b3aa1c547c19388ff99",
+      "bytes": 29472
+    },
+    {
+      "role": "figure_saved/Supplementary12/Inputs/participant_RNA_program_scores.tsv",
+      "file": "data/3f02acd0231fcdc3_participant_RNA_program_scores.tsv",
+      "sha256": "3f02acd0231fcdc3e73c4ceb98bad3e806bec45445e96be76c5b6bff4d5f799b",
+      "bytes": 6754
+    },
+    {
+      "role": "figure_saved/Supplementary12/Inputs/participant_axis_nuisance_associations.tsv",
+      "file": "data/4b2aed47f88ab528_participant_axis_nuisance_associations.tsv",
+      "sha256": "4b2aed47f88ab528db24b2d85e294e63bfda0aa6dba62a5ee94c08b3bc05a934",
+      "bytes": 1857
+    },
+    {
+      "role": "figure_saved/Supplementary12/Inputs/participant_joint_axes.tsv",
+      "file": "data/72c450e90a58a43f_participant_joint_axes.tsv",
+      "sha256": "72c450e90a58a43f86ffea0727f155472fafa13c75a8790f2ce2b3cfe481db14",
+      "bytes": 2700
+    },
+    {
+      "role": "figure_saved/Supplementary12/Inputs/region_RNA_program_associations.tsv",
+      "file": "data/59dd5a86406acf94_region_RNA_program_associations.tsv",
+      "sha256": "59dd5a86406acf9404e8e6bf1eefd7df7c4c9da8eef1fae47c76efb7e6a1be3d",
+      "bytes": 27522
+    },
+    {
+      "role": "figure_saved/Supplementary12/Inputs/region_program_stability.tsv",
+      "file": "data/7cf07cc1eac86fc3_region_program_stability.tsv",
+      "sha256": "7cf07cc1eac86fc35a50b36a893912464ef66b0e29cf84bec6fc8e5c2eca341d",
+      "bytes": 9637
+    },
+    {
+      "role": "discovery_methylation_M_full",
+      "file": "data/01da2d59027febef_methylation_M_full.tsv.gz",
+      "sha256": "01da2d59027febef0786f563be23e85219402fde0eaf0151080aacfa9197566d",
+      "bytes": 236635903
+    },
+    {
+      "role": "discovery_participant_design",
+      "file": "data/95bf357ab85f5f80_participant_design.tsv",
+      "sha256": "95bf357ab85f5f80c0071e18833e77ef062ce159b15e47c07c82d18a1a15f715",
+      "bytes": 3477
+    },
+    {
+      "role": "discovery_focal_methylation_M",
+      "file": "data/7e9b56b577efe1d1_focal_methylation_M.tsv",
+      "sha256": "7e9b56b577efe1d1239ae78b18fdb992c5b12ee9635d55d845c13c343aaef1a2",
+      "bytes": 51432
+    },
+    {
+      "role": "discovery_feature_registry",
+      "file": "data/4c55df822a0ba08a_feature_registry.tsv",
+      "sha256": "4c55df822a0ba08a5be5a346713428babe6c943ddb557b90c6fad69da2caeed3",
+      "bytes": 3281
+    },
+    {
+      "role": "discovery_participants",
+      "file": "data/8e0a7647a8eb9fb9_participants.tsv",
+      "sha256": "8e0a7647a8eb9fb97fdf8fbf90738eeaa6f253544269cd435b3844d1f592d5c4",
+      "bytes": 7314
+    },
+    {
+      "role": "layered_M_selected_and_constituent_cpgs",
+      "file": "data/ff600c3809b2a847_M_selected_and_constituent_cpgs.tsv",
+      "sha256": "ff600c3809b2a847b42ba19902a606125855791bd38aeb4834171bb50a982193",
+      "bytes": 80181
+    },
+    {
+      "role": "layered_external_constituent_identity_audit",
+      "file": "data/77389f796a29cfcd_external_constituent_identity_audit.tsv",
+      "sha256": "77389f796a29cfcdca8f282aca34770504a09da898577d406715774974a1c2f9",
+      "bytes": 3212
+    },
+    {
+      "role": "layered_external_target_measurements",
+      "file": "data/7634a41a5ecf5a86_external_target_measurements.tsv",
+      "sha256": "7634a41a5ecf5a86fead225da26f26f6295ddefc9740442e2fdfd69e2255a298",
+      "bytes": 5195345
+    },
+    {
+      "role": "layered_feature_registry",
+      "file": "data/4c55df822a0ba08a_feature_registry.tsv",
+      "sha256": "4c55df822a0ba08a5be5a346713428babe6c943ddb557b90c6fad69da2caeed3",
+      "bytes": 3281
+    },
+    {
+      "role": "layered_focal_methylation_M",
+      "file": "data/7e9b56b577efe1d1_focal_methylation_M.tsv",
+      "sha256": "7e9b56b577efe1d1239ae78b18fdb992c5b12ee9635d55d845c13c343aaef1a2",
+      "bytes": 51432
+    },
+    {
+      "role": "layered_participant_design",
+      "file": "data/95bf357ab85f5f80_participant_design.tsv",
+      "sha256": "95bf357ab85f5f80c0071e18833e77ef062ce159b15e47c07c82d18a1a15f715",
+      "bytes": 3477
+    },
+    {
+      "role": "layered_participants",
+      "file": "data/8e0a7647a8eb9fb9_participants.tsv",
+      "sha256": "8e0a7647a8eb9fb97fdf8fbf90738eeaa6f253544269cd435b3844d1f592d5c4",
+      "bytes": 7314
+    },
+    {
+      "role": "layered_region_constituents",
+      "file": "data/419a0aac02cd742a_region_constituents.tsv",
+      "sha256": "419a0aac02cd742aa942a76ce249530a1b754ce6f8c02c313cc58d383332b77c",
+      "bytes": 2850
+    },
+    {
+      "role": "ievora_regions",
+      "file": "data/8b3fa6418bfefd16_fixed_region_constituents.tsv",
+      "sha256": "8b3fa6418bfefd1626e84534174d6d31dc8b44ad955222a0d17937dbbbb33c90",
+      "bytes": 4234
+    },
+    {
+      "role": "ievora_original_variability",
+      "file": "data/099017496457b0c2_variability_full.tsv.gz",
+      "sha256": "099017496457b0c2f2fdc54cdfe699a3ef086472c19fda38b1697029602b6ee7",
+      "bytes": 70441329
+    },
+    {
+      "role": "ievora_original_mean",
+      "file": "data/02847850fd522df4_mean_full.tsv.gz",
+      "sha256": "02847850fd522df45dac85332adda0fb914e5eed071b898b5a51b66d12a006ec",
+      "bytes": 30348486
+    },
+    {
+      "role": "broad_TCGA_HNSC_probe_beta",
+      "file": "data/d63c2dc471a0e0fb_probe_beta.h5",
+      "sha256": "d63c2dc471a0e0fb3913758fbc7a06d36edf3fdad76029455f21d1bcf647d95c",
+      "bytes": 783659864
+    },
+    {
+      "role": "broad_TCGA_HNSC_sample_manifest",
+      "file": "data/d8675b814d088d31_sample_manifest.tsv",
+      "sha256": "d8675b814d088d3125513d63ad254aac50affd2ffc907047d9090fd432b30369",
+      "bytes": 83876
+    },
+    {
+      "role": "broad_TCGA_HNSC_rna_log2_normalized",
+      "file": "data/bf647ae68d29e128_rna_log2_normalized.tsv.gz",
+      "sha256": "bf647ae68d29e128ece4b21e5dd21785be17e01950d6281a83ec01cc4eae8458",
+      "bytes": 27506796
+    },
+    {
+      "role": "broad_TCGA_LUAD_probe_beta",
+      "file": "data/91fde6308a8b15ac_probe_beta.h5",
+      "sha256": "91fde6308a8b15ac9cf26442ce797949603d29baf302e0e70f5383d91d66d286",
+      "bytes": 710671617
+    },
+    {
+      "role": "broad_TCGA_LUAD_sample_manifest",
+      "file": "data/6a2d8824b2af4149_sample_manifest.tsv",
+      "sha256": "6a2d8824b2af4149e7e1cfcc915a86ecaa36948b0fba344ace1887248ee33d24",
+      "bytes": 69531
+    },
+    {
+      "role": "broad_TCGA_LUAD_rna_log2_normalized",
+      "file": "data/2d69a81ad4e0a1f1_rna_log2_normalized.tsv.gz",
+      "sha256": "2d69a81ad4e0a1f1d37b0eeabf907b4b7a7dbb41ba2b35a7a1d2615491ff23f9",
+      "bytes": 24165822
+    },
+    {
+      "role": "broad_TCGA_LUSC_probe_beta",
+      "file": "data/6d184c7063a12ee1_probe_beta.h5",
+      "sha256": "6d184c7063a12ee16805ae324e62e700d8302b425d5a51763fd37e82c54fb904",
+      "bytes": 554294946
+    },
+    {
+      "role": "broad_TCGA_LUSC_sample_manifest",
+      "file": "data/f70cd5817b38f8d9_sample_manifest.tsv",
+      "sha256": "f70cd5817b38f8d917b5de68e1b2f21f248d0bb8f2be87e0c047770c951f078c",
+      "bytes": 55450
+    },
+    {
+      "role": "broad_TCGA_LUSC_rna_log2_normalized",
+      "file": "data/7502af928ff35d82_rna_log2_normalized.tsv.gz",
+      "sha256": "7502af928ff35d8230833aa793bcaf00aaa180d31168526aae4a7633b19e48f0",
+      "bytes": 19599198
+    },
+    {
+      "role": "broad_GTEx_breast_mammary_tissue_probe_beta",
+      "file": "data/a4dcf3e58891db6b_probe_beta.h5",
+      "sha256": "a4dcf3e58891db6b67b0db1ed3de64d968de68f87f970e7b63aee71ba8324a99",
+      "bytes": 144851933
+    },
+    {
+      "role": "broad_GTEx_breast_mammary_tissue_sample_manifest",
+      "file": "data/3846cde44a47af93_sample_manifest.tsv",
+      "sha256": "3846cde44a47af9359c46bb4c5f5f9197d0bb5a83975493a9b951c6550ffefc0",
+      "bytes": 9317
+    },
+    {
+      "role": "broad_GTEx_breast_mammary_tissue_rna_log2_normalized",
+      "file": "data/ee5c69ca184d74b2_rna_log2_normalized.tsv.gz",
+      "sha256": "ee5c69ca184d74b207329ff554cefb2577e3339e20ac2c61b2d6257a91170b47",
+      "bytes": 5258652
+    },
+    {
+      "role": "broad_GTEx_colon_transverse_probe_beta",
+      "file": "data/788f79330587f3a0_probe_beta.h5",
+      "sha256": "788f79330587f3a0197a46de7cb0d2e653f97983892b7fbe129051f7d8de82eb",
+      "bytes": 295679522
+    },
+    {
+      "role": "broad_GTEx_colon_transverse_sample_manifest",
+      "file": "data/cead66548df458bb_sample_manifest.tsv",
+      "sha256": "cead66548df458bba38aae594a8153f14384753d16ea325634977b81adc02bf4",
+      "bytes": 21216
+    },
+    {
+      "role": "broad_GTEx_colon_transverse_rna_log2_normalized",
+      "file": "data/f574af4007c57568_rna_log2_normalized.tsv.gz",
+      "sha256": "f574af4007c57568d36e8ee0ee33173e928604345660ab250542c7080fef11e7",
+      "bytes": 11648505
+    },
+    {
+      "role": "broad_GTEx_kidney_cortex_probe_beta",
+      "file": "data/932268ce83f028a1_probe_beta.h5",
+      "sha256": "932268ce83f028a150737d92e48a685dd1dbdc6be365de6f8940ea7fe8cf84bc",
+      "bytes": 51338783
+    },
+    {
+      "role": "broad_GTEx_kidney_cortex_sample_manifest",
+      "file": "data/70f0dfcb6d311d8c_sample_manifest.tsv",
+      "sha256": "70f0dfcb6d311d8c5590c9e3cbf273a01c983194caa1e40038e3272a1163b991",
+      "bytes": 1340
+    },
+    {
+      "role": "broad_GTEx_kidney_cortex_rna_log2_normalized",
+      "file": "data/89f5fc5182a5980c_rna_log2_normalized.tsv.gz",
+      "sha256": "89f5fc5182a5980c0339babb27cbb84fb162e3e4d9d81d6b7951bcb53743e3ee",
+      "bytes": 876609
+    },
+    {
+      "role": "broad_GTEx_lung_probe_beta",
+      "file": "data/4d926b1482edd0ca_probe_beta.h5",
+      "sha256": "4d926b1482edd0ca7fc81ae11256e60272e67fea59396af29461733a966c8be7",
+      "bytes": 500738212
+    },
+    {
+      "role": "broad_GTEx_lung_sample_manifest",
+      "file": "data/01bcb77ae1e9d86c_sample_manifest.tsv",
+      "sha256": "01bcb77ae1e9d86cd781425abf3757802074443c0617fe95801d4e567d113cc4",
+      "bytes": 33382
+    },
+    {
+      "role": "broad_GTEx_lung_rna_log2_normalized",
+      "file": "data/f275aeb6a279a99d_rna_log2_normalized.tsv.gz",
+      "sha256": "f275aeb6a279a99dbe7d438640db48cf136b9bc6d6bcd7bad5f9e6ee99d23727",
+      "bytes": 20683521
+    },
+    {
+      "role": "broad_GTEx_muscle_skeletal_probe_beta",
+      "file": "data/437101d37fa1ec41_probe_beta.h5",
+      "sha256": "437101d37fa1ec417b9313c519ff526e038fe18e6c56e7229b869906374b783c",
+      "bytes": 144851954
+    },
+    {
+      "role": "broad_GTEx_muscle_skeletal_sample_manifest",
+      "file": "data/f3a186ec253a8f2e_sample_manifest.tsv",
+      "sha256": "f3a186ec253a8f2e757e5f6e93eae53d5e8fd22e6de2c7dd08f0d77598ea4891",
+      "bytes": 8882
+    },
+    {
+      "role": "broad_GTEx_muscle_skeletal_rna_log2_normalized",
+      "file": "data/ec857f4d27b7cb4c_rna_log2_normalized.tsv.gz",
+      "sha256": "ec857f4d27b7cb4c4237179cca9e93d9abc6545c5da7ef234731de2c98c178c5",
+      "bytes": 4656995
+    },
+    {
+      "role": "broad_GTEx_ovary_probe_beta",
+      "file": "data/b61c51883671e07c_probe_beta.h5",
+      "sha256": "b61c51883671e07c9a86c06839f14fcf9ac2072727d5cd9ff2c3729a8a0b00ea",
+      "bytes": 410308388
+    },
+    {
+      "role": "broad_GTEx_ovary_sample_manifest",
+      "file": "data/6887916584d3f669_sample_manifest.tsv",
+      "sha256": "6887916584d3f6692cca157e360973ca26d7b3e4b6a488d03bda6e8f18dd63ed",
+      "bytes": 27554
+    },
+    {
+      "role": "broad_GTEx_ovary_rna_log2_normalized",
+      "file": "data/99c6930f71fba31e_rna_log2_normalized.tsv.gz",
+      "sha256": "99c6930f71fba31e715ecab2e884a0fa11b5d3a42e054f8ebd378e6dadd17507",
+      "bytes": 16620005
+    },
+    {
+      "role": "broad_GTEx_prostate_probe_beta",
+      "file": "data/422f34b743c46f89_probe_beta.h5",
+      "sha256": "422f34b743c46f89bf7a02544ea2779fec73c1b9a620dd259fc8fe35ce200969",
+      "bytes": 190100220
+    },
+    {
+      "role": "broad_GTEx_prostate_sample_manifest",
+      "file": "data/6ceb66a2e22e3258_sample_manifest.tsv",
+      "sha256": "6ceb66a2e22e3258e26f6903c5f7652c49a22683cf743a050cf24be87f0ee06d",
+      "bytes": 11694
+    },
+    {
+      "role": "broad_GTEx_prostate_rna_log2_normalized",
+      "file": "data/03103236df53f845_rna_log2_normalized.tsv.gz",
+      "sha256": "03103236df53f84528dd75f50a4f4c673799539f229ee2b9fe3a30cc14c2e13f",
+      "bytes": 7208338
+    },
+    {
+      "role": "broad_GTEx_testis_probe_beta",
+      "file": "data/aaf300784334ba00_probe_beta.h5",
+      "sha256": "aaf300784334ba001b2950f0783ed2d184a3344e23f7dd54fa8e331bf8f177f8",
+      "bytes": 114686342
+    },
+    {
+      "role": "broad_GTEx_testis_sample_manifest",
+      "file": "data/a48ec90c944fae6b_sample_manifest.tsv",
+      "sha256": "a48ec90c944fae6b31d0175ee3eb71eed856420c4d989b5277c9907f9fe61c74",
+      "bytes": 5942
+    },
+    {
+      "role": "broad_GTEx_testis_rna_log2_normalized",
+      "file": "data/8832fb2060bfe76a_rna_log2_normalized.tsv.gz",
+      "sha256": "8832fb2060bfe76aefab0ef8a48bed0f547a1a277afbca5394bbc55ee092c3e1",
+      "bytes": 4706095
+    },
+    {
+      "role": "broad_GTEx_whole_blood_sample_manifest",
+      "file": "data/06737fe1249296d4_sample_manifest.tsv",
+      "sha256": "06737fe1249296d4d71676dd72ce7f571233d422b72af5a9d82e509ad792784c",
+      "bytes": 144
+    },
+    {
+      "role": "probe_annotation",
+      "file": "data/09122720b65a4562_probe_annotation.tsv.gz",
+      "sha256": "09122720b65a4562a0118dfb429d25ca32ab0bedbc2d378c208cc32e93e23fcc",
+      "bytes": 23581443
+    },
+    {
+      "role": "hg19_refGene",
+      "file": "data/28e7fe22cf1923a6_hg19_refGene.txt.gz",
+      "sha256": "28e7fe22cf1923a6887c7b60e6004c75987f810b8374d4d396021a34ac0410d1",
+      "bytes": 8043766
+    },
+    {
+      "role": "inflammatory_IBD_epithelium_probe_beta",
+      "file": "data/6845a3e6bc26e292_probe_beta.h5",
+      "sha256": "6845a3e6bc26e2925da5c4d1d4ecdf9f80bc2fa0c616dc1467986133c880c530",
+      "bytes": 298288746
+    },
+    {
+      "role": "inflammatory_IBD_epithelium_sample_manifest",
+      "file": "data/c0f784cc18ec5fba_sample_manifest.tsv",
+      "sha256": "c0f784cc18ec5fba0170702a95188839533a5cbb03626770195ff6351b5e183a",
+      "bytes": 57749
+    },
+    {
+      "role": "inflammatory_IBD_epithelium_rna_log2_normalized",
+      "file": "data/64a2577b68ce7ec9_rna_log2_normalized.tsv.gz",
+      "sha256": "64a2577b68ce7ec9f0f0562d259f8025671432839b62d8c6730cce9aa5b1b69d",
+      "bytes": 11461153
+    },
+    {
+      "role": "inflammatory_PSORIASIS_skin_probe_beta",
+      "file": "data/556a1d4f49d6cf36_probe_beta.h5",
+      "sha256": "556a1d4f49d6cf364c10d51669b678b54eeede3168dee0b3a25025a09cf9bec9",
+      "bytes": 88705154
+    },
+    {
+      "role": "inflammatory_PSORIASIS_skin_sample_manifest",
+      "file": "data/77f3f30db2a81873_sample_manifest.tsv",
+      "sha256": "77f3f30db2a818737f512cf1bbbb648f91585179c53215332a496c1fb98f0836",
+      "bytes": 20985
+    },
+    {
+      "role": "inflammatory_PSORIASIS_skin_rna_log2_normalized",
+      "file": "data/798d0d1e388004c3_rna_log2_normalized.tsv.gz",
+      "sha256": "798d0d1e388004c31e7f7f14076dcd3964e654020d2f7e497679eefad56a968e",
+      "bytes": 3925936
+    },
+    {
+      "role": "inflammatory_ASTHMA_NASAL_probe_beta",
+      "file": "data/663a13857c60b3e0_probe_beta.h5",
+      "sha256": "663a13857c60b3e0aa51a18d699ce2bf8951bb8bf89876586697496ee868b6a2",
+      "bytes": 247143396
+    },
+    {
+      "role": "inflammatory_ASTHMA_NASAL_sample_manifest",
+      "file": "data/5edf4a14748b5090_sample_manifest.tsv",
+      "sha256": "5edf4a14748b5090c26e126c89cdaed1fbb0d6ba823719fbdfeec02c04bf523e",
+      "bytes": 91701
+    },
+    {
+      "role": "inflammatory_ASTHMA_NASAL_rna_log2_normalized",
+      "file": "data/d9a1f0a23bf0fe4d_rna_log2_normalized.tsv.gz",
+      "sha256": "d9a1f0a23bf0fe4db0e73aa2e3490fc5c978f2ba9791bd779b3fcf26fd230a23",
+      "bytes": 1572590
+    },
+    {
+      "role": "inflammatory_ASTHMA_PBMC_probe_beta",
+      "file": "data/536858276453f91d_probe_beta.h5",
+      "sha256": "536858276453f91ddbc78710d03335ef7e69197438554e1f176d36b264f18897",
+      "bytes": 913409561
+    },
+    {
+      "role": "inflammatory_ASTHMA_PBMC_sample_manifest",
+      "file": "data/b5c71c0b567fd3a3_sample_manifest.tsv",
+      "sha256": "b5c71c0b567fd3a3303e73c43b8cead97d6ffa2c02220145632fee8e30c08445",
+      "bytes": 297946
+    },
+    {
+      "role": "inflammatory_ASTHMA_PBMC_rna_log2_normalized",
+      "file": "data/1801bb7b6ef028e8_rna_log2_normalized.tsv.gz",
+      "sha256": "1801bb7b6ef028e816163c6318069224ea313cbd9583b4a60b264653377ef644",
+      "bytes": 10765631
+    },
+    {
+      "role": "inflammatory_SLE_PBMC_probe_beta",
+      "file": "data/a4640ca3944ec551_probe_beta.h5",
+      "sha256": "a4640ca3944ec551e87b271c6ace0bab5c6734836424aa88d9a01a7b8e456971",
+      "bytes": 288619855
+    },
+    {
+      "role": "inflammatory_SLE_PBMC_sample_manifest",
+      "file": "data/8bd91609d49c8284_sample_manifest.tsv",
+      "sha256": "8bd91609d49c82846e93d7e2d7bfe768dfd9b837775de660e012e30da609558b",
+      "bytes": 62130
+    },
+    {
+      "role": "inflammatory_SLE_PBMC_rna_log2_normalized",
+      "file": "data/e197cd9a9069471b_rna_log2_normalized.tsv.gz",
+      "sha256": "e197cd9a9069471b5cb7114f68abd31ed6e6a67c18ce656fb2a11ffe3b276c61",
+      "bytes": 8765174
+    },
+    {
+      "role": "inflammatory_SSC_CD4_probe_beta",
+      "file": "data/c8d6876c12a73ce2_probe_beta.h5",
+      "sha256": "c8d6876c12a73ce2c306a5f2a3535c851d6b7016489524f6605d0e2994666620",
+      "bytes": 740814651
+    },
+    {
+      "role": "inflammatory_SSC_CD4_sample_manifest",
+      "file": "data/d8a3c8b98d4528d4_sample_manifest.tsv",
+      "sha256": "d8a3c8b98d4528d443725ad9c8c90a32021ff5bf84f8b70496a76c1b1ee24e67",
+      "bytes": 89534
+    },
+    {
+      "role": "inflammatory_SSC_CD4_rna_log2_normalized",
+      "file": "data/552ed26770f6a8e2_rna_log2_normalized.tsv.gz",
+      "sha256": "552ed26770f6a8e2069d5b4a5547e74799338c9bebb251030fa04eac90277be4",
+      "bytes": 3923106
+    },
+    {
+      "role": "inflammatory_GCA_MONOCYTES_probe_beta",
+      "file": "data/8f464883d0420458_probe_beta.h5",
+      "sha256": "8f464883d0420458345faf40945be8c12db3828210a61e6af01e5cef4f257846",
+      "bytes": 720101483
+    },
+    {
+      "role": "inflammatory_GCA_MONOCYTES_sample_manifest",
+      "file": "data/eb80a907bc89d8dd_sample_manifest.tsv",
+      "sha256": "eb80a907bc89d8dde323338cdd5637a49756e577e0a2e91b3377d3e1018a7aaa",
+      "bytes": 519254
+    },
+    {
+      "role": "inflammatory_GCA_MONOCYTES_rna_log2_normalized",
+      "file": "data/81d40f01b9c487ba_rna_log2_normalized.tsv.gz",
+      "sha256": "81d40f01b9c487baef8000c3823592c3a685be6e20ea8a1f16361437b1d920a6",
+      "bytes": 20853048
+    },
+    {
+      "role": "inflammatory_MS_BRAIN_probe_beta",
+      "file": "data/11fc9e6275e1fe1d_probe_beta.h5",
+      "sha256": "11fc9e6275e1fe1d6a00c0a983a6c23e4591ecb6456e50ab703a581dfd0f5536",
+      "bytes": 192776697
+    },
+    {
+      "role": "inflammatory_MS_BRAIN_sample_manifest",
+      "file": "data/084d7ef23cc6eef4_sample_manifest.tsv",
+      "sha256": "084d7ef23cc6eef413ed7e2a41461dbbffb8a7d47bdb6e798459acc8a9d12c6a",
+      "bytes": 25475
+    },
+    {
+      "role": "inflammatory_MS_BRAIN_rna_log2_normalized",
+      "file": "data/dd76c68056af8ffd_rna_log2_normalized.tsv.gz",
+      "sha256": "dd76c68056af8ffdd5069b96a3d60139f5d3bdce216615f8c2079add5f754ad2",
+      "bytes": 959441
+    },
+    {
+      "role": "inflammatory_ASTHMA_BRONCHIAL_probe_beta",
+      "file": "data/f905f149890ed166_probe_beta.h5",
+      "sha256": "f905f149890ed166c2026e9f7cde9e5c97104d02365d8bc635ce681703b08ce7",
+      "bytes": 558830852
+    },
+    {
+      "role": "inflammatory_ASTHMA_BRONCHIAL_sample_manifest",
+      "file": "data/fa7d5da6f042879d_sample_manifest.tsv",
+      "sha256": "fa7d5da6f042879d1b4ce48cf4b6abcb2f27218a8d67698cf55f5a477262a39d",
+      "bytes": 384697
+    },
+    {
+      "role": "inflammatory_ASTHMA_BRONCHIAL_rna_log2_normalized",
+      "file": "data/2b86ecf366a25826_rna_log2_normalized.tsv.gz",
+      "sha256": "2b86ecf366a25826c6f768d5c2a5506c06710e3dade8b435f47c46b6ee250b48",
+      "bytes": 13017238
+    },
+    {
+      "role": "inflammatory_EARLY_ARTHRITIS_LYMPHOCYTES_probe_beta",
+      "file": "data/b4b7e25f862a795a_probe_beta.h5",
+      "sha256": "b4b7e25f862a795a5692b2fe839a9bd08b505331ffc07e9d9c67d3312c04a9ef",
+      "bytes": 1134732815
+    },
+    {
+      "role": "inflammatory_EARLY_ARTHRITIS_LYMPHOCYTES_sample_manifest",
+      "file": "data/e9b628790b723fae_sample_manifest.tsv",
+      "sha256": "e9b628790b723fae29b0afe7dd331e5c60f8c89662279e712e5500b907d99b06",
+      "bytes": 547241
+    },
+    {
+      "role": "inflammatory_EARLY_ARTHRITIS_LYMPHOCYTES_rna_log2_normalized",
+      "file": "data/12e01ce223912353_rna_log2_normalized.tsv.gz",
+      "sha256": "12e01ce2239123534fb33f0f4fff2b0cf11d2f819120afc0dd71dff4631e7380",
+      "bytes": 8420424
+    },
+    {
+      "role": "inflammatory_COVID_BLOOD_probe_beta",
+      "file": "data/b2f92f4650d510a8_probe_beta.h5",
+      "sha256": "b2f92f4650d510a84f56f69a303a82f99794071f3879119e65cddb289014852a",
+      "bytes": 1190503697
+    },
+    {
+      "role": "inflammatory_COVID_BLOOD_sample_manifest",
+      "file": "data/b41064549893779b_sample_manifest.tsv",
+      "sha256": "b41064549893779b3eecbb1e7d6ec62f035b04f17e1f6f465ee288d593d88a58",
+      "bytes": 267137
+    },
+    {
+      "role": "inflammatory_COVID_BLOOD_rna_log2_normalized",
+      "file": "data/461eefd1b521773f_rna_log2_normalized.tsv.gz",
+      "sha256": "461eefd1b521773f59d3f7e2ceb742a00096290cb37072a8c503969aa2821d3b",
+      "bytes": 15161429
+    },
+    {
+      "role": "inflammatory_POSTOPERATIVE_PBMC_probe_beta",
+      "file": "data/fee5edaf8da800ab_probe_beta.h5",
+      "sha256": "fee5edaf8da800ab10130ec8981c6d80660fade054978901aa387016761652bc",
+      "bytes": 919100210
+    },
+    {
+      "role": "inflammatory_POSTOPERATIVE_PBMC_sample_manifest",
+      "file": "data/dec25c7350e0b938_sample_manifest.tsv",
+      "sha256": "dec25c7350e0b93812c27723912a0ac126d28e75e832b87065099a88b38dc502",
+      "bytes": 191971
+    },
+    {
+      "role": "inflammatory_POSTOPERATIVE_PBMC_rna_log2_normalized",
+      "file": "data/4bd9ee87ce45f9d6_rna_log2_normalized.tsv.gz",
+      "sha256": "4bd9ee87ce45f9d614826230521383a69f2ce394af218668464bf21909f88319",
+      "bytes": 21409026
+    },
+    {
+      "role": "GSE171213_GSE171213_AllSample_counts_tsv_gz",
+      "file": "data/85748ee9ce17e70f_GSE171213_AllSample.counts.tsv.gz",
+      "sha256": "85748ee9ce17e70f8d2f9fa9ef7436d801843ffe9c8485c09106afa61fab5dbd",
+      "bytes": 90617204
+    },
+    {
+      "role": "GSE171213_GSE171213_family_soft_gz",
+      "file": "data/87b35e9295de9f55_GSE171213_family.soft.gz",
+      "sha256": "87b35e9295de9f55d865b76216ea8de66035dcc40ef2d3863649deef516a73d9",
+      "bytes": 2942
+    },
+    {
+      "role": "GSE171213_GSM5220920_HC1_cellname_list_txt_gz",
+      "file": "data/a11fdeebec4abf29_GSM5220920_HC1.cellname.list.txt.gz",
+      "sha256": "a11fdeebec4abf29b5e7c3bf2b4b23afd07921c3c2bd991e67ef93f3a545e0e0",
+      "bytes": 33391
+    },
+    {
+      "role": "GSE171213_GSM5220921_HC2_cellname_list_txt_gz",
+      "file": "data/d7acd8e6376a7503_GSM5220921_HC2.cellname.list.txt.gz",
+      "sha256": "d7acd8e6376a7503facf7eb64a4b61fdedb340699a305f5036849aaf1b29ae64",
+      "bytes": 23427
+    },
+    {
+      "role": "GSE171213_GSM5220922_HC3_cellname_list_txt_gz",
+      "file": "data/d1db3cea91f36329_GSM5220922_HC3.cellname.list.txt.gz",
+      "sha256": "d1db3cea91f36329d9fd2f29b2d40bd56f5491be704bbde711b4fbc7162483f9",
+      "bytes": 40056
+    },
+    {
+      "role": "GSE171213_GSM5220923_HC4_cellname_list_txt_gz",
+      "file": "data/f8484345cb2691d7_GSM5220923_HC4.cellname.list.txt.gz",
+      "sha256": "f8484345cb2691d76a3857a0b7dff011a4966b2bfe52e1da084ba9797dc8bb95",
+      "bytes": 39659
+    },
+    {
+      "role": "GSE171213_GSM5220924_PD1_cellname_list_txt_gz",
+      "file": "data/5f8f87f054cd1860_GSM5220924_PD1.cellname.list.txt.gz",
+      "sha256": "5f8f87f054cd18602a3f7cf4a323ac3494f6b696b3504d1869d86b794402e588",
+      "bytes": 40044
+    },
+    {
+      "role": "GSE171213_GSM5220925_PD2_cellname_list_txt_gz",
+      "file": "data/c28f1be8281a9a73_GSM5220925_PD2.cellname.list.txt.gz",
+      "sha256": "c28f1be8281a9a73f0591743c9f28dfc872c642025999788ef78a46991836566",
+      "bytes": 31839
+    },
+    {
+      "role": "GSE171213_GSM5220926_PD3_cellname_list_txt_gz",
+      "file": "data/2ed0fc57986be54f_GSM5220926_PD3.cellname.list.txt.gz",
+      "sha256": "2ed0fc57986be54f76771d96fa7b8e1718668d540806e0a7a5b921e3fa5e5751",
+      "bytes": 37121
+    },
+    {
+      "role": "GSE171213_GSM5220927_PD4_cellname_list_txt_gz",
+      "file": "data/6f39eea550da15a5_GSM5220927_PD4.cellname.list.txt.gz",
+      "sha256": "6f39eea550da15a5dc480d45bcf068875a4ca98d5a9a338a61329d808b472575",
+      "bytes": 41576
+    },
+    {
+      "role": "GSE171213_GSM5220928_PD5_cellname_list_txt_gz",
+      "file": "data/5bf2ca1886e18221_GSM5220928_PD5.cellname.list.txt.gz",
+      "sha256": "5bf2ca1886e1822150ec2a387469fb3644c314e7f015e928278fc7a013f3683e",
+      "bytes": 40915
+    },
+    {
+      "role": "GSE171213_GSM5220929_PDT1_cellname_list_txt_gz",
+      "file": "data/5854fad5cc8da6db_GSM5220929_PDT1.cellname.list.txt.gz",
+      "sha256": "5854fad5cc8da6dbb7c2850fc134ec54d4df7bddde5bd4294e0f36016abb4510",
+      "bytes": 54957
+    },
+    {
+      "role": "GSE171213_GSM5220930_PDT2_cellname_list_txt_gz",
+      "file": "data/48f6aa74d719de41_GSM5220930_PDT2.cellname.list.txt.gz",
+      "sha256": "48f6aa74d719de418b42d28a1ae6c38adc49893dff909eec4ba826fa359b33c4",
+      "bytes": 68492
+    },
+    {
+      "role": "GSE171213_GSM5220931_PDT3_cellname_list_txt_gz",
+      "file": "data/6363d56f2aa8aff7_GSM5220931_PDT3.cellname.list.txt.gz",
+      "sha256": "6363d56f2aa8aff718ea043286bba03040ba76156b597723253aade0e2068a45",
+      "bytes": 38972
+    },
+    {
+      "role": "GSE171213_PMC8771561_primary_article_html",
+      "file": "data/c01b3754f9937f2d_PMC8771561_primary_article.html",
+      "sha256": "c01b3754f9937f2d877a45e4163197b265bf4201609bd10ba022e5d44ca30c7e",
+      "bytes": 349888
+    },
+    {
+      "role": "GSE171213_counts_partial_gz",
+      "file": "data/a9f83bc17f753294_counts_partial.gz",
+      "sha256": "a9f83bc17f753294df71264f07ed8f7f15c0f722a71feae26a0212578b44ac13",
+      "bytes": 1048576
+    },
+    {
+      "role": "GSE171213_official_ftp_listing_html",
+      "file": "data/35aacb50fdd1d0b2_official_ftp_listing.html",
+      "sha256": "35aacb50fdd1d0b2c349d27dbd8d9a0dcdea4811f4009f7d23e1f87773e019b8",
+      "bytes": 498
+    },
+    {
+      "role": "GSE171213_thnov12p1074s2_xlsx",
+      "file": "data/28576f6caa347d22_thnov12p1074s2.xlsx",
+      "sha256": "28576f6caa347d225ad428c41a1c2cd0db6d0a19a923b87fbf63981f8130bff1",
+      "bytes": 15467
+    },
+    {
+      "role": "GSE171213_thnov12p1074s3_xlsx",
+      "file": "data/1f3cb7bd3f10e7ee_thnov12p1074s3.xlsx",
+      "sha256": "1f3cb7bd3f10e7ee84afdd10e00822f01652b88f572fee3736ed9580b21db873",
+      "bytes": 15925871
+    },
+    {
+      "role": "GSE171213_thnov12p1074s4_xlsx",
+      "file": "data/581338acae64c2c8_thnov12p1074s4.xlsx",
+      "sha256": "581338acae64c2c8a80a67615fa1459e05f54baa9081f68062e8a72ea2886dfb",
+      "bytes": 38987
+    },
+    {
+      "role": "periodontitis_author_atlas",
+      "file": "data/7dc13de46fd2702d_Periodontitis_Meta_Atlas_171607d7.h5ad",
+      "sha256": "7dc13de46fd2702dbfaf8d69bec933b79b05196ebce7d516e59cea471aa83c4e",
+      "bytes": 705007195
+    },
+    {
+      "role": "atlas_sample_registry",
+      "file": "data/47b852f7851b53d6_atlas_sample_registry.tsv",
+      "sha256": "47b852f7851b53d6482d898a3e302a312aeb24c258f4863c273f01a7a6de7686",
+      "bytes": 23682
+    },
+    {
+      "role": "kim36_rna_counts",
+      "file": "data/e37880861f46409b_rna_counts.tsv.gz",
+      "sha256": "e37880861f46409b1eb61231a8e9eedc15da087ed21ac962779bdb42eba8c896",
+      "bytes": 1184281
+    },
+    {
+      "role": "kim36_participant_design",
+      "file": "data/95bf357ab85f5f80_participant_design.tsv",
+      "sha256": "95bf357ab85f5f80c0071e18833e77ef062ce159b15e47c07c82d18a1a15f715",
+      "bytes": 3477
+    },
+    {
+      "role": "kim36_focal_methylation_M",
+      "file": "data/7e9b56b577efe1d1_focal_methylation_M.tsv",
+      "sha256": "7e9b56b577efe1d1239ae78b18fdb992c5b12ee9635d55d845c13c343aaef1a2",
+      "bytes": 51432
+    },
+    {
+      "role": "episcore_dbSCM2",
+      "file": "data/ca4554f49503a5b5_dbSCM2.rda",
+      "sha256": "ca4554f49503a5b5c473fcd91ff8087d60164a469696c63102fb67d662e3a9c8",
+      "bytes": 7475416
+    },
+    {
+      "role": "episcore_dbRMAP",
+      "file": "data/35d917c94bb76afa_dbRMAP.rda",
+      "sha256": "35d917c94bb76afa142f254fd04427308bd6a0bb218ac0bdb2803427f5cc20b2",
+      "bytes": 5125060
+    },
+    {
+      "role": "episcore_probeInfo850k",
+      "file": "data/a17ab6fe8e5ac950_probeInfo850k.rda",
+      "sha256": "a17ab6fe8e5ac9509edfc6b888b41e6ca10304a569700e43f16ca6f870b85983",
+      "bytes": 7237970
+    },
+    {
+      "role": "episcore_probeInfo450k",
+      "file": "data/1b4d0bb8ebd0de3a_probeInfo450k.rda",
+      "sha256": "1b4d0bb8ebd0de3a5bd8b1c9cbf170599fce920da399076182070bdd93b57ca8",
+      "bytes": 3312378
+    },
+    {
+      "role": "episcore_RMAP_imputable_Entrez",
+      "file": "data/aef4f3401a4b6528_RMAP_imputable_Entrez.txt",
+      "sha256": "aef4f3401a4b652834fdea415ecfffbe3f1e6d914a20d620e59f85c47bb1f0d8",
+      "bytes": 12480
+    },
+    {
+      "role": "episcore_SCM2_imputable_Entrez",
+      "file": "data/c22c0258459939c7_SCM2_imputable_Entrez.txt",
+      "sha256": "c22c0258459939c79afab898c9ed15719a5deaa46bcca35afa75aeb01c6851f7",
+      "bytes": 6495
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Protocol__source_input_specification_json",
+      "file": "data/073bcac30e2eb53b_source_input_specification.json",
+      "sha256": "073bcac30e2eb53b0b94e4c98412715c4d5a43c1250ea05ca845173be72be17f",
+      "bytes": 43154
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__ASTHMA_BRONCHIAL__all_paired_sample_manifest_tsv",
+      "file": "data/fa7d5da6f042879d_sample_manifest.tsv",
+      "sha256": "fa7d5da6f042879d1b4ce48cf4b6abcb2f27218a8d67698cf55f5a477262a39d",
+      "bytes": 384697
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__ASTHMA_BRONCHIAL__paired_sample_manifest_tsv",
+      "file": "data/e77fd5d3c323b93f_paired_sample_manifest.tsv",
+      "sha256": "e77fd5d3c323b93fd971c6ea250a8f22bdfe8e6f29832f8d74a48ffa67a03122",
+      "bytes": 263909
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__ASTHMA_BRONCHIAL__source_metadata_discrepancy_ledger_tsv",
+      "file": "data/6e30d984750d7634_source_metadata_discrepancy_ledger.tsv",
+      "sha256": "6e30d984750d7634ce41ebdaf99403787849110f550c4952efe2fc63ce433804",
+      "bytes": 11774
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__ASTHMA_BRONCHIAL__native_IDAT_manifest_tsv",
+      "file": "data/e0c8b4b717963fc7_native_IDAT_manifest.tsv",
+      "sha256": "e0c8b4b717963fc7471c7138279abd638754db9899bcc64e64a0707f0123b8a4",
+      "bytes": 45489
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__ASTHMA_BRONCHIAL_saved_input_QA_json",
+      "file": "data/3db68ada288d27f7_ASTHMA_BRONCHIAL_saved_input_QA.json",
+      "sha256": "3db68ada288d27f779e2a5d876302b2fe66380e8e6e005916e57c760e7250625",
+      "bytes": 2613
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__bronchial_native_preparation_queue_json",
+      "file": "data/9693c4ae19ce8ffe_bronchial_native_preparation_queue.json",
+      "sha256": "9693c4ae19ce8ffe12117b96e9ba2ca0e268f07a21027c695c63c8d601f4ade8",
+      "bytes": 3912
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__ASTHMA_NASAL__all_paired_sample_manifest_tsv",
+      "file": "data/5edf4a14748b5090_sample_manifest.tsv",
+      "sha256": "5edf4a14748b5090c26e126c89cdaed1fbb0d6ba823719fbdfeec02c04bf523e",
+      "bytes": 91701
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__ASTHMA_NASAL__paired_sample_manifest_tsv",
+      "file": "data/a5eabc7585d93ae4_paired_sample_manifest.tsv",
+      "sha256": "a5eabc7585d93ae463c07d1afbffa72caef692fc32181f1e85ff17d839a91f80",
+      "bytes": 39305
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__ASTHMA_NASAL__native_IDAT_manifest_tsv",
+      "file": "data/0c60d8769be5fb51_native_IDAT_manifest.tsv",
+      "sha256": "0c60d8769be5fb515840ba23146dbe1e7acaa5c4e454b59d1894f5f99730df7c",
+      "bytes": 25856
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__ASTHMA_NASAL_saved_input_QA_json",
+      "file": "data/ae5c348f5a00e233_ASTHMA_NASAL_saved_input_QA.json",
+      "sha256": "ae5c348f5a00e23307dd70ed9226a8c3b56c9b1d17bd8b2c935f51276798f497",
+      "bytes": 1959
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__ASTHMA_PBMC__all_paired_sample_manifest_tsv",
+      "file": "data/b5c71c0b567fd3a3_sample_manifest.tsv",
+      "sha256": "b5c71c0b567fd3a3303e73c43b8cead97d6ffa2c02220145632fee8e30c08445",
+      "bytes": 297946
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__ASTHMA_PBMC__paired_sample_manifest_tsv",
+      "file": "data/9f8acc0fd1ae969b_paired_sample_manifest.tsv",
+      "sha256": "9f8acc0fd1ae969b7454ce9236643f0fc2eb702f3ac1856c84fd7cf309997bce",
+      "bytes": 128687
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__ASTHMA_PBMC_saved_input_QA_json",
+      "file": "data/e02398706fb823bd_ASTHMA_PBMC_saved_input_QA.json",
+      "sha256": "e02398706fb823bd0ad94b8510c24f5f600133ffcb68d797b7fe46930c680450",
+      "bytes": 1952
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__COVID_BLOOD__all_paired_sample_manifest_tsv",
+      "file": "data/b41064549893779b_sample_manifest.tsv",
+      "sha256": "b41064549893779b3eecbb1e7d6ec62f035b04f17e1f6f465ee288d593d88a58",
+      "bytes": 267137
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__COVID_BLOOD__paired_sample_manifest_tsv",
+      "file": "data/3db9eda01a4a3249_paired_sample_manifest.tsv",
+      "sha256": "3db9eda01a4a32494e6d1b2a2f4b3538304eb1f6a739d1d565d6f3d0ac80c505",
+      "bytes": 157915
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__COVID_BLOOD__source_metadata_discrepancy_ledger_tsv",
+      "file": "data/9a79aa9de30b70af_source_metadata_discrepancy_ledger.tsv",
+      "sha256": "9a79aa9de30b70af6b9f71e5449887eea92c97743bc3a32b9230ea6d70130062",
+      "bytes": 10224
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__COVID_BLOOD__sample_DNA_QC_tsv",
+      "file": "data/71b9b3fe25d47de6_sample_DNA_QC.tsv",
+      "sha256": "71b9b3fe25d47de6eff0f72ee86eb557dbc944b44e429b879c9dbe4897fd8b0d",
+      "bytes": 6162
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__COVID_BLOOD__sample_RNA_QC_tsv",
+      "file": "data/ca9f87be786dca07_sample_RNA_QC.tsv",
+      "sha256": "ca9f87be786dca07d59f1f2af06b26438c2ad7ba33c8d1dcbb98bdd32df01c0c",
+      "bytes": 11578
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__COVID_BLOOD_saved_input_QA_json",
+      "file": "data/ae59cb74af7cd87d_COVID_BLOOD_saved_input_QA.json",
+      "sha256": "ae59cb74af7cd87d07a3a6f01921f3abe9670bfd10a12d10d843109e9bff90a5",
+      "bytes": 1815
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__COVID_BLOOD_independent_preparation_validation_json",
+      "file": "data/c863ca9673a87c84_COVID_BLOOD_independent_preparation_validation.json",
+      "sha256": "c863ca9673a87c843d249e91d5e177ce1655f5cc8bb1b88d56c0f842787868d2",
+      "bytes": 2590
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__COVID_native_TMM_precision_adjudication_json",
+      "file": "data/ab3790081156c0e3_COVID_native_TMM_precision_adjudication.json",
+      "sha256": "ab3790081156c0e3d0cbc2edf5d081cc6fdf01fbcaa7246a57f42550939285a7",
+      "bytes": 3138
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__COVID_BLOOD__rna_raw_symbol_counts_tsv_gz",
+      "file": "data/99e7808616becf17_rna_raw_symbol_counts.tsv.gz",
+      "sha256": "99e7808616becf1732fc069c2c9c493ea5569c9cec433cef726f8576af32628e",
+      "bytes": 4198392
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__COVID_BLOOD__rna_normalized_CPM_tsv_gz",
+      "file": "data/9f79c13d243e4e70_rna_normalized_CPM.tsv.gz",
+      "sha256": "9f79c13d243e4e702e64f546bbcd46d73fa8c10f1dee0a9150a7eb0d6feaa73d",
+      "bytes": 15473340
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__EARLY_ARTHRITIS_LYMPHOCYTES__all_paired_sample_manifest_tsv",
+      "file": "data/c6c3e4188c41d4be_all_paired_sample_manifest.tsv",
+      "sha256": "c6c3e4188c41d4be99ac739a1bf6401c28f1025c70eeb85ad0850fae5508b27a",
+      "bytes": 562943
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__EARLY_ARTHRITIS_LYMPHOCYTES__paired_sample_manifest_tsv",
+      "file": "data/1553458ee8066b65_paired_sample_manifest.tsv",
+      "sha256": "1553458ee8066b65d3ce4cae2255d26b86e0c07862d472441362f399051147dd",
+      "bytes": 333726
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__EARLY_ARTHRITIS_LYMPHOCYTES__sample_RNA_QC_tsv",
+      "file": "data/23d68d4ce8e25054_sample_RNA_QC.tsv",
+      "sha256": "23d68d4ce8e25054baf14c208d947ba4f46d8889e7253505df2ed90060321353",
+      "bytes": 20928
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__EARLY_ARTHRITIS_LYMPHOCYTES_saved_input_QA_json",
+      "file": "data/57723309bbd35112_EARLY_ARTHRITIS_LYMPHOCYTES_saved_input_QA.json",
+      "sha256": "57723309bbd3511256fca3d86e2d69cafbf9e6ff00c28de754dea4377eb982bd",
+      "bytes": 2746
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__GCA_MONOCYTES__all_paired_sample_manifest_tsv",
+      "file": "data/eb80a907bc89d8dd_sample_manifest.tsv",
+      "sha256": "eb80a907bc89d8dde323338cdd5637a49756e577e0a2e91b3377d3e1018a7aaa",
+      "bytes": 519254
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__GCA_MONOCYTES__paired_sample_manifest_tsv",
+      "file": "data/a3df18718377eb05_paired_sample_manifest.tsv",
+      "sha256": "a3df18718377eb05dc9e261f3ba8e4b225b2b03f341f1fcdd8ec0c2dc451058f",
+      "bytes": 424467
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__GCA_MONOCYTES__source_metadata_discrepancy_ledger_tsv",
+      "file": "data/8fc3e76035838d78_source_metadata_discrepancy_ledger.tsv",
+      "sha256": "8fc3e76035838d78b1d3d2478442ffff40d2918b6d76f3b0da5da9fe641e50b9",
+      "bytes": 15376
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__GCA_MONOCYTES__sample_DNA_QC_tsv",
+      "file": "data/806d59320eadf19f_sample_DNA_QC.tsv",
+      "sha256": "806d59320eadf19fed9d72d36acf12f0f314a5b180f8bff613cd3bed3c725fdc",
+      "bytes": 3022
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__GCA_MONOCYTES__sample_RNA_QC_tsv",
+      "file": "data/0f337a2cb48bc50f_sample_RNA_QC.tsv",
+      "sha256": "0f337a2cb48bc50f01ecd9ec5ca12a9a81b99bfb70927b68355b6b75bae8a95a",
+      "bytes": 9332
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__GCA_MONOCYTES_saved_input_QA_json",
+      "file": "data/9fb56e04b6132d3a_GCA_MONOCYTES_saved_input_QA.json",
+      "sha256": "9fb56e04b6132d3afb1aade3f1cbaae3b346fe63ed6c37e177316926bffcb969",
+      "bytes": 1813
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__GCA_MONOCYTES_independent_preparation_validation_json",
+      "file": "data/58fa9999a97e77ab_GCA_MONOCYTES_independent_preparation_validation.json",
+      "sha256": "58fa9999a97e77abc3d678948ba771752f632edf3a38577ddb3b8789134a94c7",
+      "bytes": 3586
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__GCA_native_TMM_precision_adjudication_json",
+      "file": "data/0e3fa9adbac33403_GCA_native_TMM_precision_adjudication.json",
+      "sha256": "0e3fa9adbac33403cb7b32d304679b18fab5c761183485192a5c75c8a879d073",
+      "bytes": 3129
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__GCA_MONOCYTES__RNA_gene_mapping_audit_tsv",
+      "file": "data/979f5056fb00ba41_RNA_gene_mapping_audit.tsv",
+      "sha256": "979f5056fb00ba413f70de8903dbbedfa0f65b079138429319d8cecf401ff655",
+      "bytes": 3247815
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__GCA_MONOCYTES__gene_expression_QC_tsv",
+      "file": "data/4c4c50962e0b91ed_gene_expression_QC.tsv",
+      "sha256": "4c4c50962e0b91ed4b1fbcd7b6981937d9188030f00cf61f743b17596f6b85e4",
+      "bytes": 2716870
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__GCA_MONOCYTES__rna_raw_symbol_counts_tsv_gz",
+      "file": "data/050871deaf7a4ce9_rna_raw_symbol_counts.tsv.gz",
+      "sha256": "050871deaf7a4ce91b382e2d989807ee0b1b72c6be374905dfd1aee299744ce6",
+      "bytes": 4577950
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__GCA_MONOCYTES__rna_normalized_CPM_tsv_gz",
+      "file": "data/398b19267ace2b9a_rna_normalized_CPM.tsv.gz",
+      "sha256": "398b19267ace2b9abe8c61d137caf71ced4948de55f4b42f41d35256e24fa4d4",
+      "bytes": 20751321
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__GCA_MONOCYTES__source_original_library_totals_tsv",
+      "file": "data/2eac83568ef91751_source_original_library_totals.tsv",
+      "sha256": "2eac83568ef91751ff81cbd7e8e9dd1d3728d3f49dbca53a9bd3cd8975933f6d",
+      "bytes": 2628
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__IBD_epithelium__all_paired_sample_manifest_tsv",
+      "file": "data/c0f784cc18ec5fba_sample_manifest.tsv",
+      "sha256": "c0f784cc18ec5fba0170702a95188839533a5cbb03626770195ff6351b5e183a",
+      "bytes": 57749
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__IBD_epithelium_saved_input_QA_json",
+      "file": "data/c81382250337e1e4_IBD_epithelium_saved_input_QA.json",
+      "sha256": "c81382250337e1e43173a0644ab45b4662dbb990fd543318da4e5ccb798a9b9e",
+      "bytes": 2072
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__MS_BRAIN__all_paired_sample_manifest_tsv",
+      "file": "data/91f889864ec4dda9_all_paired_sample_manifest.tsv",
+      "sha256": "91f889864ec4dda9332fba157254c29ab372ada124a18fc1b46733184765fa59",
+      "bytes": 26960
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__MS_BRAIN__paired_sample_manifest_tsv",
+      "file": "data/b5c5a18a075e6539_paired_sample_manifest.tsv",
+      "sha256": "b5c5a18a075e6539bc3fccb4a879afae6bae8836aca1333ab79332e1ac28d7b3",
+      "bytes": 11345
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__MS_BRAIN__source_metadata_discrepancy_ledger_tsv",
+      "file": "data/a3665e7ca0e0eb41_source_metadata_discrepancy_ledger.tsv",
+      "sha256": "a3665e7ca0e0eb41b7f8b7186e52d1dd7beeab7e157d5cd9aef2178c8c9030ab",
+      "bytes": 1095
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__MS_BRAIN_saved_input_QA_json",
+      "file": "data/3e542181c7a6b1ec_MS_BRAIN_saved_input_QA.json",
+      "sha256": "3e542181c7a6b1ecd8add5346e490f52e09f967805bde06d99efc032bc772fe0",
+      "bytes": 1941
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__POSTOPERATIVE_PBMC__all_paired_sample_manifest_tsv",
+      "file": "data/5792fb94f9a24bbc_all_paired_sample_manifest.tsv",
+      "sha256": "5792fb94f9a24bbc8688e448c2a3a3e5a618d07030f4e0ea5d9e3b994e24c969",
+      "bytes": 196346
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__POSTOPERATIVE_PBMC__paired_sample_manifest_tsv",
+      "file": "data/66049fedc16ce66a_paired_sample_manifest.tsv",
+      "sha256": "66049fedc16ce66aec74003818e6044229963e77f3cbe544901f34c067e568d6",
+      "bytes": 88751
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__POSTOPERATIVE_PBMC__source_metadata_discrepancy_ledger_tsv",
+      "file": "data/3f75ede60c2259dd_source_metadata_discrepancy_ledger.tsv",
+      "sha256": "3f75ede60c2259ddda4036628c395ad3badda8476d94392bc1e41f567699b215",
+      "bytes": 30797
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__POSTOPERATIVE_PBMC__sample_DNA_QC_tsv",
+      "file": "data/db4130c15767b5cc_sample_DNA_QC.tsv",
+      "sha256": "db4130c15767b5cc1970d9a97880f3d32d5774e32e12fbc56a3a1aaa90ca679a",
+      "bytes": 12083
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__POSTOPERATIVE_PBMC__sample_RNA_QC_tsv",
+      "file": "data/7fd6b62bddd3e137_sample_RNA_QC.tsv",
+      "sha256": "7fd6b62bddd3e137b9d85edf8bcfe3c606bab0d5d28cf794be282bcbef76cd64",
+      "bytes": 9519
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__POSTOPERATIVE_PBMC__native_IDAT_manifest_tsv",
+      "file": "data/4a46a45f21f3277f_native_IDAT_manifest.tsv",
+      "sha256": "4a46a45f21f3277f9f7270062bad3f5d481a360bda04175271e5dec8a6662b48",
+      "bytes": 34676
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__POSTOPERATIVE_PBMC_saved_input_QA_json",
+      "file": "data/a37044b7381f95f4_POSTOPERATIVE_PBMC_saved_input_QA.json",
+      "sha256": "a37044b7381f95f4a89611da00ac3d78fe15b988da2d82d71ac474fa9d7b4d10",
+      "bytes": 2262
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__POSTOPERATIVE_PBMC_independent_preparation_validation_json",
+      "file": "data/a5af282d217972e8_POSTOPERATIVE_PBMC_independent_preparation_validation.json",
+      "sha256": "a5af282d217972e8ae2d5f26f7a216896d98fb27629147c78beca789656bb143",
+      "bytes": 5657
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__PSID_native_TMM_precision_adjudication_json",
+      "file": "data/bcee5bcfe8be30e5_PSID_native_TMM_precision_adjudication.json",
+      "sha256": "bcee5bcfe8be30e512b8319772c26941629090c3dec5ea57db8b1e177c379c3e",
+      "bytes": 3721
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__POSTOPERATIVE_PBMC__rna_raw_symbol_counts_tsv_gz",
+      "file": "data/0991ade8a06b353f_rna_raw_symbol_counts.tsv.gz",
+      "sha256": "0991ade8a06b353f369bc4dc56b12b2b168ab3ca3ed9aee663886af291c7151b",
+      "bytes": 4662885
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__POSTOPERATIVE_PBMC__rna_normalized_CPM_tsv_gz",
+      "file": "data/c15769753fc7eaa3_rna_normalized_CPM.tsv.gz",
+      "sha256": "c15769753fc7eaa345374df724f40e7d2ff5571fbff1039607bc916bb84a8e2f",
+      "bytes": 21570285
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__POSTOPERATIVE_PBMC_preparation_queue_json",
+      "file": "data/29dab3ebf49fd47a_POSTOPERATIVE_PBMC_preparation_queue.json",
+      "sha256": "29dab3ebf49fd47a5b0071a32a3f4bde3662209cb3599da32e7f6bf3f6df9d5e",
+      "bytes": 1678
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Raw__GSE184039__GSE184039_matrix_tsv_gz",
+      "file": "data/decc2337f104c493_GSE184039_matrix.tsv.gz",
+      "sha256": "decc2337f104c49312a29376f66b7b588c4760d4ee277a1b84d25d23dd2dbb24",
+      "bytes": 5069875
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Intermediate__POSTOPERATIVE_PBMC_minfi__chunk_00_receipt_json",
+      "file": "data/7716b35bb2ba4ba0_chunk_00_receipt.json",
+      "sha256": "7716b35bb2ba4ba0c1b61899dbfac6948ef9d1bf5d4149f038c58471965b9819",
+      "bytes": 12390
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Intermediate__POSTOPERATIVE_PBMC_minfi__chunk_01_receipt_json",
+      "file": "data/d6545a9fdae282d1_chunk_01_receipt.json",
+      "sha256": "d6545a9fdae282d15705dc31375eb48c100e9b4a7e624f1385947ff282a7b739",
+      "bytes": 12039
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Intermediate__POSTOPERATIVE_PBMC_minfi__chunk_02_receipt_json",
+      "file": "data/f9a6e89e25ba4dcc_chunk_02_receipt.json",
+      "sha256": "f9a6e89e25ba4dccfff1e2705628f950df08aa90f2442a4f8d54951235ce3192",
+      "bytes": 12039
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Intermediate__POSTOPERATIVE_PBMC_minfi__chunk_03_receipt_json",
+      "file": "data/72ac36824e9fb40b_chunk_03_receipt.json",
+      "sha256": "72ac36824e9fb40b6525c41bf99af9c41c6ae7c6cb10a2de34b878925b5c19ef",
+      "bytes": 12039
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Intermediate__POSTOPERATIVE_PBMC_minfi__chunk_04_receipt_json",
+      "file": "data/8ce19fb8d4ef0ef6_chunk_04_receipt.json",
+      "sha256": "8ce19fb8d4ef0ef6c8b02df48ab303d3cb340af9a961cd8cb725e10d6a062b32",
+      "bytes": 12039
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Intermediate__POSTOPERATIVE_PBMC_minfi__chunk_05_receipt_json",
+      "file": "data/3ea0f3cb315dee79_chunk_05_receipt.json",
+      "sha256": "3ea0f3cb315dee79ccbec40f8cc2650928304764a3c433f10707ba4ac76437d9",
+      "bytes": 12039
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Intermediate__POSTOPERATIVE_PBMC_minfi__chunk_06_receipt_json",
+      "file": "data/629c948b55d84b15_chunk_06_receipt.json",
+      "sha256": "629c948b55d84b152af129d94e38a816310b7fa4a9b7bc3f3fd5cb2dbe80dd39",
+      "bytes": 12039
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Intermediate__POSTOPERATIVE_PBMC_minfi__chunk_07_receipt_json",
+      "file": "data/c2aeb29472e26f99_chunk_07_receipt.json",
+      "sha256": "c2aeb29472e26f993d149d41feccc2e0c3a028992fc2337510af59e263bd67d8",
+      "bytes": 8199
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__PSORIASIS_skin__all_paired_sample_manifest_tsv",
+      "file": "data/77f3f30db2a81873_sample_manifest.tsv",
+      "sha256": "77f3f30db2a818737f512cf1bbbb648f91585179c53215332a496c1fb98f0836",
+      "bytes": 20985
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__PSORIASIS_skin_saved_input_QA_json",
+      "file": "data/eeb790e7ab537a9b_PSORIASIS_skin_saved_input_QA.json",
+      "sha256": "eeb790e7ab537a9b3f2149ca099b9ba65f2b0b3d6d6facaad78d96d0ba02aa0b",
+      "bytes": 1912
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__SLE_PBMC__all_paired_sample_manifest_tsv",
+      "file": "data/8bd91609d49c8284_sample_manifest.tsv",
+      "sha256": "8bd91609d49c82846e93d7e2d7bfe768dfd9b837775de660e012e30da609558b",
+      "bytes": 62130
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__SLE_PBMC__paired_sample_manifest_tsv",
+      "file": "data/da64900c75546e1d_paired_sample_manifest.tsv",
+      "sha256": "da64900c75546e1db57d71c13d3f91f0e5515a0bd7f1f4aad746781d6099f842",
+      "bytes": 30985
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__SLE_PBMC_saved_input_QA_json",
+      "file": "data/551177b0434b3dc5_SLE_PBMC_saved_input_QA.json",
+      "sha256": "551177b0434b3dc520664220f0ffa6d34129869dd61ccdda3798c6a50dd5a1a7",
+      "bytes": 1948
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__SSC_CD4__all_paired_sample_manifest_tsv",
+      "file": "data/d8a3c8b98d4528d4_sample_manifest.tsv",
+      "sha256": "d8a3c8b98d4528d443725ad9c8c90a32021ff5bf84f8b70496a76c1b1ee24e67",
+      "bytes": 89534
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__SSC_CD4__paired_sample_manifest_tsv",
+      "file": "data/9c2e1a09cb1c6efb_paired_sample_manifest.tsv",
+      "sha256": "9c2e1a09cb1c6efb3105942e410179165bc85ee5326c68a302e676381227899f",
+      "bytes": 50086
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__SSC_CD4__source_metadata_discrepancy_ledger_tsv",
+      "file": "data/b3c14afc24a4d650_source_metadata_discrepancy_ledger.tsv",
+      "sha256": "b3c14afc24a4d650c315703d0c049ec8e583e09ba6f46a00dd4c777ec98ad1dd",
+      "bytes": 1080
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__SSC_CD4__sample_DNA_QC_tsv",
+      "file": "data/ae7f4ac6d4a99e1e_sample_DNA_QC.tsv",
+      "sha256": "ae7f4ac6d4a99e1e771dca84c511ce230f6b64b96a3e8b326b5c45821927ec7b",
+      "bytes": 3103
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__SSC_CD4__sample_RNA_QC_tsv",
+      "file": "data/f33e09ac609fccc7_sample_RNA_QC.tsv",
+      "sha256": "f33e09ac609fccc74d4a35926ef1b1fc8fea7062475cc929851e01ea60649097",
+      "bytes": 1597
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Data__Processed__SSC_CD4__native_GSM_Sentrix_mapping_tsv",
+      "file": "data/d41b6ee7e644b7c5_native_GSM_Sentrix_mapping.tsv",
+      "sha256": "d41b6ee7e644b7c5f0bb679a6b1444b60e854ac67683c3b14f98ce8743f304f4",
+      "bytes": 9374
+    },
+    {
+      "role": "inflammatory_preparation_evidence_Audit__SSC_CD4_saved_input_QA_json",
+      "file": "data/e28fc1e176b17525_SSC_CD4_saved_input_QA.json",
+      "sha256": "e28fc1e176b17525195ae2dc595f18401079e4d93041a878ac1eec53f981cd28",
+      "bytes": 1807
+    },
+    {
+      "role": "broad_cell_GSE103322_HNSCC_all_data_txt_gz",
+      "file": "data/51a5a3bb4f3ff8e3_GSE103322_HNSCC_all_data.txt.gz",
+      "sha256": "51a5a3bb4f3ff8e326655ec613a10c9f895f9d5c943ce01c815303868b6e3a0b",
+      "bytes": 90226510
+    },
+    {
+      "role": "broad_cell_GSE103322_series_soft",
+      "file": "data/548d0be25a66fe92_GSE103322_series.soft",
+      "sha256": "548d0be25a66fe92d5f3a52d78bd8434334ee7c5dbf5ce676c0e5f754382f85a",
+      "bytes": 190572
+    },
+    {
+      "role": "broad_cell_Puram_2017_primary_article_html",
+      "file": "data/28203248668b04be_Puram_2017_primary_article.html",
+      "sha256": "28203248668b04bee96216e71f9fba1f9c5f0ff8c590c12b327955d2c52810d1",
+      "bytes": 364845
+    },
+    {
+      "role": "broad_cell_GSE131907_Lung_Cancer_raw_UMI_matrix_txt_gz",
+      "file": "data/b44a9c6635d0b59e_GSE131907_Lung_Cancer_raw_UMI_matrix.txt.gz",
+      "sha256": "b44a9c6635d0b59ec66b5eb6b40b40e7292c3a75aaf8afc4f933eb0550a26372",
+      "bytes": 408736818
+    },
+    {
+      "role": "broad_cell_GSE131907_Lung_Cancer_cell_annotation_txt_gz",
+      "file": "data/9d017652a31a489c_GSE131907_Lung_Cancer_cell_annotation.txt.gz",
+      "sha256": "9d017652a31a489c1f62cacc436936d48a5b07bb554fc0dbe602da7474532205",
+      "bytes": 1886187
+    },
+    {
+      "role": "broad_cell_Kim_2020_LUAD_primary_article_html",
+      "file": "data/bb534cd39d2ea587_Kim_2020_LUAD_primary_article.html",
+      "sha256": "bb534cd39d2ea5877476a0da12d18487fcf6ee8991bf0d82ab7272c5b6b401a4",
+      "bytes": 277201
+    },
+    {
+      "role": "broad_cell_EuropePMC_supplementary_files_zip",
+      "file": "data/e09ac784bbf78c4b_EuropePMC_supplementary_files.zip",
+      "sha256": "e09ac784bbf78c4b620088665e29b732e9e9f8daf8545f04441349885e8a4f49",
+      "bytes": 53016002
+    },
+    {
+      "role": "broad_cell_41467_2020_16164_MOESM4_ESM_xlsx",
+      "file": "data/1601fcfd9deb5fbf_41467_2020_16164_MOESM4_ESM.xlsx",
+      "sha256": "1601fcfd9deb5fbfbba2e93653a0f69ec5a1305fe4eb345ac546feb5eac54878",
+      "bytes": 16522
+    },
+    {
+      "role": "broad_cell_GSE127465_human_counts_normalized_54773x41861_mtx_gz",
+      "file": "data/899ef3c67fc7505d_GSE127465_human_counts_normalized_54773x41861.mtx.gz",
+      "sha256": "899ef3c67fc7505d4ce3f9d184897513a47bb9c3b2f06234a5dc3b52d6c3915b",
+      "bytes": 528303938
+    },
+    {
+      "role": "broad_cell_GSE127465_gene_names_human_41861_tsv_gz",
+      "file": "data/614f0e3e831c03da_GSE127465_gene_names_human_41861.tsv.gz",
+      "sha256": "614f0e3e831c03dad88086e2d1e0bce9505d19b9ef2d567a6e97bc8e120a31c4",
+      "bytes": 104690
+    },
+    {
+      "role": "broad_cell_GSE127465_human_cell_metadata_54773x25_tsv_gz",
+      "file": "data/74d07d798bb0dd09_GSE127465_human_cell_metadata_54773x25.tsv.gz",
+      "sha256": "74d07d798bb0dd09078e4bd19267c55541c29fa8752d102740d318fc90d503a5",
+      "bytes": 4092351
+    },
+    {
+      "role": "broad_cell_GSE127465_load_human_data_align_with_unfiltered_html_gz",
+      "file": "data/dd6823d7fdb80f13_GSE127465_load_human_data_align_with_unfiltered.html.gz",
+      "sha256": "dd6823d7fdb80f13465a09784a4564916c4fde5fb72baeaa302a4fdea19276d4",
+      "bytes": 243289
+    },
+    {
+      "role": "broad_cell_GSE127465_series_soft",
+      "file": "data/be51e597ddb09e2f_GSE127465_series.soft",
+      "sha256": "be51e597ddb09e2fb5a24bbb217619314b0d80086b1bd696ee24fb36a606a586",
+      "bytes": 5927
+    },
+    {
+      "role": "broad_cell_GSM3635278_p1_tumor_soft",
+      "file": "data/97baca41afd01556_GSM3635278_p1_tumor.soft",
+      "sha256": "97baca41afd01556aaf4a61ccdd033984227b0aa6a3b32dba5bc43a273b9981b",
+      "bytes": 6565
+    },
+    {
+      "role": "broad_cell_GSM3635285_p2_tumor_soft",
+      "file": "data/96346f0e29f4dd64_GSM3635285_p2_tumor.soft",
+      "sha256": "96346f0e29f4dd64aa23cc1a15bbf14596bbdd6f3f51223c2cfdd2da99cb0b6f",
+      "bytes": 6629
+    },
+    {
+      "role": "broad_cell_GSM3635288_p3_tumor_soft",
+      "file": "data/ad15d284890355bf_GSM3635288_p3_tumor.soft",
+      "sha256": "ad15d284890355bf001a97ed0e7e694fe3f56b678f7fb05954bb5beb5a65dd83",
+      "bytes": 6559
+    },
+    {
+      "role": "broad_cell_GSM3635292_p4_tumor_soft",
+      "file": "data/558af19d94336c8b_GSM3635292_p4_tumor.soft",
+      "sha256": "558af19d94336c8b6c51ad2d8bca719918ce7f549cda14b6f8b7b3a920793722",
+      "bytes": 6557
+    },
+    {
+      "role": "broad_cell_GSM3635296_p5_tumor_soft",
+      "file": "data/a986d765a5ed0b87_GSM3635296_p5_tumor.soft",
+      "sha256": "a986d765a5ed0b873ac7416427dbde4a04d736b799d895e00bda26f615f93a27",
+      "bytes": 6557
+    },
+    {
+      "role": "broad_cell_GSM3635298_p6_tumor_soft",
+      "file": "data/26599e0ea345c81e_GSM3635298_p6_tumor.soft",
+      "sha256": "26599e0ea345c81e61c76ac689b7a0ceced1b1cec0d6726941f3db7fa1a37458",
+      "bytes": 6557
+    },
+    {
+      "role": "broad_cell_GSM3635301_p7_tumor_soft",
+      "file": "data/911f5f1aec064439_GSM3635301_p7_tumor.soft",
+      "sha256": "911f5f1aec06443952d726eb470b6e3076c9d901f275dd7c69d02f767826c578",
+      "bytes": 6560
+    },
+    {
+      "role": "core_extended.frozen_BASELINE_RESULT_FREEZE_json",
+      "file": "data/6152c4dcfadcf828_BASELINE_RESULT_FREEZE.json",
+      "sha256": "6152c4dcfadcf828306534a78a5ae1c7904c4197eb8e14913fcff7f5c1bbed26",
+      "bytes": 1986549
+    },
+    {
+      "role": "core_extended.frozen_FREEZE_SHA256_tsv",
+      "file": "data/273a8b2e6db84d43_FREEZE_SHA256.tsv",
+      "sha256": "273a8b2e6db84d43fbc531b82776cb861cd85fe8fea61f22c884fbcae595968a",
+      "bytes": 1248
+    },
+    {
+      "role": "core_extended.frozen_GINGIVITIS_EXPLORATORY_PLAN_md",
+      "file": "data/e276ee5ab6772058_GINGIVITIS_EXPLORATORY_PLAN.md",
+      "sha256": "e276ee5ab6772058f80261bbcaa0a85716365877fbdd2144a1a13f7bc39da8f1",
+      "bytes": 2229
+    },
+    {
+      "role": "core_extended.frozen_EXTERNAL_VALIDATION_TARGET_FREEZE_v2_tsv",
+      "file": "data/ff2195d648aaac49_EXTERNAL_VALIDATION_TARGET_FREEZE_v2.tsv",
+      "sha256": "ff2195d648aaac49c1d0d5fab5d4ab1114dad469445965389b3820bd2988bc8b",
+      "bytes": 10654
+    },
+    {
+      "role": "core_extended.frozen_ROBUSTNESS_PLAN_md",
+      "file": "data/5ff9aeb3e14169cc_ROBUSTNESS_PLAN.md",
+      "sha256": "5ff9aeb3e14169cce192d47cddeb3a5450ec2ad160957d88b566881b7ea39cf8",
+      "bytes": 3179
+    },
+    {
+      "role": "core_extended.zhou_mask",
+      "file": "data/91452090f6b9c0f3_zhou_general_mask_all_probes.tsv.gz",
+      "sha256": "91452090f6b9c0f3edafc45dead9d9dcb91848867b6ab4ae7d16e4b3082d2d44",
+      "bytes": 4193088
+    },
+    {
+      "role": "core_extended.zhou_focal_masks",
+      "file": "data/b85e811a851c0e3a_zhou2016_focal_masks.tsv",
+      "sha256": "b85e811a851c0e3a807699aacfb3dec181b3ed905de361d3b7428dc68be8e75e",
+      "bytes": 6718
+    },
+    {
+      "role": "core_extended.chen_450k",
+      "file": "data/4e962d36821f6f6f_chen2013_48639_nonspecific_450k.csv",
+      "sha256": "4e962d36821f6f6fcd8b81cc0558090c028e54fbdb2c039a5712f9b471d9d89e",
+      "bytes": 569533
+    },
+    {
+      "role": "core_extended.geo_sample_metadata",
+      "file": "data/04cb340364d57cd5_geo_sample_metadata.tsv",
+      "sha256": "04cb340364d57cd5079a4c12446fe540686baed87f4720e5fc9325237fdbe64d",
+      "bytes": 11502
+    },
+    {
+      "role": "core_extended.annotation_Table_S2_Discovery_families_tsv",
+      "file": "data/2c67b594bbe00e50_Table_S2_Discovery_families.tsv",
+      "sha256": "2c67b594bbe00e50d949c171ba438820e414016dff2a22abb13d6e0c24f95d33",
+      "bytes": 19277
+    },
+    {
+      "role": "core_extended.annotation_Table_S8b_Gene_link_annotation_all_65_sites_tsv",
+      "file": "data/209a82a6db15e75c_Table_S8b_Gene_link_annotation_all_65_sites.tsv",
+      "sha256": "209a82a6db15e75c11716f7396112deef4d9e21cd706d13e4d8779961e0eea7f",
+      "bytes": 4183
+    },
+    {
+      "role": "core_extended.small_target_matrix",
+      "file": "data/ff600c3809b2a847_M_selected_and_constituent_cpgs.tsv",
+      "sha256": "ff600c3809b2a847b42ba19902a606125855791bd38aeb4834171bb50a982193",
+      "bytes": 80181
+    },
+    {
+      "role": "core_extended.sampled_matrix",
+      "file": "data/f097f74dc5c6eb5a_M_every_40th_site.tsv",
+      "sha256": "f097f74dc5c6eb5a067323e02124c305b43f5e54b7eb6c4632eb90bcb4c5f06b",
+      "bytes": 12669153
+    },
+    {
+      "role": "core_extended.kegg_link",
+      "file": "data/5f03e3ffc03547d0_kegg_link_hsa_2026-09-20.tsv",
+      "sha256": "5f03e3ffc03547d065cffb8c4a538007a143648e48b8de37ae528e87459f11b1",
+      "bytes": 924036
+    },
+    {
+      "role": "core_extended.kegg_names",
+      "file": "data/345290b203a665fa_kegg_pathway_list_hsa_2026-09-20.tsv",
+      "sha256": "345290b203a665fa7604f36ba51d78095a712c6c02820fb09fde82a5a90c0a3a",
+      "bytes": 22117
+    },
+    {
+      "role": "core_extended.noob_M",
+      "file": "data/3bb0f29fada25b48_matrix_M.tsv.gz",
+      "sha256": "3bb0f29fada25b48e1860dd2a3d0f0dc3eefb29e0534493d00a707ec00015267",
+      "bytes": 236673854
+    },
+    {
+      "role": "core_extended.quantile_M",
+      "file": "data/547761c5fddfd2cc_matrix_M.tsv.gz",
+      "sha256": "547761c5fddfd2cc8c23b1fe4a57a3f2ca68941273c673800fcb54c79dd71544",
+      "bytes": 235903315
+    },
+    {
+      "role": "core_extended.strict_M",
+      "file": "data/6d64bf504311eb67_matrix_M.tsv.gz",
+      "sha256": "6d64bf504311eb67bec589443339dd8eae05f236deb738535565f30af1af8b22",
+      "bytes": 212022481
+    },
+    {
+      "role": "core_extended.hg19_cache_16e366aba7ce_3148",
+      "file": "data/460f9c319873c3fe_16e366aba7ce_3148",
+      "sha256": "460f9c319873c3fed29a2c738d32b911dbb1b6b514acac35acbfd4a288d3f2de",
+      "bytes": 1048890
+    },
+    {
+      "role": "core_extended.hg19_cache_16e367b39b78f_experimenthub_sqlite3",
+      "file": "data/4cec2a60c68144b6_16e367b39b78f_experimenthub.sqlite3",
+      "sha256": "4cec2a60c68144b6222bf0c36ad5f8d4a76812db2393cd8cb2e95c43f1aff67f",
+      "bytes": 10175488
+    },
+    {
+      "role": "core_extended.hg19_cache_16e36a424c7d_16e36a424c7d_hub_index_rds",
+      "file": "data/aa803c6d340272dd_16e36a424c7d_16e36a424c7d_hub_index.rds",
+      "sha256": "aa803c6d340272dda06f860a7b7bbfb9a7fd3b3f6d7f3e1413704fe143d4a73b",
+      "bytes": 339271
+    },
+    {
+      "role": "core_extended.hg19_cache_BiocFileCache_sqlite",
+      "file": "data/519583e51d8bafdb_BiocFileCache.sqlite",
+      "sha256": "519583e51d8bafdbe2806ad0d77b4e41ff1566b6176f13c8de282a1e712f60c5",
+      "bytes": 20480
+    }
+  ]
+}

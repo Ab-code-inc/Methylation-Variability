@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "spec_sha256": "c77aa93895564bbafbcc1ecd4650fe471737d3cc1ad673faec14c3bcabe28c9d",
+  "analysis_code_sha256": "f7fe9cd90c462539552b60018e2ec663f49a86b8d8793abe7815bad84c556c00",
+  "embedded_archive_sha256": "5f719ac03f462123702d87e28a683898bef2f44a0e636c686e777c0a3186a6d5",
+  "embedded_sources": 453,
+  "public_static_input_roles": 451,
+  "public_unique_data_objects": 395,
+  "stages": 130,
+  "default_stages": 119
+}

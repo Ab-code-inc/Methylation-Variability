@@ -1,0 +1,82 @@
+{
+  "schema": "optional_R_reader_dependency_inventory_v1",
+  "scope": "Optional analysis of separately provided, approved annotated single-cell inputs; not needed by the public default run.",
+  "R": "4.5.3",
+  "lockfile": "renv-reader.lock",
+  "lockfile_sha256": "a28fd3c796057550abd5db5367d1b2e7ccf4af52051e4efd86be0836cf898039",
+  "package_count": 8,
+  "roots": [
+    "qs",
+    "Matrix"
+  ],
+  "packages": {
+    "BH": {
+      "version": "1.87.0-1",
+      "runtime_requirements": [],
+      "license_description": "BSL-1.0"
+    },
+    "Matrix": {
+      "version": "1.7-6",
+      "runtime_requirements": [
+        "grDevices",
+        "graphics",
+        "grid",
+        "lattice",
+        "methods",
+        "stats",
+        "utils"
+      ],
+      "license_description": "GPL (>= 2) | file LICENCE"
+    },
+    "RApiSerialize": {
+      "version": "0.1.4",
+      "runtime_requirements": [],
+      "license_description": "GPL (>= 2)"
+    },
+    "Rcpp": {
+      "version": "1.1.0",
+      "runtime_requirements": [
+        "methods",
+        "utils"
+      ],
+      "license_description": "GPL (>= 2)"
+    },
+    "RcppParallel": {
+      "version": "5.1.11-2",
+      "runtime_requirements": [],
+      "license_description": "GPL (>= 3)"
+    },
+    "lattice": {
+      "version": "0.23-1",
+      "runtime_requirements": [
+        "grDevices",
+        "graphics",
+        "grid",
+        "stats",
+        "utils"
+      ],
+      "license_description": "GPL (>= 2)"
+    },
+    "qs": {
+      "version": "0.27.3",
+      "runtime_requirements": [
+        "BH",
+        "RApiSerialize",
+        "Rcpp",
+        "stringfish"
+      ],
+      "license_description": "GPL-3"
+    },
+    "stringfish": {
+      "version": "0.16.0",
+      "runtime_requirements": [
+        "Rcpp",
+        "RcppParallel"
+      ],
+      "license_description": "GPL-3"
+    }
+  },
+  "missing_runtime_dependencies": [],
+  "runtime_boundary": "Restore into a separate R 4.5.3 library and invoke its Rscript for reader-profile stages. Do not mix this reader binary library with the R 4.6.1 primary library.",
+  "installation_validation": "Exact installed package metadata was recorded. A clean installation from the delivered lock has not been executed."
+}
