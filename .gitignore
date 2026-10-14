@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+archives/
+inputs/
+data/
+environment/
+results*/
+extracted-code/
+*.zip
+*.partial
